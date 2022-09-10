@@ -22,7 +22,7 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 - **Bônus**, Estudo dirigido. 10% 
 ## Material
 **Textbook** 
-- Magill, R., & Anderson, D. (2017). *Motor learning and control: Concepts and applications* are listed as supplemental readings.  
+- Magill, R., & Anderson, D. (2017). *Motor learning and control: Concepts and applications*
 
 ## Laboratórios
 
