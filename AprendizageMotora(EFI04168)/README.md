@@ -11,6 +11,7 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
   - Tuma A. Sexta-feira 08:30 à 11:50
   - Tuma B. Sexta-feira 13:30 as 16:30 
 - [**Plano de ensino**][1]
+-  
 
 ## Avaliação
 - Avaliaçao 1. 25%
@@ -24,8 +25,7 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 - Magill, R., & Anderson, D. (2017). *Motor learning and control: Concepts and applications* are listed as supplemental readings.  
 
 ## Laboratórios
-- [Lab 1][2]
-- [Lab][3]
+
 
 ## Cronograma
 
@@ -64,7 +64,7 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 | 13       | Dec 6      | 26          | Looking ahead: Research opportunities at Mac (OPTIONAL) |             |
 
 
-[1]:(https://nneurom.com)
-[2]:(https://nneurom.com)
-[3]:(https://nneurom.com)
-[4]:(https://nneurom.com)
+[1]:https://nneurom.com
+[2]:https://nneurom.com
+[3]:https://nneurom.com
+[4]:https://nneurom.com
