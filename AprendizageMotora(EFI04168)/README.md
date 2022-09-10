@@ -40,7 +40,7 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 
 | **Semana** | **Data**   | **Aula** | **Tópico**                                               | **Leitura**    |
 |----------|------------|-------------|---------------------------------------------------------|--------------- |
-| 1        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][10]|
+| 1        | Nov 18 A    | 1          | [Conteúedo][10]                                          |    [Leitura][10]|
 | 2        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
 | 3        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
 | 4        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
