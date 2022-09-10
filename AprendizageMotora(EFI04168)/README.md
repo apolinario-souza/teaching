@@ -64,5 +64,5 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 [3]:https://nneurom.com
 [4]:https://nneurom.com
 
-[10]:https://github.com/edftercio/teaching/blob/main/AprendizageMotora(EFI04168)/lectures/lecture1/teste-presenter.sozi.html
+[10]:https://github.com/edftercio/teaching/blob/main/AprendizageMotora(EFI04168)/lectures/lecture1/teste.sozi.html
 
