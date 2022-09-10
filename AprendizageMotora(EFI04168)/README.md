@@ -4,7 +4,7 @@
 />  </div>
 
 
-# **Aprendizagem Motora (EFI04168)**
+# **Aprendizagem Motora (EFI04168)**</center
 
 
 ## Descrição
