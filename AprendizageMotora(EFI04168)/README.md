@@ -1,9 +1,11 @@
 
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
+<img style="margin: 10px" src="https://github.com/edftercio/teaching/blob/main/AprendizageMotora(EFI04168)/img/cabecalho.png" alt="Python" height="150" 
+/>  </div>
 
-# EFI04168 - Aprendizagem Motora
+
+# **Aprendizagem Motora (EFI04168)**
+
 
 ## Descrição
 
