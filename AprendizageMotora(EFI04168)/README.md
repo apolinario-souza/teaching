@@ -8,8 +8,8 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 - **Professor:** Tércio Apolinário de Souza
 - **Monitores:**: 
 - **Horário:**
-  - Tuma A. Sexta-feira 08:30 à 11:50
-  - Tuma B. Sexta-feira 13:30 as 16:30 
+  - Tuma A. Sexta-feira 08:30 às 11:50h
+  - Tuma B. Sexta-feira 13:30 às 16:30h 
 - [**Plano de ensino**][1]
 
 
@@ -25,6 +25,8 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 - Magill, R., & Anderson, D. (2017). *Motor learning and control: Concepts and applications*
 
 ## Laboratórios
+- [Lab 1][1]
+- [Lab 2][1]
 
 
 ## Cronograma
