@@ -64,5 +64,5 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 [3]:https://nneurom.com
 [4]:https://nneurom.com
 
-[10]:https://cartermaclab.github.io/kinesiol-1e03/lectures/week-00/lecture-00_welcome/00_course-welcome.html
+[10]:https://github.com/edftercio/teaching/blob/main/AprendizageMotora(EFI04168)/lectures/lecture01/00_course-welcome.html
 
