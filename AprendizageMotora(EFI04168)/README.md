@@ -28,9 +28,10 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 - Autoavaliação. 10%
 - **Bônus**, Estudo dirigido. 10% 
 ## Material
-**Textbook** 
--[Magill, R., & Anderson, D. (2017). *Aprendizagem Motora: conceitos e aplicações*][2]
-- [Tani, G. O., & Corrêa, U. C. (2016). *Aprendizagem motora e o ensino do esporte*[3]
+**Textbook**
+
+- [Magill, R., & Anderson, D. (2017). *Aprendizagem Motora: conceitos e aplicações*][2]
+- [Tani, G. O., & Corrêa, U. C. (2016). *Aprendizagem motora e o ensino do esporte*][3]
 
 ## Laboratórios
 - [Lab 1][1]
