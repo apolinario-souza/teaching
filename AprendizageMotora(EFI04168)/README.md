@@ -23,9 +23,9 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 ## Avaliação
 - Avaliaçao 1. 25%
 - Avaliação 2. 25%
-- Relatório dos laboratórios. 20%
+- Relatório dos laboratórios. 10%
 - Projeto de pesquisa. 20%
-- Autoavaliação. 10%
+- Trabalho: Aprendizagem motora e o ensino do esporte. 20%
 - **Bônus**, Estudo dirigido. 10% 
 ## Material
 **Textbook**
