@@ -62,7 +62,8 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 ## Observações
 
 [1]:https://nneurom.com
-[3]:https://encurtador.com.br/jIQW3](https://eds.s.ebscohost.com/eds/viewarticle/render?data=dGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bNQsa2vSa6k63nn5Kx94um%2bUa2nskewprBKnqevUq6tuE2yls5lpOrweezp33vy3%2b2G59q7RbCvtEyvprNRspzxgeKzt1Cyq%2bR5s9mrUOCosEWyr%2bB5q6%2fiSa%2bj337gqrRM4NuxS7Wovorj2ueLpOLfhuWz7oyr2PA%2b4ti7feLp64HgnPJ55bO%2fZqTX7FXj2vGF59isSK6mrkmwr7FOpNztiuvX8lXk6%2bqE8tv2jKTd833x6rts8Ovj&vid=0&sid=9845fa5c-8b22-49ba-9d11-afb464be3372@redis)
+[2]:https://nneurom.com
+[3]:[https://encurtador.com.br/jIQW3](https://eds.s.ebscohost.com/eds/viewarticle/render?data=dGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bNQsa2vSa6k63nn5Kx94um%2bUa2nskewprBKnqevUq6tuE2yls5lpOrweezp33vy3%2b2G59q7RbCvtEyvprNRspzxgeKzt1Cyq%2bR5s9mrUOCosEWyr%2bB5q6%2fiSa%2bj337gqrRM4NuxS7Wovorj2ueLpOLfhuWz7oyr2PA%2b4ti7feLp64HgnPJ55bO%2fZqTX7FXj2vGF59isSK6mrkmwr7FOpNztiuvX8lXk6%2bqE8tv2jKTd833x6rts8Ovj&vid=0&sid=9845fa5c-8b22-49ba-9d11-afb464be3372@redis)](https://eds.p.ebscohost.com/eds/viewarticle/render?data=dGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bNQsa2vSa6k63nn5Kx94um%2bUa2nskewprBKnqeuUrOnuEquls5lpOrweezp33vy3%2b2G59q7Ra%2btsE2urbJQsqqki%2bfau0y2qLVPsqavRd%2fct3urquFN4qO2SbKvq3uyrLJJ5NezT%2bOnsljw2%2bKB8Zzqeezdu4jyo%2bCKpNrgVePa8YXn2KSM3927Wcyc34a72%2bKL69%2fgRq6mrkivqLdLtJzkh%2fDj34y73POE6urjkPKc5Y3j6fJV0ujzfQAA&vid=0&sid=48277401-af9c-4c5d-8149-c4641fa57e14@redis)
 [4]:https://nneurom.com
 
 [10]:https://github.com/edftercio/teaching/raw/main/AprendizageMotora(EFI04168)/lectures/lecture01/Relacao_entre_pratica_e_repouso.pdf
