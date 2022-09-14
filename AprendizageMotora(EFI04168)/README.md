@@ -62,7 +62,7 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 ## Observações
 
 [1]:https://nneurom.com
-[2]:encurtador.com.br/jIQW3
+[2]:https://encurtador.com.br/jIQW3
 [4]:https://nneurom.com
 
 [10]:https://github.com/edftercio/teaching/raw/main/AprendizageMotora(EFI04168)/lectures/lecture01/Relacao_entre_pratica_e_repouso.pdf
