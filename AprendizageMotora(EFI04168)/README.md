@@ -46,7 +46,7 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 | 2        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
 | 3        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
 | 4        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
-| 5        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
+| 5        | Nov 18 A    | 1          | [Teorias de AM: Reinforcement learnin][21]              |    [Leitura][21]|
 | 6        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
 | 7        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
 | 8        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
@@ -71,3 +71,4 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 
 [10]:https://github.com/edftercio/teaching/raw/main/AprendizageMotora(EFI04168)/lectures/lecture01/Relacao_entre_pratica_e_repouso.pdf
 
+[21:https://reader.elsevier.com/reader/sd/pii/S0301051119300468?token=2C1D072F98ADD5B95C6F76E359A382B9D5E1A295FF5428652DA301743842652F39709C31589B52FB441B869BF560789E&originRegion=us-east-1&originCreation=20220921192529
