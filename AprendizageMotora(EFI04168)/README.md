@@ -71,4 +71,4 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 
 [10]:https://github.com/edftercio/teaching/raw/main/AprendizageMotora(EFI04168)/lectures/lecture01/Relacao_entre_pratica_e_repouso.pdf
 
-[21:https://reader.elsevier.com/reader/sd/pii/S0301051119300468?token=2C1D072F98ADD5B95C6F76E359A382B9D5E1A295FF5428652DA301743842652F39709C31589B52FB441B869BF560789E&originRegion=us-east-1&originCreation=20220921192529
+[21]:https://reader.elsevier.com/reader/sd/pii/S0301051119300468?token=2C1D072F98ADD5B95C6F76E359A382B9D5E1A295FF5428652DA301743842652F39709C31589B52FB441B869BF560789E&originRegion=us-east-1&originCreation=20220921192529
