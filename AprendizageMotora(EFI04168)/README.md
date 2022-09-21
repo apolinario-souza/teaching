@@ -15,7 +15,7 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 - **Professor:** Tércio Apolinário de Souza
 - **Monitores:**: 
 - **Horário:**
-  - Tuma A. Sexta-feira 07:30 às 10:50h
+  - Tuma A. Sexta-feira 08:30 às 11:50h
   - Tuma B. Sexta-feira 13:30 às 16:30h 
 - [**Plano de ensino**][1]
 
