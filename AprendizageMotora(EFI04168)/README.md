@@ -12,7 +12,7 @@
 Aborda o processo ensino-aprendizagem de habilidades motoras. Discute os mecanismos internos que regulam o movimento, bem como os fatores 
 ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras nas diferentes fases da vida.
 
-- **Professor:** Tércio Apolinário de Souza, 
+- **Professor:** Tércio Apolinário de Souza
   - edf.tercio@hotmail.com 
   - Sala 220 no Lapex
 - **Monitores:** 
@@ -45,7 +45,8 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 
 | **Semana** | **Data**   | **Aula** | **Tópico**                                               | **Leitura**    |
 |----------|------------|-------------|---------------------------------------------------------|--------------- |
-| 1        | Nov 18 A    | 1          | [Conteúedo][10]                                          |    [Leitura][10]|
+| 1        | Nov 18 A    | 1          | [Apresentação da disciplia][10]                                           |    [Leitura][10]|
+                                        [Introdução ] 
 | 2        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
 | 3        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
 | 4        | Nov 18 A    | 1          | [Conteúedo][1]                                          |    [Leitura][1]|
