@@ -1,6 +1,6 @@
 
 <div align="center">
-<img style="margin: 10px" src="https://github.com/edftercio/teaching/blob/main/AprendizageMotora(EFI04168)/img/cabecalho.png" alt="Python" height="150" 
+<img style="margin: 10px" src="https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/img/cabecalho.png" alt="Python" height="150" 
 />  </div>
 
 
@@ -12,12 +12,15 @@
 Aborda o processo ensino-aprendizagem de habilidades motoras. Discute os mecanismos internos que regulam o movimento, bem como os fatores 
 ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras nas diferentes fases da vida.
 
-- **Professor:** Tércio Apolinário de Souza
-- **Monitores:**: 
+- **Professor:** Tércio Apolinário de Souza, 
+  - edf.tercio@hotmail.com 
+  - Sala 220 no Lapex
+- **Monitores:** 
 - **Horário:**
   - Tuma A. Sexta-feira 08:30 às 11:50h
   - Tuma B. Sexta-feira 13:30 às 16:30h 
 - [**Plano de ensino**][1]
+
 
 
 ## Avaliação
@@ -69,6 +72,6 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 
 
 
-[10]:https://github.com/edftercio/teaching/raw/main/AprendizageMotora(EFI04168)/lectures/lecture01/Relacao_entre_pratica_e_repouso.pdf
+[10]:https://github.com/apolinario-souza/teaching/raw/main/AprendizageMotora(EFI04168)/lectures/lecture01/Relacao_entre_pratica_e_repouso.pdf
 
 [21]:https://reader.elsevier.com/reader/sd/pii/S0301051119300468?token=2C1D072F98ADD5B95C6F76E359A382B9D5E1A295FF5428652DA301743842652F39709C31589B52FB441B869BF560789E&originRegion=us-east-1&originCreation=20220921192529
