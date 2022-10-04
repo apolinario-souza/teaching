@@ -47,8 +47,8 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 
 | **Semana** | **Data**| **C.H.**  | **Tópico**                                              | **Referência**|  **Leitura**    |
 |----------|-----------|------------|---------------------------------------------------------|---------------|------------------|
-|1|18/11|3|[Fund. das habilidades e capacidades motoras][1]|Schmidt e Lee (2016) p. 2-15; Schmidt et al. (2019) p.19-95; Magill (2018) p.2-52|[1][10]|
-|2|25/11|6|[Introdução a aprendizagem motora][2]|Schmidt e Lee (2016) p. 176-226; Schmidt et al. (2019) p.409-436; Magill (2018) p.256-317|[2][2]|
+|1|18/11|3|[Introdução a aprendizagem motora][2]|Schmidt e Lee (2016) p. 176-226; Schmidt et al. (2019) p.409-436; Magill (2018) p.256-317|[2][2]|
+|2|25/11|6|[Fund. das habilidades e capacidades motoras][1]|Schmidt e Lee (2016) p. 2-15; Schmidt et al. (2019) p.19-95; Magill (2018) p.2-52|[1][10]|
 |3|18/11|9|[Teorias de Aprendizagem motora: visão geral][1]|    |[3][1]|
 |4|02/12|12|[Teoria de Esquema][1], parte 1                                |  |  [4][1]|
 |5|09/12|15|[Teoria de Esquema][1], parte 2             |   | [5][21]|
