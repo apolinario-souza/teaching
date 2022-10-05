@@ -33,8 +33,12 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 ## Material
 **Textbook**
 
-- [Magill, R., & Anderson, D. (2017). *Aprendizagem Motora: conceitos e aplicações*][2]
-- [Tani, G. O., & Corrêa, U. C. (2016). *Aprendizagem motora e o ensino do esporte*][3]
+- [Magill, R. (2018). *Aprendizagem Motora: conceitos e aplicações*][2]
+- [Schmidt, R. A.(2016). Aprendizagem e performance motora: dos princípios à aplicação. Artmed.][2]
+- [Schmidt, R. A.(2019). Motor control and learning: A behavioral emphasis. Human kinetics.][2]
+- [Tani, G. (2016). Comportamento motor: conceitos, estudos e aplicações.][2]
+- [Tani, G. & Corrêa, U. (2016). *Aprendizagem motora e o ensino do esporte. Editora Blucher.*][3]
+
 
 ## Laboratórios
 - [Lab 1][1]
