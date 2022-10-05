@@ -40,10 +40,6 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 - [Schmidt, R. A.(2019). Motor control and learning: A behavioral emphasis. Human kinetics.][2]
 
 
-## Laboratórios
-- [Lab 1][1]
-- [Lab 2][1]
-
 ## 
 
 
@@ -73,7 +69,6 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 | -        | -         | 57          | Projeto de pesquisa                                         |   
 | -        | -         | 60          | Projeto de pesquisa                                  |    
 
-## Observações
 
 [1]:https://apolinario-souza.github.io/lectures/week-00/lecture-00_welcome/00_course-welcome.html#1
 [2]:https://eds.p.ebscohost.com/eds/detail/detail?vid=2&sid=a16a2a62-9519-4f6c-b2c0-7d10e7d06874%40redis&bdata=JkF1dGhUeXBlPXNoaWImbGFuZz1wdC1iciZzY29wZT1zaXRl#AN=sabi.000277272&db=cat07377a
