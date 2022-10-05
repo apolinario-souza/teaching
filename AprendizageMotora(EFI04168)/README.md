@@ -33,11 +33,11 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 ## Material
 **Textbook**
 
-- [Magill, R. (2018). *Aprendizagem Motora: conceitos e aplicações*][2]
 - [Schmidt, R. A.(2016). Aprendizagem e performance motora: dos princípios à aplicação. Artmed.][2]
-- [Schmidt, R. A.(2019). Motor control and learning: A behavioral emphasis. Human kinetics.][2]
 - [Tani, G. (2016). Comportamento motor: conceitos, estudos e aplicações.][2]
 - [Tani, G. & Corrêa, U. (2016). *Aprendizagem motora e o ensino do esporte. Editora Blucher.*][3]
+- [Magill, R. (2018). *Motor Learning and Control: Concepts and Applications. New York: McGraw-Hill Publishing.*][2]
+- [Schmidt, R. A.(2019). Motor control and learning: A behavioral emphasis. Human kinetics.][2]
 
 
 ## Laboratórios
@@ -49,29 +49,29 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 
 ## Cronograma
 
-| **Semana** | **Data**| **C.H.**  | **Tópico**                                              | **Referência**|  **Leitura**    |
-|----------|-----------|------------|---------------------------------------------------------|---------------|------------------|
+| **Semana** | **Data**| **C.H.**  | **Tópico**                                              | **Referências**|
+|----------|-----------|------------|---------------------------------------------------------|---------------|
 |1|18/11|3|[Fundamentos das habilidades e capacidades motoras][1]|Schmidt (2016) p. 2-10;Schmidt (2019) p.19-53; Magill (2018) p.2-14;52-53|[1][10]|
-|2|25/11|6|[Medidas de desempenho motor][2]|Schmidt (2016) p. 10-15; Schmidt (2019) p.54-93; Magill (2018) p.26-28|[2][2]|
-|3|18/11|9|[Princípios e conceitos da aprendizagem motora][1]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436; Magill (2018) p.256-317|[3][1]|
-|4|02/12|12|[Teorias da aprendizagem motora][1]                         |  |  [4][1]|
-|5|09/12|15|[Teoria de Esquema][1]             |   | [5][21]|
-|6|27/01|18|[Transferência de aprendizagem][1]                                          |   | [6][1]|
-|7|03/02|21|Avaliação 1                                         |   | |
-|8|10/02|24|[Feedback][1]                                          |   | [8][1]|
-|9|17/02|27|[Variabilidade da prática][1]                                          |   | [9][1]|
-|10|24/02|30|[Prática sem erros: mental e observacional][1]                                          |   | [10][1]|
-|11|03/03|33|[Fragmentação da prática e Relação entre prática e repouso][1]                                          |   | [11][1]|
-|12|10/03|36|[Instrução Verbal, Demonstração e Metas][1]                                          |   | [12][1]|
+|2|25/11|6|[Medidas de desempenho motor][2]|Schmidt (2016) p. 10-15; Schmidt (2019) p.54-93; Magill (2018) p.26-28|
+|3|18/11|9|[Princípios e conceitos da aprendizagem motora][1]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436,530-563; Magill (2018) p.256-317|
+|4|02/12|12|[Teorias da aprendizagem motora][1]              |Magill (2018) p.85-111|
+|5|09/12|15|[Teoria de Esquema][1]             |Schmidt (2016) p. 107-119|
+|6|27/01|18|[Transferência de aprendizagem][1] |Schmidt (2016) p. 189-193; Schmidt (2019) p.593-604; Magill (2018) p.298-317|
+|7|03/02|21|Avaliação 1                        |  | |
+|8|10/02|24|[Feedback][1]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
+|9|17/02|27|[Variabilidade da prática][1]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 |
+|10|24/02|30|[Prática mental e observacional][1]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
+|11|03/03|33|[Fragmentação da prática e Relação entre prática e repouso][1]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
+|12|10/03|36|[Instrução verbal, demonstração e metas][1]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
 |13|17/03|39|Apresentação do Projeto de Pesquisa|   | |
-|14|24/03|42|Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"|   | |
-|15|31/03|45|Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"|   | |
-|16|14/04|48| Avaliação 2                                             |   | |
+|14|24/03|42|Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"|   | 
+|15|31/03|45|Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"|   | 
+|16|14/04|48| Avaliação 2                                             |   | 
 |------|||||------|
-|-         | -         | 51          | Projeto de pesquisa                                         |    -           |
-| -        | -         | 54          | Projeto de pesquisa                                         |    -           |
-| -        | -         | 57          | Projeto de pesquisa                                         |    -           |
-| -        | -         | 60          | Projeto de pesquisa                                  |    -           |
+|-         | -         | 51          | Projeto de pesquisa                                         |   
+| -        | -         | 54          | Projeto de pesquisa                                         |   
+| -        | -         | 57          | Projeto de pesquisa                                         |   
+| -        | -         | 60          | Projeto de pesquisa                                  |    
 
 ## Observações
 
