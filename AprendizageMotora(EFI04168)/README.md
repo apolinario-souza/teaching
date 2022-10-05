@@ -47,27 +47,27 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 
 | **Semana** | **Data**| **C.H.**  | **Tópico**                                              | **Referência**|  **Leitura**    |
 |----------|-----------|------------|---------------------------------------------------------|---------------|------------------|
-|1|18/11|3|[Introdução a aprendizagem motora][2]|Schmidt e Lee (2016) p. 176-226; Schmidt et al. (2019) p.409-436; Magill (2018) p.256-317|[2][2]|
-|2|25/11|6|[Fund. das habilidades e capacidades motoras][1]|Schmidt e Lee (2016) p. 2-15; Schmidt et al. (2019) p.19-95; Magill (2018) p.2-52|[1][10]|
-|3|18/11|9|[Teorias de Aprendizagem motora: visão geral][1]|    |[3][1]|
-|4|02/12|12|[Teoria de Esquema][1], parte 1                                |  |  [4][1]|
-|5|09/12|15|[Teoria de Esquema][1], parte 2             |   | [5][21]|
-|6|27/01|18|[Transferência de aprendizagem e revisão][1]                                          |   | [6][1]|
+|1|18/11|3|[Fundamentos das habilidades e capacidades motoras][1]|Schmidt (2016) p. 2-10;Schmidt (2019) p.19-53; Magill (2018) p.2-14;52-53|[1][10]|
+|2|25/11|6|[Medidas de desempenho motor][2]|Schmidt (2016) p. 10-15; Schmidt (2019) p.54-93; Magill (2018) p.26-28|[2][2]|
+|3|18/11|9|[Princípios e conceitos da aprendizagem motora][1]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436; Magill (2018) p.256-317|[3][1]|
+|4|02/12|12|[Teorias da aprendizagem motora][1]                         |  |  [4][1]|
+|5|09/12|15|[Teoria de Esquema][1]             |   | [5][21]|
+|6|27/01|18|[Transferência de aprendizagem][1]                                          |   | [6][1]|
 |7|03/02|21|Avaliação 1                                         |   | |
-|8|10/02|24|[Conteúedo][1]                                          |   | [8][1]|
-|9|17/02|27|[Conteúedo][1]                                          |   | [9][1]|
-|10|24/02|30|[Conteúedo][1]                                          |   | [10][1]|
-|11|03/03|33|[Conteúedo][1]                                          |   | [11][1]|
-|12|10/03|36|[Conteúedo][1]                                          |   | [12][1]|
-|13|17/03|39|[Conteúedo][1]                                          |   | [13][1]|
-|14|24/03|42|[Conteúedo][1]                                          |   | [14][1]|
-|15|31/03|45|[Conteúedo][1]                                          |   | [15][1]|
-|16|14/04|48| Avaliação 2                                             |   | [16][1]|
-|----------|-----------|------------ |---------------------------------------------------------|--------------- |
-|-         | -         | 51          | COLETA DE DADOS                                         |    -           |
-| -        | -         | 54          | COLETA DE DADOS                                         |    -           |
-| -        | -         | 57          | COLETA DE DADOS                                         |    -           |
-| -        | -         | 60          | ELABORAÇÃO DO TRABALHO                                  |    -           |
+|8|10/02|24|[Feedback][1]                                          |   | [8][1]|
+|9|17/02|27|[Variabilidade da prática][1]                                          |   | [9][1]|
+|10|24/02|30|[Prática sem erros: mental e observacional][1]                                          |   | [10][1]|
+|11|03/03|33|[Fragmentação da prática e Relação entre prática e repouso][1]                                          |   | [11][1]|
+|12|10/03|36|[Instrução Verbal, Demonstração e Metas][1]                                          |   | [12][1]|
+|13|17/03|39|Apresentação do Projeto de Pesquisa|   | |
+|14|24/03|42|Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"|   | |
+|15|31/03|45|Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"|   | |
+|16|14/04|48| Avaliação 2                                             |   | |
+|------|||||------|
+|-         | -         | 51          | Projeto de pesquisa                                         |    -           |
+| -        | -         | 54          | Projeto de pesquisa                                         |    -           |
+| -        | -         | 57          | Projeto de pesquisa                                         |    -           |
+| -        | -         | 60          | Projeto de pesquisa                                  |    -           |
 
 ## Observações
 
