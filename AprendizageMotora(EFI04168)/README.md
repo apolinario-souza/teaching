@@ -33,12 +33,12 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 ## Material
 **Textbook**
 
-- [Schmidt, R. A.(2016). Aprendizagem e performance motora: dos princípios à aplicação. Artmed.][2]
-- [Tani, G. (2016). Comportamento motor: conceitos, estudos e aplicações.][2]
-- [Tani, G., & Corrêa, U. (2016). *Aprendizagem motora e o ensino do esporte. Editora Blucher.*][3]
-- [Magill, R. (2018). *Motor Learning and Control: Concepts and Applications. New York: McGraw-Hill Publishing.*][2]
-- [Schmidt, R. A.(2019). Motor control and learning: A behavioral emphasis. Human kinetics.][2]
-- [Krakauer, J. W., & Carmichael, S. T. (2022). Broken movement: the neurobiology of motor recovery after stroke. MIT Press.][2]
+- Schmidt, R. A.(2016). *Aprendizagem e performance motora: dos princípios à aplicação*. Artmed.
+- Tani, G. (2016). *Comportamento motor: conceitos, estudos e aplicações*. Guanabara Koogan.
+- Tani, G., & Corrêa, U. (2016). *Aprendizagem motora e o ensino do esporte*. Editora Blucher.
+- Magill, R. (2018). *Motor Learning and Control: Concepts and Applications*. McGraw-Hill Publishing.
+- Schmidt, R. A.(2019). *Motor control and learning: A behavioral emphasis*. Human kinetics.
+- Krakauer, J. W., & Carmichael, S. T. (2022). *Broken movement: the neurobiology of motor recovery after stroke*. MIT Press.
 
 
 ## 
