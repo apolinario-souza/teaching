@@ -32,6 +32,7 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 - Weir, J. P., & Vincent, W. J. (2020). *Statistics in kinesiology*. Human Kinetics Publishers.
 - Sampaio, I. B. M. (2007). *Estatística aplicada á experimentadcao animal*. Fundadcao de Estudo e Pesquisa em Medicina Veterinaria,.
 - Salsburg, D. S. (2009). Uma senhora toma chá... como a estatística revolucionou a ciência no século XX (p. 190). Rio de Janeiro: Zahar.
+- [Navarro, D.J. & Foxcroft, D.R. (2019). learning statistics with jamovi: a tutorial for psychology students and other beginners. (Version 0.70).  DOI: 10.24384/hgc3-7p15.][0] 
 
 ## 
 
@@ -63,6 +64,7 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 | -        | -         | 60          | Projeto de pesquisa                                  |    
 
 
+[0]:https://drive.google.com/file/d/179HWv-fzqiAXbdgOUGSVA-H2u0AhEoo4/view
 [1]:https://apolinario-souza.github.io/lectures/week-00/lecture-00_welcome/00_course-welcome.html#1
 [2]:https://eds.p.ebscohost.com/eds/detail/detail?vid=2&sid=a16a2a62-9519-4f6c-b2c0-7d10e7d06874%40redis&bdata=JkF1dGhUeXBlPXNoaWImbGFuZz1wdC1iciZzY29wZT1zaXRl#AN=sabi.000277272&db=cat07377a
 [3]:https://eds.p.ebscohost.com/eds/viewarticle/render?data=dGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bNQsa2vSa6k63nn5Kx94um%2bUa2nskewprBKnqeuUrOnuEquls5lpOrweezp33vy3%2b2G59q7SbWvsk6uq69Jt5zxgeKzsk21reBI36mrSrWssEWy2OBPq9ivULOj4ny1q%2bF6rtquerHbvorj2ueLpOLfhuWz7oyr2PA%2b4ti7e9%2fqrk%2bxrbV5pOrff7u3zD7f5LuL39jnRq6mrkizqLBIsJzkh%2fDj34y73POE6urjkPKc5Y3j6fJV0ujzfQAA&vid=0&sid=4577b0a3-2762-4bb7-b185-dd75cb0d0b3e@redis
