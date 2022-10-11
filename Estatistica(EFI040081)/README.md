@@ -3,21 +3,19 @@
 />  </div>
 
 
-# **Aprendizagem Motora (EFI04168)**
+# **Estatística aplicada à Educação Física (EFI04168)**
 
 
 ## Descrição
 
-Aborda o processo ensino-aprendizagem de habilidades motoras. Discute os mecanismos internos que regulam o movimento, bem como os fatores 
-ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras nas diferentes fases da vida.
+Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa científica e na avaliação em Educação Física.
 
 - **Professor:** Tércio Apolinário de Souza
   - edf.tercio@hotmail.com 
   - Sala 220 no Lapex
 - **Monitores:** 
 - **Horário:**
-  - Tuma A. Sexta-feira 08:30 às 11:50h
-  - Tuma B. Sexta-feira 13:30 às 16:30h 
+  - Quinta-feira 17:30 às 20:50h
 - [**Plano de ensino**][1]
 
 
@@ -25,20 +23,15 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 ## Avaliação
 - Avaliaçao 1. 25%
 - Avaliação 2. 25%
-- Relatório dos laboratórios. 10%
-- Projeto de pesquisa. 20%
-- Trabalho: Aprendizagem motora e o ensino do esporte. 20%
+- Lista de atividades. 25%
+- Trabalho: "Estatística aplicada à Educação Física". 25%
 - **Bônus**, Estudo dirigido. 10% 
 ## Material
 **Textbook**
 
-- Schmidt, R. A.(2016). *Aprendizagem e performance motora: dos princípios à aplicação*. Artmed.
-- Tani, G. (2016). *Comportamento motor: conceitos, estudos e aplicações*. Guanabara Koogan.
-- Tani, G., & Corrêa, U. (2016). *Aprendizagem motora e o ensino do esporte*. Editora Blucher.
-- Magill, R. (2018). *Motor Learning and Control: Concepts and Applications*. McGraw-Hill Publishing.
-- Schmidt, R. A.(2019). *Motor control and learning: A behavioral emphasis*. Human kinetics.
-- Krakauer, J. W., & Carmichael, S. T. (2022). *Broken movement: the neurobiology of motor recovery after stroke*. MIT Press.
-
+- Weir, J. P., & Vincent, W. J. (2020). *Statistics in kinesiology*. Human Kinetics Publishers.
+- Sampaio, I. B. M. (2007). *Estatística aplicada á experimentadcao animal*. Fundadcao de Estudo e Pesquisa em Medicina Veterinaria,.
+- Salsburg, D. S. (2009). Uma senhora toma chá... como a estatística revolucionou a ciência no século XX (p. 190). Rio de Janeiro: Zahar.
 
 ## 
 
