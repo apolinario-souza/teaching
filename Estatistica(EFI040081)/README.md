@@ -53,15 +53,15 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 |10|23/02|30|[Análise de variância com medidas repetidas][1]|Weir e Vincent (2020), cap. 12|
 |11|03/03|33|[Análise fatorial][1]|Weir e Vincent (2020), cap. 14; Sampaio (2007) cap. 9| 
 |12|09/03|36|Revisão||
-|13|16/03|39|[Correlação e Regressão][1]| Weir e Vincent (2020), cap. 8 e cap. 9; Sampaio (2007) cap. 13|
-|14|23/03|42|Prática com Jamovi|Navarro e Foxcroft (2019)| 
+|13|16/03|39|[Correlação][1]| Weir e Vincent (2020), cap. 8; Sampaio (2007) cap. 13|
+|14|23/03|42|[Regressão][1]|Weir e Vincent (2020), cap. 9| 
 |15|30/03|45|Apresentação do Trabalho "Estatística aplicada à Educação Física"|   | 
 |16|13/04|48| **Avaliação 2**                                             |   | 
 |------|||||------|
 |-         | -         | 51          | Elaboração do trabalho                                         |   
 | -        | -         | 54          | Elaboração do trabalho                                        |   
-| -        | -         | 57          | Elaboração do trabalho                                         |   
-| -        | -         | 60          | Elaboração do trabalho                                  |    
+| -        | -         | 57          | [Prática com Jamovi][57]                                         |   
+| -        | -         | 60          | [Prática com Jamovi][57]                                 |    
 
 
 [0]:https://drive.google.com/file/d/179HWv-fzqiAXbdgOUGSVA-H2u0AhEoo4/view
@@ -76,3 +76,5 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 [10]:https://github.com/apolinario-souza/teaching/raw/main/AprendizageMotora(EFI04168)/lectures/lecture01/Relacao_entre_pratica_e_repouso.pdf
 
 [21]:https://reader.elsevier.com/reader/sd/pii/S0301051119300468?token=2C1D072F98ADD5B95C6F76E359A382B9D5E1A295FF5428652DA301743842652F39709C31589B52FB441B869BF560789E&originRegion=us-east-1&originCreation=20220921192529
+
+[57]:https://www.youtube.com/watch?v=2ID3NIIWWlE&list=PLo-4JRNpsuAJFMC1Zuz5RKaX6Xc_jMMsf
