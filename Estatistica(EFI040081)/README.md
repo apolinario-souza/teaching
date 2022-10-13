@@ -58,10 +58,10 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 |15|30/03|45|Apresentação do Trabalho "Estatística aplicada à Educação Física"|   | 
 |16|13/04|48| **Avaliação 2**                                             |   | 
 |------|||||------|
-|-         | -         | 51          | [Prática com Jamovi: análise descritiva][57]                                          |   
-| -        | -         | 54          | [Prática com Jamovi: análise de variâcia][57]                                         |   
-| -        | -         | 57          | [Prática com Jamovi: análise de variâcia][57]                                         |   
-| -        | -         | 60          | [Prática com Jamovi: análise de variâcia][57]                                 |    
+|-         | -         | 51          | [Prática com Jamovi][57]                                          |   
+| -        | -         | 54          | [Prática com Jamovi][57]                                         |   
+| -        | -         | 57          | [Prática com Jamovi][57]                                         |   
+| -        | -         | 60          | [Prática com Jamovi][57]                                 |    
 
 
 [0]:https://drive.google.com/file/d/179HWv-fzqiAXbdgOUGSVA-H2u0AhEoo4/view
