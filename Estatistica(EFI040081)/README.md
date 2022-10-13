@@ -23,7 +23,7 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 ## Avaliação
 - Avaliaçao 1. 25%
 - Avaliação 2. 25%
-- Lista de atividades e relatário dos labs. 25%
+- Lista de atividades e relatório dos labs. 25%
 - Trabalho: "Estatística aplicada à Educação Física". 25%
 - **Bônus**, Estudo dirigido. 10% 
 ## Material
@@ -41,22 +41,22 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 
 | **Semana** | **Data**| **C.H.**  | **Tópico**                                              | **Referências**|
 |----------|-----------|------------|---------------------------------------------------------|---------------|
-|1|18/11|3|[Fundamentos da Estatística][1]|Weir e Vincent (2020), cap. 1 e 2; Sampaio (2007) cap. 1; Salsburg (2009) cap. 1|[1][10]|
-|2|25/11|6|[Medidas de tendência central e de variabilidade][2]|Weir e Vincent (2020), cap. 4 e 5; Sampaio (2007) cap. 3|
+|1|17/11|3|[Fundamentos da Estatística][1]|Weir e Vincent (2020), cap. 1 e 2; Sampaio (2007) cap. 1; Salsburg (2009) cap. 1|[1][10]|
+|2|24/11|6|[Medidas de tendência central e de variabilidade][2]|Weir e Vincent (2020), cap. 4 e 5; Sampaio (2007) cap. 3|
 |3|02/12|9|[Escores padronizados da curva normal][1]|Weir e Vincent (2020), cap. 6|
-|4|09/12|12|[Fundamentos da estatística inferencial][1]|Weir e Vincent (2020), cap. 7|
-|5|16/12|15|[Comparação entre médias][1]             |Weir e Vincent (2020), cap. 10; Sampaio (2007) cap. 5|
-|6|27/01|18|[Revisão][1] |-----|
+|4|08/12|12|[Fundamentos da estatística inferencial][1]|Weir e Vincent (2020), cap. 7|
+|5|15/12|15|[Comparação entre médias][1]             |Weir e Vincent (2020), cap. 10; Sampaio (2007) cap. 5|
+|6|26/01|18|[Revisão][1] |-----|
 |7|03/02|21|**Avaliação 1**                        |  | |
-|8|10/02|24|[Análise de variância simples][1]|Weir e Vincent (2020), cap. 11; Sampaio (2007) cap. 7|
-|9|17/02|27|[Análise de variância simples: testes de *post hoc*][1]|Weir e Vincent (2020), cap. 11; Sampaio (2007) cap. 7|
-|10|24/02|30|[Análise de variância com medidas repetidas][1]|Weir e Vincent (2020), cap. 12|
+|8|09/02|24|[Análise de variância simples][1]|Weir e Vincent (2020), cap. 11; Sampaio (2007) cap. 7|
+|9|16/02|27|[Análise de variância simples: testes de *post hoc*][1]|Weir e Vincent (2020), cap. 11; Sampaio (2007) cap. 7|
+|10|23/02|30|[Análise de variância com medidas repetidas][1]|Weir e Vincent (2020), cap. 12|
 |11|03/03|33|[Análise fatorial][1]|Weir e Vincent (2020), cap. 14; Sampaio (2007) cap. 9| 
-|12|10/03|36|[Revisão][1]||
-|13|17/03|39|Correlação e Regressão| Weir e Vincent (2020), cap. 8 e cap. 9; Sampaio (2007) cap. 13|
-|14|24/03|42|[Prática com Jamovi][1]|Navarro e Foxcroft (2019)| 
-|15|31/03|45|Apresentação do Trabalho "Estatística aplicada à Educação Física"|   | 
-|16|14/04|48| **Avaliação 2**                                             |   | 
+|12|09/03|36|Revisão||
+|13|16/03|39|[Correlação e Regressão][1]| Weir e Vincent (2020), cap. 8 e cap. 9; Sampaio (2007) cap. 13|
+|14|23/03|42|Prática com Jamovi|Navarro e Foxcroft (2019)| 
+|15|30/03|45|Apresentação do Trabalho "Estatística aplicada à Educação Física"|   | 
+|16|13/04|48| **Avaliação 2**                                             |   | 
 |------|||||------|
 |-         | -         | 51          | Elaboração do trabalho                                         |   
 | -        | -         | 54          | Elaboração do trabalho                                        |   
