@@ -48,20 +48,20 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 |5|16/12|15|[Comparação entre médias][1]             |Weir e Vincent (2020), cap. 10; Sampaio (2007) cap. 5|
 |6|27/01|18|[Revisão][1] |-----|
 |7|03/02|21|**Avaliação 1**                        |  | |
-|8|10/02|24|[Feedback][1]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
-|9|17/02|27|[Variabilidade da prática][1]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 |
-|10|24/02|30|[Prática mental e observacional][1]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
-|11|03/03|33|[Fragmentação da prática e Relação entre prática e repouso][1]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
-|12|10/03|36|[Instrução verbal, demonstração e metas][1]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
-|13|17/03|39|Apresentação do Projeto de Pesquisa|   | |
-|14|24/03|42|[Algumas implicações para a intervenção profissional][1]|Tani (2016) cap.36, 37 e 38; Tani e Correa (2016) cap.1; Krakauer (2022) cap.6   | 
-|15|31/03|45|Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"|   | 
+|8|10/02|24|[Análise de variância simples][1]|Weir e Vincent (2020), cap. 11; Sampaio (2007) cap. 7|
+|9|17/02|27|[Análise de variância simples: testes de *post hoc*][1]|Weir e Vincent (2020), cap. 11; Sampaio (2007) cap. 7|
+|10|24/02|30|[Análise de variância com medidas repetidas][1]|Weir e Vincent (2020), cap. 12|
+|11|03/03|33|[Análise fatorial][1]|Weir e Vincent (2020), cap. 14; Sampaio (2007) cap. 9| 
+|12|10/03|36|[Revisão][1]||
+|13|17/03|39|Correlação e Regressão| Weir e Vincent (2020), cap. 8 e cap. 9; Sampaio (2007) cap. 13|
+|14|24/03|42|[Prática com Jamovi][1]|Navarro e Foxcroft (2019)| 
+|15|31/03|45|Apresentação do Trabalho "Estatística aplicada à Educação Física"|   | 
 |16|14/04|48| **Avaliação 2**                                             |   | 
 |------|||||------|
-|-         | -         | 51          | Projeto de pesquisa                                         |   
-| -        | -         | 54          | Projeto de pesquisa                                         |   
-| -        | -         | 57          | Projeto de pesquisa                                         |   
-| -        | -         | 60          | Projeto de pesquisa                                  |    
+|-         | -         | 51          | Elaboração do trabalho                                         |   
+| -        | -         | 54          | Elaboração do trabalho                                        |   
+| -        | -         | 57          | Elaboração do trabalho                                         |   
+| -        | -         | 60          | Elaboração do trabalho                                  |    
 
 
 [0]:https://drive.google.com/file/d/179HWv-fzqiAXbdgOUGSVA-H2u0AhEoo4/view
