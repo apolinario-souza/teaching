@@ -23,9 +23,8 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 ## Avaliação
 - Avaliaçao 1. 25%
 - Avaliação 2. 25%
-- Lista de atividades. 15%
+- Lista de atividades e relatário dos labs. 25%
 - Trabalho: "Estatística aplicada à Educação Física". 25%
-- Relatóri dos Labs. 10%
 - **Bônus**, Estudo dirigido. 10% 
 ## Material
 **Textbook**
