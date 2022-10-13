@@ -77,4 +77,4 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 
 [21]:https://reader.elsevier.com/reader/sd/pii/S0301051119300468?token=2C1D072F98ADD5B95C6F76E359A382B9D5E1A295FF5428652DA301743842652F39709C31589B52FB441B869BF560789E&originRegion=us-east-1&originCreation=20220921192529
 
-[57]:https://www.youtube.com/watch?v=2ID3NIIWWlE&list=PLo-4JRNpsuAJFMC1Zuz5RKaX6Xc_jMMsf](https://www.youtube.com/watch?v=2ID3NIIWWlE&list=PLo-4JRNpsuAJFMC1Zuz5RKaX6Xc_jMMsf
+[57]:https://www.youtube.com/watch?v=2ID3NIIWWlE&list=PLo-4JRNpsuAJFMC1Zuz5RKaX6Xc_jMMsf
