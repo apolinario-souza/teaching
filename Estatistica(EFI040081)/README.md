@@ -23,7 +23,7 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 ## Avaliação
 - Avaliaçao 1. 25%
 - Avaliação 2. 25%
-- Lista de atividades e relatório dos labs. 25%
+- Lista exercícios. 25%
 - Trabalho: "Estatística aplicada à Educação Física". 25%
 - **Bônus**, Estudo dirigido. 10% 
 ## Material
@@ -32,9 +32,9 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 - Weir, J. P., & Vincent, W. J. (2020). *Statistics in kinesiology*. Human Kinetics Publishers.
 - Sampaio, I. B. M. (2007). *Estatística aplicada á experimentadcao animal*. Fundadcao de Estudo e Pesquisa em Medicina Veterinaria,.
 - Salsburg, D. S. (2009). Uma senhora toma chá... como a estatística revolucionou a ciência no século XX (p. 190). Rio de Janeiro: Zahar.
-- [Navarro, D.J. & Foxcroft, D.R. (2019). learning statistics with jamovi: a tutorial for psychology students and other beginners. (Version 0.70).  DOI: 10.24384/hgc3-7p15.][0] 
 
-## 
+## Lista de exercícios
+- Lista 1. Medidas de tendência central e de variabilidade
 
 
 ## Cronograma
@@ -42,26 +42,26 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 | **Semana** | **Data**| **C.H.**  | **Tópico**                                              | **Referências**|
 |----------|-----------|------------|---------------------------------------------------------|---------------|
 |1|17/11|3|[Fundamentos da Estatística][1]|Weir e Vincent (2020), cap. 1 e 2; Sampaio (2007) cap. 1; Salsburg (2009) cap. 1|[1][10]|
-|2|24/11|6|[Medidas de tendência central e de variabilidade][2]|Weir e Vincent (2020), cap. 4 e 5; Sampaio (2007) cap. 3|
+|2|24/11|6|**Projeto da disciplina: efeito individual ao treinamento**|----|
 |3|02/12|9|[Escores padronizados da curva normal][1]|Weir e Vincent (2020), cap. 6|
-|4|08/12|12|[Fundamentos da estatística inferencial][1]|Weir e Vincent (2020), cap. 7|
-|5|15/12|15|[Comparação entre médias][1]             |Weir e Vincent (2020), cap. 10; Sampaio (2007) cap. 5|
-|6|26/01|18|[Revisão][1] |-----|
+|4|08/12|12|[Fundamentos da estatística inferencial e Comparação entre médias][1]|Weir e Vincent (2020), cap. 7, cap. 10; Sampaio (2007) cap. 5 |
+|5|15/12|15|**Projeto da disciplina: cadeia de Markov no esporte**            |----|
+|6|26/01|18|Revisão |-----|
 |7|03/02|21|**Avaliação 1**                        |  | |
 |8|09/02|24|[Análise de variância simples][1]|Weir e Vincent (2020), cap. 11; Sampaio (2007) cap. 7|
 |9|16/02|27|[Análise de variância simples: testes de *post hoc*][1]|Weir e Vincent (2020), cap. 11; Sampaio (2007) cap. 7|
 |10|23/02|30|[Análise de variância com medidas repetidas][1]|Weir e Vincent (2020), cap. 12|
 |11|03/03|33|[Análise fatorial][1]|Weir e Vincent (2020), cap. 14; Sampaio (2007) cap. 9| 
-|12|09/03|36|Revisão||
-|13|16/03|39|[Correlação][1]| Weir e Vincent (2020), cap. 8; Sampaio (2007) cap. 13|
-|14|23/03|42|[Regressão][1]|Weir e Vincent (2020), cap. 9| 
-|15|30/03|45|Apresentação do Trabalho "Estatística aplicada à Educação Física"|   | 
+|12|09/03|36|[Correlação e Regressão][1]| Weir e Vincent (2020), cap. 8, cap.9 ; Sampaio (2007) cap. 13|
+|13|16/03|39|**Projeto da disciplina: relação diferentes variáveis do desempenho** || 
+|14|23/03|42|Apresentação do Trabalho "Estatística aplicada à Educação Física"| 
+|15|30/03|45|Revisão| | 
 |16|13/04|48| **Avaliação 2**                                             |   | 
 |------|||||------|
-|-         | -         | 51          | [Prática com Jamovi][57]                                          |   
-| -        | -         | 54          | [Prática com Jamovi][57]                                         |   
-| -        | -         | 57          | [Prática com Jamovi][57]                                         |   
-| -        | -         | 60          | [Prática com Jamovi][57]                                 |    
+|-         | -         | 51          | [Prática com Jasp][57]                                          |   
+| -        | -         | 54          | [Prática com Jasp][57]                                         |   
+| -        | -         | 57          | [Prática com Jasp][57]                                         |   
+| -        | -         | 60          | [Prática com Jasp][57]                                 |    
 
 
 [0]:https://drive.google.com/file/d/179HWv-fzqiAXbdgOUGSVA-H2u0AhEoo4/view
