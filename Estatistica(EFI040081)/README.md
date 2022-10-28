@@ -45,7 +45,7 @@ Aborda conceitos e modelos estatísticos e suas aplicações na pesquisa cientí
 |2|24/11|6|**Projeto da disciplina: efeito individual ao treinamento**|----|
 |3|02/12|9|[Escores padronizados da curva normal][1]|Weir e Vincent (2020), cap. 6|
 |4|08/12|12|[Fundamentos da estatística inferencial e Comparação entre médias][1]|Weir e Vincent (2020), cap. 7, cap. 10; Sampaio (2007) cap. 5 |
-|5|15/12|15|**Projeto da disciplina: cadeia de Markov no esporte**            |----|
+|5|19/01|15|**Projeto da disciplina: cadeia de Markov no esporte**            |----|
 |6|26/01|18|Revisão |-----|
 |7|03/02|21|**Avaliação 1**                        |  | |
 |8|09/02|24|[Análise de variância simples][1]|Weir e Vincent (2020), cap. 11; Sampaio (2007) cap. 7|
