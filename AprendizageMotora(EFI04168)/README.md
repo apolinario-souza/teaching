@@ -13,7 +13,7 @@ Aborda o processo ensino-aprendizagem de habilidades motoras. Discute os mecanis
 ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras nas diferentes fases da vida.
 
 - **Professor:** Tércio Apolinário de Souza
-  - edf.tercio@hotmail.com 
+  - edf.tercio@hotmail.com / (31) 9.8843-8435 (Whatsapp) 
   - Sala 220 no Lapex
 - **Monitores:** 
 - **Horário:**
@@ -80,6 +80,11 @@ O conceito será atribuído da seguinte forma:
 | -        | -         | 57          | Projeto de pesquisa                                         |   
 | -        | -         | 60          | Projeto de pesquisa                                  |    
 
+
+
+# Atividades de Recuperação Previstas
+Alunos que não alcançarem o rendimento mínimo para aprovação na disciplina (Conceito C) terão o direito de realizar uma prova teórica com todo o conteúdo da disciplina como atividade de recuperação. Para aprovação após a prova de recuperação, será necessário um rendimento igual ou superior ao conceito C.
+- Data da recuperação: 18/04 as 8:30, sala 220 - Lapex
 
 [1]:https://apolinario-souza.github.io/lectures/week-00/lecture-00_welcome/00_course-welcome.html#1
 [2]:https://eds.p.ebscohost.com/eds/detail/detail?vid=2&sid=a16a2a62-9519-4f6c-b2c0-7d10e7d06874%40redis&bdata=JkF1dGhUeXBlPXNoaWImbGFuZz1wdC1iciZzY29wZT1zaXRl#AN=sabi.000277272&db=cat07377a
