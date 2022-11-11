@@ -29,7 +29,17 @@ ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras n
 - Relatório dos laboratórios. 10%
 - Projeto de pesquisa. 20%
 - Trabalho: Aprendizagem motora e o ensino do esporte. 20%
-- **Bônus**, Estudo dirigido. 10% 
+- **Bônus**, Estudo dirigido. 10%
+
+
+O conceito será atribuído da seguinte forma: 
+- 90% a 100%  - A 
+- 80% a 89% - B
+- 70% a 79%  - C
+- 0 a 69% - D
+
+*Para aprovação na disciplina será necessário o conceito mínimo de* **C**. 
+
 ## Material
 **Textbook**
 
