@@ -12,6 +12,11 @@
 Aborda o processo ensino-aprendizagem de habilidades motoras. Discute os mecanismos internos que regulam o movimento, bem como os fatores 
 ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras nas diferentes fases da vida.
 
+## Objetivos
+Instrumentalizar para a compreensão do processo ensino aprendizagem de habilidades motoras nas diferentes fases da vida do ser humano. Capacitar para o reconhecer os mecanismos internos que regulam o movimento humano e para a identificação dos fatores ambientais que afetam a aprendizagem e o desempenho motor. Estimular a Identificação de possíveis soluções para problemas que envolvem a prática de habilidades motoras em diferentes fases de 
+maturação física e motora. Desafiar à capacidade de produção de unidades de planejamento adequadas a situações problemas específicos e à execução de aula prática envolvendo assuntos pertinentes. Estimular a utilização de ferramentas digitais de comunicação com o professor para 
+a realização de pesquisas e elaboração de trabalhos.
+
 - **Professor:** Tércio Apolinário de Souza
   - edf.tercio@hotmail.com / (31) 9.8843-8435 (Whatsapp) 
   - Sala 220 no Lapex
