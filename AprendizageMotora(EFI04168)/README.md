@@ -34,7 +34,9 @@ a realização de pesquisas e elaboração de trabalhos.
 - Relatório dos laboratórios. 10%
 - Projeto de pesquisa. 20%
 - [Trabalho: Aprendizagem motora e o ensino do esporte][2]. 20%
-- **Bônus**, Estudo dirigido. 10%
+- **Bônus** (máx 10%)
+  - Estudo dirigido. 10% 
+  - Participação em pesquisa. 2% 
 
 
 O conceito será atribuído da seguinte forma: 
