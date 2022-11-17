@@ -86,7 +86,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |-         | -         | 51          | Projeto de pesquisa                                         |   
 | -        | -         | 54          | Projeto de pesquisa                                         |   
 | -        | -         | 57          | Projeto de pesquisa                                         |   
-| -        | -         | 60          | Projeto de pesquisa                                  |    
+| -        | -         | 60          | I Seminário de Comportamento Motor e Neurociências          |    
 
 
 
