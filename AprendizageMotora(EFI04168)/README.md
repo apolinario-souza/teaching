@@ -23,7 +23,7 @@ a realização de pesquisas e elaboração de trabalhos.
 - **Monitores:** 
 - **Horário:**
   - Tuma A. Sexta-feira 08:30 às 11:50h
-  - Tuma B. Sexta-feira 13:30 às 16:30h 
+  - Tuma B. Sexta-feira 13:30 às 16:50h 
 - [**Plano de ensino**][1]
 
 
