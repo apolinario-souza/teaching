@@ -99,7 +99,7 @@ Alunos que não alcançarem o rendimento mínimo para aprovação na disciplina 
 Alterações no cronograma e conteúdo programático poderão ocorrer no decorrer do semestre dependendo das necessidades das turmas. 
 
 [1]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/01/1.html#1
-[2]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/01/2.html#1
+[2]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/01/02.html#1
 
 
 [17:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t1.pdf
