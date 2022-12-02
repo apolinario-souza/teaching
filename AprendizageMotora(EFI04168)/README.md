@@ -68,7 +68,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |----------|-----------|------------|---------------------------------------------------------|---------------|
 |1|18/11|3|[Fundamentos das habilidades e capacidades motoras][1]|Schmidt (2016) p. 2-10;Schmidt (2019) p.19-53; Magill (2018) p.2-14;52-53|[1][10]|
 |2|25/11|6|[Medidas de desempenho motor][2]|Schmidt (2016) p. 10-15; Schmidt (2019) p.54-93; Magill (2018) p.26-28|
-|3|02/12|9|[Princípios e conceitos da aprendizagem motora][1]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436,530-563; Magill (2018) p.256-317|
+|3|02/12|9|[Princípios e conceitos da aprendizagem motora][3]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436,530-563; Magill (2018) p.256-317|
 |4|09/12|12|[Processos de memória: codificação, consolidação, evocação, retenção, esquecimento e transferência][1]|Schmidt (2016) p. 189-193; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
 |5|20/01|15|[Teorias da aprendizagem motora][1]             |Magill (2018) p.85-111|
 |6|27/01|18|[Teoria de Esquema][1] |Schmidt (2016) p. 107-119|
@@ -102,10 +102,11 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 
 [1]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/01/1.html#1
 [2]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/02/02.html#1
+[3]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/02/02.html#1
 
 
 [17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t1.pdf
-[3]:https://eds.p.ebscohost.com/eds/viewarticle/render?data=dGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bNQsa2vSa6k63nn5Kx94um%2bUa2nskewprBKnqeuUrOnuEquls5lpOrweezp33vy3%2b2G59q7SbWvsk6uq69Jt5zxgeKzsk21reBI36mrSrWssEWy2OBPq9ivULOj4ny1q%2bF6rtquerHbvorj2ueLpOLfhuWz7oyr2PA%2b4ti7e9%2fqrk%2bxrbV5pOrff7u3zD7f5LuL39jnRq6mrkizqLBIsJzkh%2fDj34y73POE6urjkPKc5Y3j6fJV0ujzfQAA&vid=0&sid=4577b0a3-2762-4bb7-b185-dd75cb0d0b3e@redis
+[13]:https://eds.p.ebscohost.com/eds/viewarticle/render?data=dGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bNQsa2vSa6k63nn5Kx94um%2bUa2nskewprBKnqeuUrOnuEquls5lpOrweezp33vy3%2b2G59q7SbWvsk6uq69Jt5zxgeKzsk21reBI36mrSrWssEWy2OBPq9ivULOj4ny1q%2bF6rtquerHbvorj2ueLpOLfhuWz7oyr2PA%2b4ti7e9%2fqrk%2bxrbV5pOrff7u3zD7f5LuL39jnRq6mrkizqLBIsJzkh%2fDj34y73POE6urjkPKc5Y3j6fJV0ujzfQAA&vid=0&sid=4577b0a3-2762-4bb7-b185-dd75cb0d0b3e@redis
 [4]:https://eds.p.ebscohost.com/eds/viewarticle/render?data=dGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bNQsa2vSa6k63nn5Kx94um%2bUa2nskewprBKnqeuUrOnuEquls5lpOrweezp33vy3%2b2G59q7Ra%2btsE2urbJQsqqki%2bfau0y2qLVPsqavRd%2fct3urquFN4qO2SbKvq3uyrLJJ5NezT%2bOnsljw2%2bKB8Zzqeezdu4jyo%2bCKpNrgVePa8YXn2KSM3927Wcyc34a72%2bKL69%2fgRq6mrkivqLdLtJzkh%2fDj34y73POE6urjkPKc5Y3j6fJV0ujzfQAA&vid=0&sid=48277401-af9c-4c5d-8149-c4641fa57e14@redis
 
 
