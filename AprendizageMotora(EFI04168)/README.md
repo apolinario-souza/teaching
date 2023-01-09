@@ -117,4 +117,4 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [10]:https://github.com/apolinario-souza/teaching/raw/main/AprendizageMotora(EFI04168)/lectures/lecture01/Relacao_entre_pratica_e_repouso.pdf
 
 [21]:https://reader.elsevier.com/reader/sd/pii/S0301051119300468?token=2C1D072F98ADD5B95C6F76E359A382B9D5E1A295FF5428652DA301743842652F39709C31589B52FB441B869BF560789E&originRegion=us-east-1&originCreation=20220921192529
-[22] https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/complementar/ingles.md
+[22]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/complementar/ingles.md
