@@ -61,7 +61,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 **Lista de lituras complementares em português e [inglês][22].**
 
-**[Videos][23]da disciplina.**
+**[Videos][22] da disciplina.**
 
 ## 
 
