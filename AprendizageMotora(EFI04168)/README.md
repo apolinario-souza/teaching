@@ -75,7 +75,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |3|02/12|9|[Princípios e conceitos da aprendizagem motora][3]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436,530-563; Magill (2018) p.256-317|
 |4|09/12|12|[Processos de memória: codificação, consolidação e evocação][4]|Schmidt (2016) p. 189-193; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
 |5|20/01|15|[Transferência de Aprendizagem][5]             |Schmidt (2016) p. 216-224; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
-|6|27/01|18|[Teorias da aprendizagem motora][1] |Magill (2018) p.85-111; Schmidt (2016) p. 107-119|
+|6|27/01|18|[Teorias da aprendizagem motora][6] |Magill (2018) p.85-111; Schmidt (2016) p. 107-119|
 |7|03/02|21|**Avaliação 1**             |  | |
 |8|10/02|24|[Feedback][1]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
 |9|17/02|27|[Variabilidade da prática][1]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 |
@@ -109,6 +109,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [3]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/03/03.html#1
 [4]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/04/04.html#1
 [5]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/05/05.html#1
+[6]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/06/06.html#1
 
 
 
