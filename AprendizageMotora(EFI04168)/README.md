@@ -81,10 +81,10 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |10|24/02|30|[Prática mental e observacional][1]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
 |11|03/03|33|[Fragmentação da prática e Relação entre prática e repouso][1]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
 |12|10/03|36|[Instrução verbal, demonstração e metas][1]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
-|13|17/03|39|Apresentação do Projeto de Pesquisa|   | |
+|13|17/03|39|**Avaliação 2**|| |
 |14|24/03|42|[Algumas implicações para a intervenção profissional][1]|Tani (2016) cap.36, 37 e 38; Tani e Correa (2016) cap.1; Krakauer (2022) cap.6   | 
-|15|31/03|45|Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"|   | 
-|16|14/04|48| **Avaliação 2**                                             |   | 
+|15|31/03|45|**Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"**|   | 
+|16|14/04|48|**Apresentação do Projeto de Pesquisa**                                           |   | 
 |------|||||------|
 |-         | -         | 51          | Projeto de pesquisa                                         |   
 | -        | -         | 54          | Projeto de pesquisa                                         |   
