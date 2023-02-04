@@ -32,8 +32,8 @@ a realização de pesquisas e elaboração de trabalhos.
 - Avaliaçao 1. 25%
 - Avaliação 2. 25%
 - Relatório dos laboratórios. 10%
-- Projeto de pesquisa. 20%
-- [Trabalho: Aprendizagem motora e o ensino do esporte][17]. 20%
+- [Projeto de pesquisa][17]. 20%
+- [Trabalho: Aprendizagem motora e o ensino do esporte][18]. 20%
 - **Bônus** (máx 10%)
   - Estudo dirigido. 10% 
   - Participação em pesquisa. 2% 
@@ -61,7 +61,6 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 **Lista de leituras complementares em português e [inglês][22].**
 
-**[Videos][22] da disciplina.**
 
 ## 
 
@@ -112,10 +111,10 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [6]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/06/06.html#1
 
 
+[17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t2.pdf
+[18]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t1.pdf
 
-[17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t1.pdf
-[13]:https://eds.p.ebscohost.com/eds/viewarticle/render?data=dGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bNQsa2vSa6k63nn5Kx94um%2bUa2nskewprBKnqeuUrOnuEquls5lpOrweezp33vy3%2b2G59q7SbWvsk6uq69Jt5zxgeKzsk21reBI36mrSrWssEWy2OBPq9ivULOj4ny1q%2bF6rtquerHbvorj2ueLpOLfhuWz7oyr2PA%2b4ti7e9%2fqrk%2bxrbV5pOrff7u3zD7f5LuL39jnRq6mrkizqLBIsJzkh%2fDj34y73POE6urjkPKc5Y3j6fJV0ujzfQAA&vid=0&sid=4577b0a3-2762-4bb7-b185-dd75cb0d0b3e@redis
-[24]:https://eds.p.ebscohost.com/eds/viewarticle/render?data=dGJyMPPp44rp2%2fdV0%2bnjisfk5Ie46bNQsa2vSa6k63nn5Kx94um%2bUa2nskewprBKnqeuUrOnuEquls5lpOrweezp33vy3%2b2G59q7Ra%2btsE2urbJQsqqki%2bfau0y2qLVPsqavRd%2fct3urquFN4qO2SbKvq3uyrLJJ5NezT%2bOnsljw2%2bKB8Zzqeezdu4jyo%2bCKpNrgVePa8YXn2KSM3927Wcyc34a72%2bKL69%2fgRq6mrkivqLdLtJzkh%2fDj34y73POE6urjkPKc5Y3j6fJV0ujzfQAA&vid=0&sid=48277401-af9c-4c5d-8149-c4641fa57e14@redis
+
 
 
 [10]:https://github.com/apolinario-souza/teaching/raw/main/AprendizageMotora(EFI04168)/lectures/lecture01/Relacao_entre_pratica_e_repouso.pdf
