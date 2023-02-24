@@ -78,7 +78,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |7|03/02|21|**Avaliação 1**             |  | |
 |8|10/02|24|[Feedback][8]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
 |9|17/02|27|[Variabilidade da prática][1]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 |
-|10|24/02|30|[Prática mental e observacional][1]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
+|10|24/02|30|[Prática mental][1]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
 |11|03/03|33|[Fragmentação da prática e Relação entre prática e repouso][1]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
 |12|10/03|36|[Instrução verbal, demonstração e metas][1]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
 |13|17/03|39|**Avaliação 2**|| |
