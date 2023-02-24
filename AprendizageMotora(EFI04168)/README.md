@@ -76,7 +76,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |5|20/01|15|[Transferência de Aprendizagem][5]             |Schmidt (2016) p. 216-224; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
 |6|27/01|18|[Teorias da aprendizagem motora][6] |Magill (2018) p.85-111; Schmidt (2016) p. 107-119|
 |7|03/02|21|**Avaliação 1**             |  | |
-|8|10/02|24|[Feedback][1]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
+|8|10/02|24|[Feedback][8]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
 |9|17/02|27|[Variabilidade da prática][1]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 |
 |10|24/02|30|[Prática mental e observacional][1]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
 |11|03/03|33|[Fragmentação da prática e Relação entre prática e repouso][1]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
@@ -109,6 +109,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [4]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/04/04.html#1
 [5]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/05/05.html#1
 [6]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/06/06.html#1
+[8]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/08/08.pdf#1
 
 
 [17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t2.pdf
