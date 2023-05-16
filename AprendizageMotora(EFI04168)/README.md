@@ -31,8 +31,7 @@ a realização de pesquisas e elaboração de trabalhos.
 ## Avaliação
 - Avaliaçao 1. 25%
 - Avaliação 2. 25%
-- Relatório dos laboratórios. 5%
-- Seminário. 5% 
+- Relatório dos laboratórios. 10%
 - [Projeto de pesquisa][17]. 20%
 - [Trabalho: Aprendizagem motora e o ensino do esporte][18]. 20%
 
@@ -84,7 +83,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |11|28/07|33|[Fragmentação da prática e Relação entre prática e repouso][11]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
 |12|04/08|36|[Instrução verbal, demonstração e metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
 |13|11/08|39|**Avaliação 2**|| |
-|14|18/08|42|[Algumas implicações para a intervenção profissional e **Seminário**][1]|Tani (2016) cap.36, 37 e 38; Tani e Correa (2016) cap.1; Krakauer (2022) cap.6; artigo escolhido | 
+|14|18/08|42|[Algumas implicações para a intervenção profissional][1]|Tani (2016) cap.36, 37 e 38; Tani e Correa (2016) cap.1; Krakauer (2022) cap.6; artigo escolhido | 
 |15|25/08|45|**Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"**|   | 
 |16|01/09|48|**Apresentação do Projeto de Pesquisa**                                           |   | 
 |------|||||------|
