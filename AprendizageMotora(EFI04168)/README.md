@@ -72,7 +72,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** | **Data**| **C.H.**  | **Tópico**                                              | **Referências**|
 |----------|-----------|------------|---------------------------------------------------------|---------------|
-|1|19/05|3|[Fundamentos das habilidades, capacidades motoras e medidas de desempenho motor][1]|Schmidt (2016) p. 2-10 e p. 10-15;Schmidt (2019) p.19-53 e p.54-93; Magill (2018) p.2-14;52-53 e p.26-28||
+|1|19/05|3|[A área Comportamento Motor e Classificação da habilidades][1]|Schmidt (2016) p. 2-10 e p. 10-15;Schmidt (2019) p.19-53 e p.54-93; Magill (2018) p.2-14;52-53 e p.26-28||
 |2|26/05|6|[Conceitos do Comportamento Motor e Medidas de desempenho][1]|Schmidt (2016)p. 10-15; Schmidt (2019) p.54-93; Magill (2018) p.26-28|
 |3|02/06|9|[Princípios e conceitos da aprendizagem motora][3]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436,530-563; Magill (2018) p.256-317|
 |4|09/06|12|[Processos de memória: codificação, consolidação e evocação][4]|Schmidt (2016) p. 189-193; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
