@@ -22,7 +22,6 @@ a realização de pesquisas e elaboração de trabalhos.
   - Sala 220 no Lapex
  - **Monitor:** Claúdio Hoffmann
     - claudio.machado.ch@gmail.com / (54) 9.9956-6340
-- **Monitores:** 
 - **Horário:**
   - Tuma A. Sexta-feira 07:30 às 10:50h
   - Tuma B. Sexta-feira 13:30 às 16:50h 
