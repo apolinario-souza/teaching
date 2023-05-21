@@ -18,7 +18,7 @@ maturação física e motora. Desafiar à capacidade de produção de unidades d
 a realização de pesquisas e elaboração de trabalhos.
 
 - **Professor:** Tércio Apolinário de Souza
-  - edf.tercio@hotmail.com / (31) 9.8843-8435 (Whatsapp) 
+  - edf.tercio@gmail.com / (31) 9.8843-8435 (Whatsapp) 
   - Sala 220 no Lapex
  - **Monitor:** Claúdio Hoffmann
     - claudio.machado.ch@gmail.com / (54) 9.9956-6340
