@@ -118,7 +118,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [9]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/09/09.pdf#1
 [10]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/10/10.pdf#1
 [11]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/11/11.pdf#1
-[12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/12.html#1
+[12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/12.html
 
 
 [17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t2.pdf
