@@ -26,8 +26,8 @@ a realização de pesquisas e elaboração de trabalhos.
    - Cristiano Borba
       - cristianoborbaovalhe@gmail.com/ (51) 9.9777-9606
 - **Horário:**
-  - Tuma A. Sexta-feira 07:30 às 10:50h
-  - Tuma B. Sexta-feira 13:30 às 16:50h 
+  - Tuma A. Terça 07:30 às 10:50h
+  - Tuma B. Sexta-feira 07:30 às 10:50h
 - [**Plano de ensino**][1]
 
 
@@ -74,22 +74,22 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** | **Data**| **C.H.**  | **Tópico**                                              | **Referências**|
 |----------|-----------|------------|---------------------------------------------------------|---------------|
-|1|19/05|3|[A área Comportamento Motor e Classificação da habilidades][1]|Schmidt (2016) p. 2-10 e p. 10-15;Schmidt (2019) p.19-53 e p.54-93; Magill (2018) p.2-14;52-53 e p.26-28||
-|2|26/05|6|[Conceitos do Comportamento Motor e Medidas de desempenho][2]|Schmidt (2016)p. 10-15; Schmidt (2019) p.54-93; Magill (2018) p.26-28|
-|3|02/06|9|[Princípios e conceitos da aprendizagem motora][3]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436,530-563; Magill (2018) p.256-317|
-|4|09/06|12|[Processos de memória: codificação, consolidação e evocação][4]|Schmidt (2016) p. 189-193; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
-|5|16/06|15|[Transferência de Aprendizagem][5]             |Schmidt (2016) p. 216-224; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
-|6|23/06|18|[Teorias da aprendizagem motora][6] |Magill (2018) p.85-111; Schmidt (2016) p. 107-119|
-|7|30/06|21|**Avaliação 1**             |  | |
-|8|07/07|24|[Feedback][8]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
-|9|14/07|27|[Variabilidade da prática][9]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 |
-|10|21/07|30|[Prática mental][10]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
-|11|28/07|33|[Fragmentação da prática e Relação entre prática e repouso][11]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
-|12|04/08|36|[Instrução verbal, demonstração e metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
-|13|11/08|39|**Avaliação 2**|| |
-|14|18/08|42|[Algumas implicações para a intervenção profissional][1]|Tani (2016) cap.36, 37 e 38; Tani e Correa (2016) cap.1; Krakauer (2022) cap.6; artigo escolhido | 
-|15|25/08|45|**Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"**|   | 
-|16|01/09|48|**Apresentação do Projeto de Pesquisa**                                           |   | 
+|1|17-20/10|3|[A área Comportamento Motor e Classificação da habilidades][1]|Schmidt (2016) p. 2-10 e p. 10-15;Schmidt (2019) p.19-53 e p.54-93; Magill (2018) p.2-14;52-53 e p.26-28||
+|2|24-27/10|6|[Conceitos do Comportamento Motor e Medidas de desempenho][2]|Schmidt (2016)p. 10-15; Schmidt (2019) p.54-93; Magill (2018) p.26-28|
+|3|31-03/11|9|[Princípios e conceitos da aprendizagem motora][3]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436,530-563; Magill (2018) p.256-317|
+|4|7-10/11|12|[Processos de memória: codificação, consolidação e evocação][4]|Schmidt (2016) p. 189-193; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
+|5|14-17/11|15|[Transferência de Aprendizagem][5]             |Schmidt (2016) p. 216-224; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
+|6|21-24/11|18|[Teorias da aprendizagem motora][6] |Magill (2018) p.85-111; Schmidt (2016) p. 107-119|
+|7|28-01/12|21|**Avaliação 1**             |  | |
+|8|05-08/12|24|[Feedback][8]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
+|9|12-15/12|27|[Variabilidade da prática][9]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 |
+|10|16-19/01|30|[Prática mental][10]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
+|11|23-26/01|33|[Fragmentação da prática e Relação entre prática e repouso][11]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
+|12|30-02/02|36|[Instrução verbal, demonstração e metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
+|13|06-09/02|39|**Avaliação 2**|| |
+|14|13-16/02|42|[Algumas implicações para a intervenção profissional][1]|Tani (2016) cap.36, 37 e 38; Tani e Correa (2016) cap.1; Krakauer (2022) cap.6; artigo escolhido | 
+|15|20-23/02|45|**Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"**|   | 
+|16|20-23/02|48|**Apresentação do Projeto de Pesquisa**                                           |   | 
 |------|||||------|
 |-         | -         | 51          | Projeto de pesquisa                                         |   
 | -        | -         | 54          | Projeto de pesquisa                                         |   
