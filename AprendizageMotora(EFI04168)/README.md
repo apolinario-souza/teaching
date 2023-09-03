@@ -21,13 +21,10 @@ a realização de pesquisas e elaboração de trabalhos.
   - edf.tercio@gmail.com / (31) 9.8843-8435 (Whatsapp) 
   - Sala 220 no Lapex
  - **Monitores:** 
-  - Claúdio Hoffmann
-      - claudio.machado.ch@gmail.com / (54) 9.9956-6340
-   - Cristiano Borba
-      - cristianoborbaovalhe@gmail.com/ (51) 9.9777-9606
+  
 - **Horário:**
   - Tuma A. Sexta-feira 07:30 às 10:50h
-  - Tuma B. Terça 07:30 às 10:50h
+  - Tuma B. Terça 
 - [**Plano de ensino**][1]
 
 
@@ -100,7 +97,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 ## Atividades de Recuperação Previstas
 Alunos que não alcançarem o rendimento mínimo para aprovação na disciplina (Conceito C) terão o direito de realizar uma prova teórica com todo o conteúdo da disciplina como atividade de recuperação. Para aprovação após a prova de recuperação, será necessário um rendimento igual ou superior ao conceito C.
-- Data da recuperação: 04/09 as 8:30, sala 220 - Lapex
+- Data da recuperação: 20/02 as 13:30, sala 220 - Lapex
 
 ## Observações
 
