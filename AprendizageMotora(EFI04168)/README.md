@@ -89,10 +89,10 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |15|B 20/02 + A 23/02|45|**Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"**|   | 
 |16|B 20/02 + A 23/02|48|**Apresentação do Projeto de Pesquisa**                                           |   | 
 |------|||||------|
-|-         | -         | 51          | Projeto de pesquisa                                         |   
-| -        | -         | 54          | Projeto de pesquisa                                         |   
-| -        | -         | 57          | Projeto de pesquisa                                         |   
-| -        | -         | 60          | Projeto de pesquisa         |    
+|-         | -         | 51          | Projeto de pesquisa  (CH Autônoma)                                        |   
+| -        | -         | 54          | Projeto de pesquisa (CH Autônoma)                                         |   
+| -        | -         | 57          | Projeto de pesquisa (CH Autônoma)                                        |   
+| -        | -         | 60          | Projeto de pesquisa (CH Autônoma)        |    
 
 
 
