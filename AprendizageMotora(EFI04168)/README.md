@@ -86,8 +86,8 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |12|B 30/01 + A 02/02|36|[Instrução verbal, demonstração e metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
 |13|B 06/02 + A 09/02|39|**Avaliação 2**|| |
 |14|B 13/02 + A 16/02|42|[Algumas implicações para a intervenção profissional][1]|Tani (2016) cap.36, 37 e 38; Tani e Correa (2016) cap.1; Krakauer (2022) cap.6; artigo escolhido | 
-|15|B 20/02 + A 23/02|45|**Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"**|   | 
-|16|B 20/02 + A 23/02|48|**Apresentação do Projeto de Pesquisa**                                           |   | 
+|15|B 20/02 + A 23/02|45|**Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"**(online)|   | 
+|16|B 20/02 + A 23/02|48|**Apresentação do Projeto de Pesquisa**(online)                                 |   | 
 |------|||||------|
 |-         | -         | 51          | Projeto de pesquisa  (CH Autônoma)                                        |   
 | -        | -         | 54          | Projeto de pesquisa (CH Autônoma)                                         |   
