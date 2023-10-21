@@ -21,11 +21,13 @@ a realização de pesquisas e elaboração de trabalhos.
 - **Professor:** Tércio Apolinário de Souza
   - edf.tercio@gmail.com / (31) 9.8843-8435 (Whatsapp) 
   - Sala 220 no Lapex
- - **Monitores:** 
+ - **Monitores:**
+   - Cristiano de Borba Ovalhe
+      - cristianoborbaovalhe@gmail.com / (51) 9.9777-9606 (Whatsapp) 
   
 - **Horário:**
   - Tuma A. Sexta-feira 07:30 às 10:50h
-  - Tuma B. Terça 
+  - Tuma B. Terça-feira  
 - [**Plano de ensino**][1]
 
 
