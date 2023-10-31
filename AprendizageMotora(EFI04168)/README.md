@@ -23,7 +23,9 @@ a realização de pesquisas e elaboração de trabalhos.
   - Sala 220 no Lapex
  - **Monitores:**
    - Cristiano de Borba Ovalhe
-      - cristianoborbaovalhe@gmail.com / (51) 9.9777-9606 (Whatsapp) 
+      - cristianoborbaovalhe@gmail.com / (51) 9.9777-9606 (Whatsapp)
+    - João Krusser Ferrari
+      - krusser.ferrari@ufrgs.br / (51) 982093117 (Whatsapp)
   
 - **Horário:**
   - Tuma A. Sexta-feira 07:30 às 10:50h
