@@ -28,8 +28,8 @@ a realização de pesquisas e elaboração de trabalhos.
       - krusser.ferrari@ufrgs.br / (51) 982093117 (Whatsapp)
   
 - **Horário:**
-  - Tuma A. Sexta-feira 07:30 às 10:50h
-  - Tuma B. Terça-feira  
+  - Tuma A. Sexta-feira 07:30 às 10:50h - sala 106
+  - Tuma B. Terça-feira 18:30 as 21:30h - sala 101
 - [**Plano de ensino**][1]
 
 
