@@ -29,7 +29,7 @@ a realização de pesquisas e elaboração de trabalhos.
   
 - **Horário:**
   - Tuma A. Sexta-feira 07:30 às 10:50h - sala 106
-  - Tuma B. Terça-feira 18:30 as 21:30h - sala 101
+  - Tuma B. Terça-feira 18:30 as 21:30h - sala 03
 - [**Plano de ensino**][1]
 
 
