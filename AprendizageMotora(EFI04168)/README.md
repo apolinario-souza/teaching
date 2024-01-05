@@ -85,12 +85,12 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |7|B 28/11 + A 01/12|21|**Avaliação 1**             |  | |
 |8|B 05/12 + A 08/12|24|[Feedback][8]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
 |9|B 12/12 + A 15/12|27|[Variabilidade da prática][9]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 |
-|10|B 16/01 + A 19/01|30|[Prática mental][10]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
-|11|B 23/01 + A 26/01|33|[Fragmentação da prática e Relação entre prática e repouso][11]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
-|12|B 30/01 + A 02/02|36|[Instrução verbal, demonstração e metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
-|13|B 06/02 + A 09/02|39|**Avaliação 2**|| |
-|14|B 13/02 + A 16/02|42|[Algumas implicações para a intervenção profissional][1]|Tani (2016) cap.36, 37 e 38; Tani e Correa (2016) cap.1; Krakauer (2022) cap.6; artigo escolhido | 
-|15|B 20/02 + A 23/02|45|**Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"**(online)|   | 
+|10|B 16/01 + A 12/01|30|[Prática mental][10]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
+|11|B 23/01 + A 19/01|33|[Fragmentação da prática e Relação entre prática e repouso][11]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
+|12|B 30/01 + A 26/01|36|[Instrução verbal, demonstração e metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
+|13|B 06/02 + A 02/02|39|**Avaliação 2**|| |
+|14|B 13/02 + A 09/02|42|[Algumas implicações para a intervenção profissional][1]|Tani (2016) cap.36, 37 e 38; Tani e Correa (2016) cap.1; Krakauer (2022) cap.6; artigo escolhido | 
+|15|B 20/02 + A 16/02|45|**Apresentação do Trabalho "Aprendizagem motora e o ensino do esporte"**(online)|   | 
 |16|B 20/02 + A 23/02|48|**Apresentação do Projeto de Pesquisa**(online)                                 |   | 
 |------|||||------|
 |-         | -         | 51          | Projeto de pesquisa  (CH Autônoma)                                        |   
