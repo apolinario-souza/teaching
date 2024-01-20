@@ -89,7 +89,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |11|B 23/01 + A 19/01|33|[Fragmentação da prática e Relação entre prática e repouso][11]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
 |12|B 30/01 + A 26/01|36|[Instrução verbal, demonstração e metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
 |13|B 06/02 + A 09/02|39|**Avaliação 2**|| |
-|14|B 13/02 + A 16/02|42|**Postagem dos dois trabalhos no moodle"**(online)|| 
+|14|B 13/02 + A 16/02|42|**Postagem dos dois trabalhos no moodle**(online)|| 
 |15|B 20/02 + A 23/02|45||   | 
 |16|B 27/02 + A 01/03|48|                                |   | 
 |------|||||------|
