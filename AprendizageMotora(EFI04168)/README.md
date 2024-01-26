@@ -102,8 +102,10 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 ## Atividades de Recuperação Previstas
 Alunos que não alcançarem o rendimento mínimo para aprovação na disciplina (Conceito C) terão o direito de realizar uma prova teórica com todo o conteúdo da disciplina como atividade de recuperação. Para aprovação após a prova de recuperação, será necessário um rendimento igual ou superior ao conceito C.
-- Data da recuperação: 20/02 as 13:30, sala 220 - Lapex
-
+- Data da recuperação:
+- Turma A 23/02 - 8:30
+- Turma B 20/02 - 18:30 
+  
 ## Observações
 
 Alterações no cronograma e conteúdo programático poderão ocorrer no decorrer do semestre dependendo das necessidades das turmas. 
