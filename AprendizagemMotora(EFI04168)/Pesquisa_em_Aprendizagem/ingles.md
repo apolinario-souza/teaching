@@ -1,4 +1,4 @@
-# Revisão histórica da área
+# Pesquisa em Aprendizagem Motora
 ADAMS, J.A. (1987). Historical review and appraisal of research on the learning, retention, and transfer of human motor skills. Psychological Bulletin, 101, 41-74.
 
 ANNET, J. (1985). Motor learning: a review. In H. HEUER, U. KLEINBECK & K.H. SCHMIDT (Eds.), Motor behavior: programming, control, and acquisition. Berlin: Springer-Verlag.
