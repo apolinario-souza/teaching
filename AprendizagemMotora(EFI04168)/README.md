@@ -92,10 +92,10 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |15|25/06B <br> 12/07A|45| -Implicações para atuação profissional|   | 
 |16|02/02B <br> 19/07A |48|-Recuperação                          |   | 
 |------|||||------|
-|-         | -         | 51          | Pesquisa em Aprendizagem Motora  (CH Autônoma)                                        |   
-| -        | -         | 54          | Pesquisa em Aprendizagem Motora (CH Autônoma)  <br> [Como apresentar os resultaos][14]                                       |   
-| -        | -         | 57          | Pesquisa em Aprendizagem Motora (CH Autônoma)                                        |   
-| -        | -         | 60          | Pesquisa em Aprendizagem Motora (CH Autônoma)        |    
+|-         | -         | 51          | Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução|   
+| -        | -         | 54          | Pesquisa em Aprendizagem Motora: como aprensentar o método |   
+| -        | -         | 57          | [Pesquisa em Aprendizagem Motora: como apresentar os resultados][14]|   
+| -        | -         | 60          | Pesquisa em Aprendizagem Motora: como apresentar a discussão e conclusão|    
 
 
 ## Atividades de Recuperação Previstas
