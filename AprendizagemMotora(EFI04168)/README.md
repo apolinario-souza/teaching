@@ -93,7 +93,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |16|02/02B <br> 19/07A |48|-Recuperação                          |   | 
 |------|||||------|
 |-         | -         | 51          | Pesquisa em Aprendizagem Motora  (CH Autônoma)                                        |   
-| -        | -         | 54          | Pesquisa em Aprendizagem Motora (CH Autônoma)                                         |   
+| -        | -         | 54          | Pesquisa em Aprendizagem Motora (CH Autônoma)  <br> [Como apresentar os resultaos][14]                                       |   
 | -        | -         | 57          | Pesquisa em Aprendizagem Motora (CH Autônoma)                                        |   
 | -        | -         | 60          | Pesquisa em Aprendizagem Motora (CH Autônoma)        |    
 
@@ -122,6 +122,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [11]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/11/11.pdf#1
 [12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/12.html
 [13]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Kleynen%20et%20al.%2C%202018).pdf
+[14]:https://youtu.be/dljqqiynrt8
 
 [17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t2.pdf
 [18]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t1.pdf
