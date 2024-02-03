@@ -7,7 +7,7 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 # Roteiro para elaboração da pesquisa
 1. Elabore a Introdução
 - Contextualização
-   - Apresentar o campo de pesquisa e mostrar a importância da área principal
+   - Apresentar o campo de pesquisa e mostre a importância da área principal
    - Familiarize leitor com os termos
 - Lacunas dessa área
    - O que não está bem compreendido?
