@@ -92,10 +92,10 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |15|B 25/06 + A 12/07|45||   | 
 |16|B 02/02 + A 19/07|48| Recuperação                               |   | 
 |------|||||------|
-|-         | -         | 51          | Projeto de pesquisa  (CH Autônoma)                                        |   
-| -        | -         | 54          | Projeto de pesquisa (CH Autônoma)                                         |   
-| -        | -         | 57          | Projeto de pesquisa (CH Autônoma)                                        |   
-| -        | -         | 60          | Projeto de pesquisa (CH Autônoma)        |    
+|-         | -         | 51          | Pesquisa em Aprendizagem Motora  (CH Autônoma)                                        |   
+| -        | -         | 54          | Pesquisa em Aprendizagem Motora (CH Autônoma)                                         |   
+| -        | -         | 57          | Pesquisa em Aprendizagem Motora (CH Autônoma)                                        |   
+| -        | -         | 60          | Pesquisa em Aprendizagem Motora (CH Autônoma)        |    
 
 
 
