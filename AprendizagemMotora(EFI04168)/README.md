@@ -35,22 +35,22 @@ a realização de pesquisas e elaboração de trabalhos.
 
 
 ## Avaliação
-- Avaliaçao 1. 25%
-- Avaliação 2. 25%
-- Relatório dos laboratórios. 10%
-- [Projeto de pesquisa][17]. 20%
-- [Trabalho: Aprendizagem motora e o ensino do esporte][18]. 20%
+- Avaliaçao 1. 2,5 pts
+- Avaliação 2. 2,5 pts
+- Relatório dos laboratórios. 1 pt
+- [Projeto de pesquisa][17]. 2 pts
+- [Trabalho: Aprendizagem motora e o ensino do esporte][18]. 2 pts
 
-- **Bônus** (máx 10%)
-  - Estudo dirigido. 10% 
-  - Participação em pesquisa. 2% 
+- **Bônus** (máx 1 pt)
+  - Estudo dirigido. 1 pt 
+  - Participação em pesquisa. 2 pts 
 
 
 O conceito será atribuído da seguinte forma: 
-- 90% a 100%  - A 
-- 80% a 89% - B
-- 70% a 79%  - C
-- 0 a 69% - D
+- 9 a 10  - A 
+- 8 a 8,9 - B
+- 7 a 7,9  - C
+- 0 a 6,9 - D
 
 *Para aprovação na disciplina será necessário o conceito mínimo de* **C**. 
 
@@ -62,7 +62,6 @@ O conceito será atribuído da seguinte forma:
 - Tani, G., & Corrêa, U. (2016). *Aprendizagem motora e o ensino do esporte*. Editora Blucher.
 - Magill, R. (2018). *Motor Learning and Control: Concepts and Applications*. McGraw-Hill Publishing.
 - Schmidt, R. A.(2019). *Motor control and learning: A behavioral emphasis*. Human kinetics.
-- Krakauer, J. W., & Carmichael, S. T. (2022). *Broken movement: the neurobiology of motor recovery after stroke*. MIT Press.
 
 Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da UFRGS  (https://www.ufrgs.br/bibliotecas/pesquisa/proxy/) e acessando a Minha Biblioteca Online. Adicionalmente, podem ser consultados presencialmente na biblioteca da ESEFID. 
 
