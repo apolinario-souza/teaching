@@ -94,7 +94,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |------|||||------|
 |-         | -         | 51          | Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução|   
 | -        | -         | 54          | Pesquisa em Aprendizagem Motora: como aprensentar o método |   
-| -        | -         | 57          | [Pesquisa em Aprendizagem Motora: como apresentar os resultados][14]|   
+| -        | -         | 57          | [Pesquisa em Aprendizagem Motora: como apresentar os resultados][14] <br> [algoritmo utilizado][15]|   
 | -        | -         | 60          | Pesquisa em Aprendizagem Motora: como apresentar a discussão e conclusão|    
 
 
@@ -123,6 +123,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/12.html
 [13]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Kleynen%20et%20al.%2C%202018).pdf
 [14]:https://youtu.be/dljqqiynrt8
+[15]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/resultados_Pesquisa_em_AM.ipynb
 
 
 [17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/roteiro_pesquisa_em_AM.md
