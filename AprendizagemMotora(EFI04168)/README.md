@@ -35,11 +35,11 @@ a realização de pesquisas e elaboração de trabalhos.
 
 
 ## Avaliação
-- Avaliaçao 1. 2,5 pts
+- Avaliação 1. 2,5 pts
 - Avaliação 2. 2,5 pts
 - Relatório dos laboratórios. 1 pt
-- [Projeto de pesquisa][17]. 2 pts
-- [Trabalho: Aprendizagem motora e o ensino do esporte][18]. 2 pts
+- [Pesquisa em Aprendizagem Motora][17]. 2 pts
+- [Aprendizagem motora e o ensino do esporte][18]. 2 pts
 
 - **Bônus** (máx 1 pt)
   - Estudo dirigido. 1 pt 
