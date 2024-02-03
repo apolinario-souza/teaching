@@ -88,7 +88,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |11|28/05B <br> 14/06A|33|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
 |12|04/06B <br> 21/06A|36|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
 |13|11/06B <br> 28/06A|39|**-Avaliação 2**|| |
-|14|18/06B <br> 05/07A|42| -Implicações para atuação profissional <br> -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora** || 
+|14|18/06B <br> 05/07A|42| -Implicações para atuação profissional <br> -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora** | Kleynen et al. 2020| 
 |15|25/06B <br> 12/07A|45| -Implicações para atuação profissional|   | 
 |16|02/02B <br> 19/07A |48|-Recuperação                          |   | 
 |------|||||------|
