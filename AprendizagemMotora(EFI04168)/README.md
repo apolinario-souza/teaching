@@ -88,7 +88,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |11|28/05B <br> 14/06A|33|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
 |12|04/06B <br> 21/06A|36|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
 |13|11/06B <br> 28/06A|39|**-Avaliação 2**|| |
-|14|18/06B <br> 05/07A|42| -Implicações para atuação profissional <br> -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora** | Kleynen et al. 2020| 
+|14|18/06B <br> 05/07A|42| -Implicações para atuação profissional <br> -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora** |[Kleynen et al. 2020][13]| 
 |15|25/06B <br> 12/07A|45| -Implicações para atuação profissional|   | 
 |16|02/02B <br> 19/07A |48|-Recuperação                          |   | 
 |------|||||------|
@@ -121,7 +121,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [10]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/10/10.pdf#1
 [11]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/11/11.pdf#1
 [12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/12.html
-
+[13]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Kleynen%20et%20al.%2C%202018).pdf
 
 [17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t2.pdf
 [18]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t1.pdf
