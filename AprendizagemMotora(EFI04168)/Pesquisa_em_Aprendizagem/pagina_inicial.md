@@ -5,7 +5,7 @@
 
 # **Aprendizagem Motora (EFI04168)**
 
- Título: Influencia do Foco Interno e Externo na Eficiência de um Salto Vertical Um Estudo Experimental 
+**Influencia do Foco Interno e Externo na Eficiência de um Salto Vertical Um Estudo Experimental** 
  
  Autor: Artur Irigoyen 
  
@@ -13,7 +13,7 @@
  
  Link: https://youtu.be/IlW30MsNjq4
 
- Título: Feedbacks bons e ruins na capacidade de transferência de pacientes acamados do leito
+**Feedbacks bons e ruins na capacidade de transferência de pacientes acamados do leito**
  Autora: Laura Zandavalli
  
  Semestre: 2023/2
