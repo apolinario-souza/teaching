@@ -38,7 +38,10 @@ Link: https://youtu.be/IlW30MsNjq4
  Link: https://www.canva.com/design/DAF9BLph_DA/lXFG8ysKjzKPrJimIyRi5Q/view?utm_content=DAF9BLph_DA&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
 
   **Saque no Beach Tennis e a Prática Mental**
+ 
  Autora: Isadora Trusz e Otávio Soares
+ 
  Semestre: 2023/2 
+ 
  Link: https://www.youtube.com/watch?v=gm77SX-lHvg
 
