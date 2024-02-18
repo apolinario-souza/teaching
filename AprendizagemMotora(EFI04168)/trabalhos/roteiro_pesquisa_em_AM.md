@@ -35,7 +35,8 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 
 5. Elabore uma apresentação
 - Modelo de apresentação
-- Apresentação com 15 minutos.
+- Apresentação com 10 minutos.
+- Colocar o link no youtube
 
 # Critérios de Avaliação
 1. Adequação da pergunta, hipótese e objetivo - Valor 0,5 pts
