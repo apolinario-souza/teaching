@@ -14,7 +14,7 @@
  Link: https://youtu.be/IlW30MsNjq4
 
  Título: Feedbacks bons e ruins na capacidade de transferência de pacientes acamados do leito
- Autora: LAURA ALBERTI ZANDAVALLI
+ Autora: Laura Zandavalli
  
  Semestre: 2023/2
  
