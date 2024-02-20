@@ -64,7 +64,7 @@ O conceito será atribuído da seguinte forma:
 
 Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da UFRGS  (https://www.ufrgs.br/bibliotecas/pesquisa/proxy/) e acessando a Minha Biblioteca Online. Adicionalmente, podem ser consultados presencialmente na biblioteca da ESEFID. 
 
-**Lista de leituras complementares em português e [inglês][22].**
+**Lista de leituras [complementares][22].**
 
 
 ## 
