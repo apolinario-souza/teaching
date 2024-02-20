@@ -35,15 +35,15 @@ a realização de pesquisas e elaboração de trabalhos.
 
 
 ## Avaliação
-- Avaliação 1. 2,5 pts
-- Avaliação 2. 2,5 pts
+- Avaliação 1. 3 pts
+- Avaliação 2. 3 pts
+- [Pesquisa em Aprendizagem Motora][17]. 3 pts
 - Relatório dos laboratórios. 1 pt
-- [Pesquisa em Aprendizagem Motora][17]. 2 pts
-- [Aprendizagem motora e o ensino do esporte][18]. 2 pts
 
 - **Bônus** (máx 1 pt)
   - Estudo dirigido. 1 pt 
-  - Participação em pesquisa. 2 pts 
+  - Participação em pesquisa. 1 pt
+  - Participação no Journal Club. 1 pt
 
 
 O conceito será atribuído da seguinte forma: 
@@ -57,11 +57,10 @@ O conceito será atribuído da seguinte forma:
 ## Material
 **Textbook**
 
-- Schmidt, R. A.(2016). *Aprendizagem e performance motora: dos princípios à aplicação*. Artmed.
+- Schmidt, R. (2016). Aprendizagem e performance motora: dos princípios à aplicação. Artmed.
+- Magill, R. A. (2000). Aprendizagem motora: conceitos e aplicações. Editora Blucher.
 - Tani, G. (2016). *Comportamento motor: conceitos, estudos e aplicações*. Guanabara Koogan.
-- Tani, G., & Corrêa, U. (2016). *Aprendizagem motora e o ensino do esporte*. Editora Blucher.
-- Magill, R. (2018). *Motor Learning and Control: Concepts and Applications*. McGraw-Hill Publishing.
-- Schmidt, R. A.(2019). *Motor control and learning: A behavioral emphasis*. Human kinetics.
+
 
 Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da UFRGS  (https://www.ufrgs.br/bibliotecas/pesquisa/proxy/) e acessando a Minha Biblioteca Online. Adicionalmente, podem ser consultados presencialmente na biblioteca da ESEFID. 
 
@@ -81,7 +80,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |4|09/04B <br> 26/04A|12|[-Memória][4]|Schmidt (2016) p. 189-193; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
 |5|16/04B <br> 03/05A|15|[-Transferência de Aprendizagem][5]             |Schmidt (2016) p. 216-224; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
 |6|23/04B <br> 10/05A|18|[-Teorias da aprendizagem motora][6] |Magill (2018) p.85-111; Schmidt (2016) p. 107-119|
-|7|30/04B <br> 17/05A|21|**-Avaliação 1** <br> -Postagem no moodle do trabalho **"Aprendizagem motora e o ensino do esporte"**             |  | |
+|7|30/04B <br> 17/05A|21|**-Avaliação 1**    |  | |
 |8|07/05B <br> 24/05A|24|[-Feedback][8]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
 |9|14/05B <br> 31/05A|27|[-Variabilidade da prática][9]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 |
 |10|21/05B <br> 07/06A|30|[-Prática mental][10]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
