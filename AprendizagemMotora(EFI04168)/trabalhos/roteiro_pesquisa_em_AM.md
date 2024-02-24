@@ -26,21 +26,28 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 - Qual a hipótese?
 
 6. Teste sua hipótese (Método)
-- Defina a tarefa motora (pode ser de laboratório ou esportiva).
+- Defina a tarefa motora. 
 - Defina qual a medida de desemepenho motor para essa tarefa motora.
 - Defina se será utilizado teste de retenção e/ou teste de transferência nesse estudo.
 - Defina quantas tentativas serão realizadas na fase de aquisição e no(s) teste(s).
 - Defina o intervalo entre a fase de aquisição e os testes (10 minutos, 5 minutos, 24horas?).
-- Colete dados de pelo menos 10 pessoas.
+- Colete dados de pelo menos **10 pessoas**.
+- Utilize imagens, vídeos ou esquemas para ilustrar
 
-5. Elabore uma apresentação
+7. Aprensente os resultados
+   - Apresente os resultados utilizados gráficos ou tabelas.   
+
+8. Elabore uma apresentação
 - Modelo de apresentação
-- Apresentação com 10 minutos.
-- Colocar o link no youtube
+- Tempo estipulado entre 3 a 7 minutos
+- Coloque o link no youtube
 
 # Critérios de Avaliação
-1. Adequação da pergunta, hipótese e objetivo - Valor 0,5 pts
-2. Adequação do método - Valor 1 pts
-3. Apresentação dos resultados - Valor 0,5 pts
+1. A pergunta do estudo é sobre aprendizagem motora? 1 ponto
+2. Cumpriu o tempo estipulado (entre 3 a 7 minutos)? 0,5 pontos
+3. Utilizou gráficos (ou tabelas) para apresentar os resultados? 0,5 pontos
+4. Utilizou imagens, vídeos ou esquemas para ilustrar os métodos (prinpalmente a tarefa motora)? 0,5 pontos
+5. Explicou como o desempenho na tarefa motora foi medido? 0,5 pts
+
 
    
