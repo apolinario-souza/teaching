@@ -45,3 +45,12 @@ Link: https://youtu.be/IlW30MsNjq4
  
  Link: https://www.youtube.com/watch?v=gm77SX-lHvg
 
+  **Efeito do Feedback no exercício de extensão de joelhos**
+ 
+ Autora: Manuella Mônego Ribeito
+ 
+ Semestre: 2023/2 
+ 
+ Link: https://www.youtube.com/watch?v=m5Hp55RkcE0
+
+
