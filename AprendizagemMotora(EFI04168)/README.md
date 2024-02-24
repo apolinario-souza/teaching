@@ -89,7 +89,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |13|11/06B <br> 28/06A|39|**-Avaliação 2**|| |
 |14|18/06B <br> 05/07A|42| -Implicações para atuação profissional <br> -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora** |[Kleynen et al. 2020][13]| 
 |15|25/06B <br> 12/07A|45| -Implicações para atuação profissional|   | 
-|16|02/02B <br> 19/07A |48|-Recuperação                          |   | 
+|16|16/07B <br> 19/07A |48|-Recuperação                          |   | 
 |------|||||------|
 |-         | -         | 51          | Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução|   
 | -        | -         | 54          | Pesquisa em Aprendizagem Motora: como aprensentar o método |   
@@ -101,7 +101,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 Alunos que não alcançarem o rendimento mínimo para aprovação na disciplina (Conceito C) terão o direito de realizar uma prova teórica com todo o conteúdo da disciplina como atividade de recuperação. Para aprovação após a prova de recuperação, será necessário um rendimento igual ou superior ao conceito C.
 - Data da recuperação:
 - Turma A 19/07 - 8:30
-- Turma B 20/02 - 18:30 
+- Turma B 16/07 - 18:30 
   
 ## Observações
 
