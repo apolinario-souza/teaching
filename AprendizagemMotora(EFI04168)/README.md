@@ -89,7 +89,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |15|25/06B <br> 12/07A|45| -Implicações para atuação profissional|   | 
 |16|16/07B <br> 19/07A |48|-Recuperação                          |   | 
 |------|||||------|
-|-         | -         | 51          | Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução|   [Exemplos de projeto][19]
+|-         | -         | 51          | Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução|   [Exemplos de pesquisas][19]
 | -        | -         | 54          | Pesquisa em Aprendizagem Motora: como aprensentar o método |   
 | -        | -         | 57          | [-Pesquisa em Aprendizagem Motora: como apresentar os resultados][14] <br> [-Algoritmo utilizado][15]|   
 | -        | -         | 60          | Pesquisa em Aprendizagem Motora: como apresentar a discussão e conclusão|    
