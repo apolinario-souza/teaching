@@ -46,7 +46,7 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 - Relembre ao ouvinte seu objetivo e sua hipótese e então diga: "Considerando o objetivo apresentado e a hipótese levantada é possível concluir que ...."
 
 # Roteiro para elaboração da apresentação
-- Modelo de apresentação
+- [Modelo de apresentação][1]
 - Tempo estipulado entre 3 a 7 minutos
 - Coloque o link no youtube
 - Não precisa de material escrito
@@ -59,4 +59,4 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 5. Explicou como o desempenho na tarefa motora foi medido? 0,5 pts
 
 
-   
+[1]:https://docs.google.com/presentation/d/1mLP4XlC-fMg2V_fWIOEiLTCFu4jp2eQ_Z4ET2kerJ_Q/edit?usp=sharing 
