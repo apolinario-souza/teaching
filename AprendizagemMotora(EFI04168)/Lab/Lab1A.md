@@ -5,10 +5,7 @@
 ## Procedimentos 
 Em duplas, realizar realizar 50 tentativas do malabares de acordo com o vídeo de demonstração:
 
-<video width="640" height="360" controls>
-  <source src="https://youtu.be/iFSy0MNaDRM" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+[![](https://i.ytimg.com/vi/iFSy0MNaDRM/hqdefault.jpg)](https://youtu.be/iFSy0MNaDRM)
 
 
 
