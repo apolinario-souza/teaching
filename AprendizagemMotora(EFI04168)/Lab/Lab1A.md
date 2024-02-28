@@ -15,7 +15,7 @@ Clique na imagem e assista o vídeo do minuto 2:16 até 3:48
 
 
 
-Após executar todas as tentativas crie duas figuras representando as mudanças no (a) desempenho da tarefa (erro ou acerto) e a (b) sonda ao longo das 50 tentativas. Para isso, assista o seguinte vídeo:
+Após executar todas as tentativas crie duas figuras representando as mudanças no (a) desempenho da tarefa (erro ou acerto) e na (b) sonda ao longo das 50 tentativas. Para isso, assista o seguinte vídeo:
 
 [![](https://i9.ytimg.com/vi/jIal2LVR07g/mqdefault.jpg?sqp=CJSf_q4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-BYAC4AOKAgwIABABGEogUihlMA8=&rs=AOn4CLCT0tLQ_MARSZ5nPVK63DJ-ffA5Vw)](https://youtu.be/jIal2LVR07g)
 
