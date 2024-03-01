@@ -20,6 +20,7 @@ Esse laboratório será constituído por duas partes.
 
 https://youtu.be/PQXqzzvqwCc
 
+
 https://i9.ytimg.com/vi/PQXqzzvqwCc/mq2.jpg?sqp=CJzziK8G-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgVChFMA8%3D&rs=AOn4CLDTwlME8S4O-c1pMshSivQYLGPxxw&retry=4
 
 5. Anote os valores de Força.  
@@ -33,10 +34,15 @@ https://i9.ytimg.com/vi/PQXqzzvqwCc/mq2.jpg?sqp=CJzziK8G-oaymwEmCMACELQB8quKqQMa
 ## Para entregar
 Procure outra dupla e preecha os dados por meio de uma tabela como o exemplo:
 
-| Nome| Força | Habilidade |
+| Nome| Força (N) | Habilidade (cm) |
 |-------------|-------------|-------------|
-| Conteúdo 1  | Conteúdo 2  | Conteúdo 3  |
-| Conteúdo 4  | Conteúdo 5  | Conteúdo 6  |
+| Maria  |  5052  | 18 |
+| João  |  4902  | 29  |
+| Pedro  |  4562 | 33  |
+| Ana  |  3562  | 140  |
+
+**Responda**
+Nas quatro pessoas avaliadas, quem apresentou melhor força foi a que melhor desempenhou a habilidade? Explique os resultados.
 
 
 
