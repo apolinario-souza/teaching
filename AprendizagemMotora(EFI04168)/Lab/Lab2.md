@@ -18,10 +18,22 @@ Esse laboratório será constituído por duas partes.
 
 3. Siga as instruções do vídeo para colatar os dados de força e potência;
 
-4. Anote os valores de potencia e força.  
+https://youtu.be/PQXqzzvqwCc
+
+5. Anote os valores de Força.  
 
 ### Parte 2
 No campo de futebol, em duplas, uma da dupla se posiciona ao lado do cone e sem pegar impulso, chute a bola o mais longe e reto possível. Enquanto o outro colega (experimentador) medirá e anotará a distância da bola a partir do cone que o colega que chutou estava. Repita isso três e anote o melhor valor. 
+
+
+## Para entregar
+Procure outra dupla e preecha os dados por meio de uma tabela como o exemplo:
+
+| Nome| Força |  |
+|-------------|-------------|-------------|
+| Conteúdo 1  | Conteúdo 2  | Conteúdo 3  |
+| Conteúdo 4  | Conteúdo 5  | Conteúdo 6  |
+
 
 
 
