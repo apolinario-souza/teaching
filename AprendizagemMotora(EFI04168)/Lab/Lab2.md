@@ -40,7 +40,8 @@ Procure outra dupla e preecha os dados por meio de uma tabela como o exemplo:
 | Ana  |  3562  | 140  |
 
 **Responda**
-Nas quatro pessoas avaliadas, quem apresentou melhor força foi a que melhor desempenhou a habilidade? Explique os resultados.
+
+Considerando as quatro pessoas da tabela, quem apresentou melhor capacidade de força foi a que apresentou melhor habilidade? Explique.
 
 
 
