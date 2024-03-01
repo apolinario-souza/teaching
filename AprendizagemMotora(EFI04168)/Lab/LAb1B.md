@@ -16,6 +16,6 @@ Continua-se:
 
 2. Realizando uma sonda em seu colega. A sonda funcionará da seguinte forma: assim que o colega iniciar a execução do malabares, o experimentador falará um número qualquer (menor que 10) e disparar um cronômetro, o executante deve responder esse número acrescido por 3 paralelo a execução do malabares. Quando o executante resposta corretamente o experimentador deve parar o cronômetro e anotar o tempo gasto. 
 
-Após executar todas as tentativas crie duas figuras representando as mudanças no (a) desempenho da tarefa (erro ou acerto) e na (b) sonda ao longo das 100 tentativas do primeiro dia e as . Para isso, assista o seguinte vídeo: https://youtu.be/jIal2LVR07g
+Após executar todas as tentativas crie duas figuras representando as mudanças no (a) desempenho da tarefa (erro ou acerto) e na (b) sonda ao longo das 100 tentativas (50 do Lab1A + 50 do Lab1b). Caso queira, assista novamente o vídeo do Lab1A: https://youtu.be/jIal2LVR07g
 
 
