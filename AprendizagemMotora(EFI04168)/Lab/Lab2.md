@@ -14,7 +14,7 @@ Esse laboratório será constituído por duas partes.
 
 
 
-![Texto alternativo](url_da_imagem)
+![Comprimento da perna](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Comp_perna.jpeg)
 
 3. Siga as instruções do vídeo para colatar os dados de força e potência.
 
