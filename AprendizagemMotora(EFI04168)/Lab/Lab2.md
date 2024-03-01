@@ -27,6 +27,7 @@ https://youtu.be/PQXqzzvqwCc
 2. Realize três chutes e avalie a diferança entre a marcação (alvo) do local onde a bola parou.
 3. Anote o melhor valor dos três.
 
+![Figura organização](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/organiza_lab2.png)
 
 ## Para entregar
 Procure outra dupla e preecha os dados por meio de uma tabela como o exemplo:
