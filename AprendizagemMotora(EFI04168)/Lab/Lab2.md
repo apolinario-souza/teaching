@@ -20,9 +20,6 @@ Esse laboratório será constituído por duas partes.
 
 https://youtu.be/PQXqzzvqwCc
 
-
-https://i9.ytimg.com/vi/PQXqzzvqwCc/mq2.jpg?sqp=CJzziK8G-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgVChFMA8%3D&rs=AOn4CLDTwlME8S4O-c1pMshSivQYLGPxxw&retry=4
-
 5. Anote os valores de Força.  
 
 ### Parte 2 - Medindo a habilidade do passe no futsal/futebol
