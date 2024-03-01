@@ -3,7 +3,7 @@
 ## Materiais
 - Bolas de tênis, cronômetro (ou celular) e folha de caderno.
 ## Procedimentos 
-Em duplas, realizar realizar mais 50 tentativas do malabares com três bola; porém, neste momento, duas alterações ocorrerão em relação ao Lab2:
+Em duplas, realizar realizar mais 50 tentativas do malabares com três bolas; porém, neste momento, duas alterações ocorrerão em relação ao Lab2:
 
 1. A medida de desempenho na tarefa não será erro e erros/acertos a tentativa, será o tempo que o participante permaneceu realizando a tarefa sem deixar a bola cair. Anote este tempo a cada tentativa.
 2. Não haverá sonda nessas 50 tentativas. 
