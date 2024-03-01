@@ -6,7 +6,7 @@ Celular, caderno, cones/chinesinhos, bolas de futebol, balança, fita métrica e
 
 ## Procedimentos
 Esse laboratório será constituído por duas partes.
-### Parte 1
+### Parte 1 - Medindo a Capacidade de Força dos membros inferiores
 1. Em duplas façam a instalação do app “JumPo 2” (disponível na PlayStore);
 2. Faça as seguinte medidas:
 
@@ -20,16 +20,20 @@ Esse laboratório será constituído por duas partes.
 
 https://youtu.be/PQXqzzvqwCc
 
+https://i9.ytimg.com/vi/PQXqzzvqwCc/mq2.jpg?sqp=CJzziK8G-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgVChFMA8%3D&rs=AOn4CLDTwlME8S4O-c1pMshSivQYLGPxxw&retry=4
+
 5. Anote os valores de Força.  
 
-### Parte 2
-No campo de futebol, em duplas, uma da dupla se posiciona ao lado do cone e sem pegar impulso, chute a bola o mais longe e reto possível. Enquanto o outro colega (experimentador) medirá e anotará a distância da bola a partir do cone que o colega que chutou estava. Repita isso três e anote o melhor valor. 
+### Parte 2 - Medindo a habilidade do passe no futsal/futebol
+1. Em um espaço aberto (quadra ou campo) posicione um cone a 6 metros de distância de uma marcação no chão com X (alvo). Veja o exemplo da próxima figura, lado esquerdo;
+2. Realize três chutes e avalie a diferança entre a marcação (alvo) do local onde a bola parou.
+3. Anote o melhor valor dos três.
 
 
 ## Para entregar
 Procure outra dupla e preecha os dados por meio de uma tabela como o exemplo:
 
-| Nome| Força |  |
+| Nome| Força | Habilidade |
 |-------------|-------------|-------------|
 | Conteúdo 1  | Conteúdo 2  | Conteúdo 3  |
 | Conteúdo 4  | Conteúdo 5  | Conteúdo 6  |
