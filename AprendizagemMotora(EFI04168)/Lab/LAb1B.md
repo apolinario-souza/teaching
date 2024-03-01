@@ -3,7 +3,7 @@
 ## Materiais
 - Bolas de tênis, cronômetro (ou celular) e folha de caderno.
 ## Procedimentos 
-Em duplas, realizar realizar mais 50 tentativas do malabares; porém, neste momento com trẽs bolas, seguindo o trecho do vídeo:
+Em duplas, realizar realizar mais 50 tentativas do malabares; porém, neste momento com três bolas, seguindo o trecho do vídeo:
 
 Clique na imagem e assista o vídeo do minuto 3:48 até 5:55.
 
