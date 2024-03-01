@@ -14,6 +14,7 @@ Clique na imagem e assista o vídeo do minuto 2:16 até 3:48
 [![](https://i.ytimg.com/vi/iFSy0MNaDRM/hqdefault.jpg)](https://youtu.be/iFSy0MNaDRM?list=PLQ9fmFUN_UmJZC8LGRQfA7R2Ot2UVEQJd&t=136)
 
 
+# Para Entregar
 
 Após executar todas as tentativas crie duas figuras representando as mudanças no (a) desempenho da tarefa (erro ou acerto) e na (b) sonda ao longo das 50 tentativas. Para isso, assista o seguinte vídeo: https://youtu.be/jIal2LVR07g
 
