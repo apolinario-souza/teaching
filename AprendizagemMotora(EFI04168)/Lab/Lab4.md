@@ -53,4 +53,4 @@ Formem quartetos e determine 2 pessoas para grupo experimental e 2 pessoas para 
 2. Na primeira condição ele deverá tentar bloquear utilizando um colchonete (figura a seguir);
 3. Na segunda condição ele deverá bloquar sem o colchonete.
 
-![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab4A.png)
+![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/Lab4B.png)
