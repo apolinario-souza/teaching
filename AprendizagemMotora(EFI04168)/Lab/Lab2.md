@@ -14,7 +14,7 @@ Esse laboratório será constituído por duas partes.
 
 
 
-![Comprimento da perna](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Comp_perna.jpeg)
+![Comprimento da perna](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/Comp_perna.jpeg)
 
 3. Siga as instruções do vídeo para colatar os dados de força e potência:
 
@@ -27,7 +27,7 @@ https://youtu.be/PQXqzzvqwCc
 2. Realize três chutes e avalie a diferança entre a marcação (alvo) do local onde a bola parou (exemplo na figura no lado direito).
 3. Anote o melhor valor dos três.
 
-![Figura organização](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/organiza_lab2.png)
+![Figura organização](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/organiza_lab2.png)
 
 ## Para entregar
 Procure outra dupla e preecha os dados por meio de uma tabela como o exemplo:
