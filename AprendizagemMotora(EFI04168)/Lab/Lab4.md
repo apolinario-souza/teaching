@@ -2,11 +2,11 @@
 
 ## Materiais: 
 
-Cones/chinesinhos, celular (cronômetro) , raquete tênis, bola de tênis, bola de handebol.
+Cones/chinesinhos, celular (cronômetro) e  bola de handebol.
 
 ## Procedimentos
 
-O presente laboratório será dividido em 4 partes
+O presente laboratório será dividido em 2 partes
 
 #### Parte 1 
 Nesta parte do laboratório o objetivo é investigar o efeito prática da Habilidade A, sobre a Habilidade B. Para fazer essa verificação, primeiramente deve-se avaliar todos na Habilidade B, uma parte do grupo pratica a Habilidade A (grupo experimental) e outra parte não pratica (grupo controle). Logo em seguida avaliamos todos na Habilidade B. A tabela a seguir indica o desenho experimental (delineamento) da Parte 1 do Laboratório.
@@ -52,5 +52,12 @@ Formem quartetos e determine 2 pessoas para grupo experimental e 2 pessoas para 
 1. O objetivo da tarefa é realizar realizar o arremesso, vencendo adversário que tentará bloquear a ação em duas condições;
 2. Na primeira condição ele deverá tentar bloquear utilizando um colchonete (figura a seguir);
 3. Na segunda condição ele deverá bloquar sem o colchonete.
+4. Cada condição durará 1minuto e 30, com cronômetro parando com a bola sair.
+5. A medida de desempenho esta tarefa é o número de vezes que foi realizado o arremesso.
 
 ![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/Lab4B.png)
+
+## Para entregar
+1. Em relação a parte 1, houve transferência da Habildiade A para Habilidade B? Explique.
+2. Em relação a parte 2, Qual das duas condições foi mais fácil realizar o arremesso? Explique considerando as duas teorias de transferência de aprendizagem. 
+
