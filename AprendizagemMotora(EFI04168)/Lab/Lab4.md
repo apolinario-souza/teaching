@@ -9,6 +9,22 @@ Cones/chinesinhos, celular (cronômetro) , raquete tênis, bola de tênis, bola 
 O presente laboratório será dividido em 4 partes
 
 #### Parte 1 
+Nesta parte do laboratório o objetivo é investigar o efeito prática da Habilidade A, sobre a Habilidade B. Para fazer essa verificação, primeiramente deve-se avaliar todos na Habilidade B, uma parte do grupo pratica a Habilidade A (grupo experimental) e outra parte não pratica (grupo controle). Logo em seguida avaliamos todos na Habilidade B. A tabela a seguir indica o desenho experimental (delineamento) da Parte 1 do Laboratório.
+
+ |Pré-teste (Hab B) | Aquisição (Hab A) | Pós-teste (Hab B) | 
+|:-----------:|:-----------:|:-----------:|
+|Grupo experimental|Grupo experimental|Grupo experimental|
+|Grupo Controle| |Grupo Controle|
+
+
+Formem quartetos e determine quem será o grupo experimental e o grupo controle. 
+
+Habilidade B
+
+1. Em quatetos, defina as quatro funções, (1) executante, (2) experimetador 1 e (3) experimetador 2  e (4) experimetador 3. Todos deverão passar pelas 4 funções.
+2. O executante deverá realizar realizar o drible (quicar a bola) parado contiunamente durante 1 minuto. A execução do drible deverá ocorrer com variações impostas pelo experimetador 1 por meio de estílumos auditívos pareados;
+3. Estes estímulos auditívos pareados serão: (1) quando experimetador "gritar" o número 1, o executante deverá driblar com a mão esquerda (direta para canhoto); (2) quando experimetador "gritar" o número 2, o executante deverá driblar com uma das mãos na cabeça; (3) quando experimetador "gritar" o número 3, o executante deverá driblar com o centro de gravidade mais próximo ao solo (se abaixar); (4) quando experimetador "gritar" o número 4, o executante deverá driblar deixa a bola no chão e executar um salto vertical; (5) quando experimetador "gritar" o número 5, o executante deverá driblar com uma das mãos na cintura; (5) quando experimetador "gritar" o número 5, o executante deverá driblar com uma das mãos na cintura 
+
 Habilidade A
 1. Em quatetos, coloque três cones com cores distintas serão posicionados à frente com a distância de um passo e meio;
 2. Faça uma lista de 30 tentativas com uma das três corres dos cone, exemplo na tabela a seguir. Essa lista será útil no futuro;
