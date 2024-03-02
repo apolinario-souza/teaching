@@ -9,13 +9,11 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 - Contextualização
    - Apresentar o campo de pesquisa e mostre a importância da área principal
    - Familiarize leitor com os termos
-- Lacunas dessa área
+- Lacunas dessa área (problema de investigação)
    - O que não está bem compreendido?
    - Perguntas abertas
    - Restrições
    - Limitações
-- Mostre o que há de mais moderno
-  - Evidencie pesquisas e descobertas recentes
 - Afirme a importância do seu estudo
   - Evidenciando Implicações e/ou Aplicações
 
