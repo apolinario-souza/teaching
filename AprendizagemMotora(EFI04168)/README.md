@@ -76,7 +76,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |2|26/03B <br> 05/04A|6|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Schmidt (2016)p. 10-15; Schmidt (2019) p.54-93; Magill (2018) p.26-28|Lab1B e Lab2
 |3|02/04B <br> 12/04A|9|[-Princípios e conceitos da aprendizagem motora][3]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436,530-563; Magill (2018) p.256-317|Lab1C
 |4|09/04B <br> 26/04A|12|[-Diferenças individuais][4]|Schmidt (2016) cap. 6; <br>  Magill (2010) p.298-317 |
-|5|16/04B <br> 03/05A|15|[-Transferência de Aprendizagem][5]             |Schmidt (2016) p. 216-224; Schmidt (2019) p.593-604; Magill (2018) p.298-317 |
+|5|16/04B <br> 03/05A|15|[-Transferência de Aprendizagem][5]             |Schmidt (2016) p. 216-224; Schmidt (2019) p.593-604; Magill (2018) p.298-317 | Lab4
 |6|23/04B <br> 10/05A|18|[-Teorias da aprendizagem motora][6] |Magill (2018) p.85-111; Schmidt (2016) p. 107-119|
 |7|30/04B <br> 17/05A|21|**-Avaliação 1**    |  | |
 |8|07/05B <br> 24/05A|24|[-Feedback][8]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
