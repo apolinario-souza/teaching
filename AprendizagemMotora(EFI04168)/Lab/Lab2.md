@@ -41,7 +41,7 @@ Procure outra dupla e preecha os dados por meio de uma tabela como o exemplo:
 
 **Responda**
 
-Considerando as quatro pessoas da tabela, quem apresentou melhor capacidade de força foi a que apresentou melhor habilidade? Explique.
+Considerando as quatro pessoas da sua tabela, quem apresentou melhor capacidade de força foi a que apresentou melhor habilidade? Explique.
 
 
 
