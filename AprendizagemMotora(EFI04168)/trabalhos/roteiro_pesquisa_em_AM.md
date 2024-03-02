@@ -25,7 +25,7 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 
 6. Teste sua hipótese (Materiais e Métodos)
 - Defina a tarefa motora. 
-- Defina qual a medida de desemepenho motor para essa tarefa motora.
+- Defina qual a medida de desempenho motor para essa tarefa motora.
 - Defina se será utilizado teste de retenção e/ou teste de transferência nesse estudo.
 - Defina quantas tentativas serão realizadas na fase de aquisição e no(s) teste(s).
 - Defina o intervalo entre a fase de aquisição e os testes (10 minutos, 5 minutos, 24horas?).
