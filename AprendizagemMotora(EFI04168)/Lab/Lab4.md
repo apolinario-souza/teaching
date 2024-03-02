@@ -43,7 +43,7 @@ Formem quartetos e determine 2 pessoas para grupo experimental e 2 pessoas para 
 5. O objetivo da tarefa é executar um drible (quicar a bola no chão no local definido) estática e após deslocar sem driblar para um dos cones o mais rápido possível; 
 6. O cone alvo será informando por uma segunda pessoa (ou experimentador 1) durante o driblem estática; entretanto, o executante sempre deve ir para o cone alvo indicado da tentativa anterior. Por exemplo, na tentativa 3 o experimentador 1 disse amarelo, nesta tentativa o executante não deve ir para o cone amarelo, mas no cone informado na tentativa 2. Na tentativa 4 o experimentador dirá outra cor do cone, mas desta fez o executante deverá ir para o cone de cor amarelo, ou seja, da tentativa 3. Observe a figura seguinte, ela apresenta uma sequência de quatro tentativas.
 
-![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab4A.png)
+![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/Lab4A.png)
 
 **Repita o pós teste com a Habilidade B para todos**
 
