@@ -10,7 +10,7 @@ O presente laboratório será dividido em 4 partes
 
 #### Parte 1 
 Habilidade A
-1. Em trios, coloque três cones com cores distintas serão posicionados à frente com a distância de um passo e meio;
+1. Em quatetos, coloque três cones com cores distintas serão posicionados à frente com a distância de um passo e meio;
 2. Faça uma lista de 30 tentativas com uma das três corres dos cone, exemplo na tabela a seguir. Essa lista será útil no futuro;
 
 | Tentativa | Cor | 
@@ -20,7 +20,7 @@ Habilidade A
 | 3  | Azul|
 | (...) | (...)|
 
-4. Nesta tarefa teremos 2 experimentadores 1 executante. Não se esqueça que todos deverão passar por todos os papeis;
+4. Nesta tarefa teremos 2 experimentadores 1 executante. Uma observação importante, apenas duas pessoas do quarteto executarão essa tarefas, os outros dois serão o controle.
 5. O objetivo da tarefa é executar um drible (quicar a bola no chão no local definido) estática e após deslocar sem driblar para um dos cones o mais rápido possível; 
 6. O cone alvo será informando por uma segunda pessoa (ou experimentador 1) durante o driblem estática; entretanto, o executante sempre deve ir para o cone alvo indicado da tentativa anterior. Por exemplo, na tentativa 3 o experimentador 1 disse amarelo, nesta tentativa o executante não deve ir para o cone amarelo, mas no cone informado na tentativa 2. Na tentativa 4 o experimentador dirá outra cor do cone, mas desta fez o executante deverá ir para o cone de cor amarelo, ou seja, da tentativa 3. Observe a figura seguinte, ela apresenta uma sequência de quatro tentativas.
 
