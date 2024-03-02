@@ -89,10 +89,10 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |15|25/06B <br> 12/07A|45| -Implicações para atuação profissional|   | 
 |16|16/07B <br> 19/07A |48|-Recuperação                          |   | 
 |------|||||------|
-|-         | -         | 51          | Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução|   [Exemplos de pesquisas][19]
-| -        | -         | 54          | Pesquisa em Aprendizagem Motora: como aprensentar o método |   
-| -        | -         | 57          | [-Pesquisa em Aprendizagem Motora: como apresentar os resultados][14] <br> [-Algoritmo utilizado][15]|   
-| -        | -         | 60          | Pesquisa em Aprendizagem Motora: como apresentar a discussão e conclusão|    
+|-         | -         | 51          | [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução][20]|   [Exemplos de pesquisas][19]
+| -        | -         | 54          | [Pesquisa em Aprendizagem Motora: como aprensentar o método][21] |   
+| -        | -         | 57          | [Pesquisa em Aprendizagem Motora: como apresentar os resultados][14] <br> [-Algoritmo utilizado][15]|   
+| -        | -         | 60          | [Pesquisa em Aprendizagem Motora: como apresentar a discussão e conclusão][23]|    
 
 
 ## Atividades de Recuperação Previstas
@@ -124,12 +124,14 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 
 
 [17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/roteiro_pesquisa_em_AM.md
-[18]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/trabalhos/t1.pdf
+[18]:
 
 [19]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Pesquisa_em_Aprendizagem/pagina_inicial.md
+[20]:https://youtu.be/dnjYvaQVAQM
+[21]:https://youtu.be/Yq69qkbGMrE
+[23]:https://youtu.be/rlPpJMJy-3k
 
 
 
 
-[21]:https://reader.elsevier.com/reader/sd/pii/S0301051119300468?token=2C1D072F98ADD5B95C6F76E359A382B9D5E1A295FF5428652DA301743842652F39709C31589B52FB441B869BF560789E&originRegion=us-east-1&originCreation=20220921192529
 [22]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/complementar/ingles.md
