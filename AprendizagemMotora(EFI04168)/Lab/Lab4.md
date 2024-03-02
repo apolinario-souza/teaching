@@ -48,11 +48,9 @@ Formem quartetos e determine 2 pessoas para grupo experimental e 2 pessoas para 
 **Repita o pós teste com a Habilidade B para todos**
 
 
+#### Parte 2 
+1. O objetivo da tarefa é realizar realizar o arremesso, vencendo adversário que tentará bloquear a ação em duas condições;
+2. Na primeira condição ele deverá tentar bloquear utilizando um colchonete (figura a seguir);
+3. Na segunda condição ele deverá bloquar sem o colchonete.
 
-Elementos idênticos:
-Em duplas, um terá que realizar o teste e o outro terá que realizar o teste mais o agachamento pistol. 
-O teste consiste em chutar uma bola por cima de uma altura e acertar dentro de uma goleira de cones, enquanto o experimentador anota o erro ou acerto da sua dupla (erro = 0 e acerto = 1). 
-O teste é constituído de 3 partes, sendo elas: 
-Pré-teste – onde o experimentador deve anotar o erro/acerto do seu colega;
-Aquisição – onde será realizado 30 tentativas;
-Pós-teste – onde o experimentador deve anotar de novo o erro/acerto do seu colega;
+![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab4A.png)
