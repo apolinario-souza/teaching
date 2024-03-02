@@ -10,7 +10,7 @@ Esse laboratório será constituído por duas partes.
 1. Em duplas façam a instalação do app “JumPo 2” (disponível na PlayStore);
 2. Faça as seguinte medidas:
 
-![Altura 90 graus](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Altura_90.jpeg)
+![Altura 90 graus](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/Altura_90.jpeg)
 
 
 
