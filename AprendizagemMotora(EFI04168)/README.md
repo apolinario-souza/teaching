@@ -79,8 +79,8 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |5|16/04B <br> 03/05A|15|[-Transferência de Aprendizagem][5]             |Schmidt (2016) p. 216-224; Schmidt (2019) p.593-604; Magill (2018) p.298-317 | Lab4
 |6|23/04B <br> 10/05A|18|[-Teorias da aprendizagem motora][6] |Magill (2018) p.85-111; Schmidt (2016) p. 107-119|
 |7|30/04B <br> 17/05A|21|**-Avaliação 1**    |  | |
-|8|07/05B <br> 24/05A|24|[-Feedback][8]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381|
-|9|14/05B <br> 31/05A|27|[-Variabilidade da prática][9]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 |
+|8|07/05B <br> 24/05A|24|[-Feedback][8]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381| Lab5
+|9|14/05B <br> 31/05A|27|[-Variabilidade da prática][9]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 | Lab6
 |10|21/05B <br> 07/06A|30|[-Prática mental][10]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
 |11|28/05B <br> 14/06A|33|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
 |12|04/06B <br> 21/06A|36|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
