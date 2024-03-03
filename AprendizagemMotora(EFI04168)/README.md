@@ -132,15 +132,15 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [22]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/complementar/ingles.md
 [23]:https://youtu.be/rlPpJMJy-3k
 
-[24]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb1A.md
-[25]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb1B.md
-[26]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb1C.md
-[27]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb2.md
+[24]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab1A.md
+[25]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab1B.md
+[26]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab1C.md
+[27]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab2.md
 
 
 
-[29]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb4.md
-[30]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb5.md
+[29]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab4.md
+[30]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab5.md
 
 
 
