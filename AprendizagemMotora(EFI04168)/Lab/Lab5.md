@@ -36,7 +36,8 @@ No pré-teste TODOS os grupos executaram executarão 5 tentativas sem receberem 
 
 Obs. Não sabe calcular o **desvio padrão** e/ou **média**, veja o vídeo a seguir: https://www.youtube.com/watch?v=JEwd0Vlqapo
 
-
-
-2. Considerando as hipóteses que explicam o os efeitos do feedback na aprendizagem motora, explique seus resultados.
+3. De forma geral, qual grupo foi melhor?
+4. Qual grupo foi melhor considerando o **persistência**? Por que?
+5. Qual grupo foi melhor considerando a **adaptabilidade**? Por que?
+6. Considerando as hipóteses que explicam os efeitos do feedback na aprendizagem motora, explique seus resultados.
 
