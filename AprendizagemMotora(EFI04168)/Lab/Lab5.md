@@ -32,7 +32,7 @@ No pré-teste TODOS os grupos executaram executarão 5 tentativas sem receberem 
 | G 50% | 23,6  | -  |3,5 |6,8| 
 | G 33% | 21,5  | -  |5,9 |10,4|
 
-2. Faça uma tabela com a **desvio padrão** do erro das 5 tentativas do pré-teste e  das 5 tentativas da retenção/pós-teste, conforme o exemplo da tabela anterior.
+2. Faça uma tabela com o **desvio padrão** do erro das 5 tentativas do pré-teste e  das 5 tentativas da retenção/pós-teste, conforme o exemplo da tabela anterior.
 
 Obs. Se você não sabe calcular o **desvio padrão** e/ou **média**, veja o vídeo a seguir: https://www.youtube.com/watch?v=JEwd0Vlqapo
 
