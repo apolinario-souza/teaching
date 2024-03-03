@@ -16,8 +16,11 @@ Linear Positioning Task e caderno.
 | G 33% | 5 tentativas  | 30 tentativas  |5 tentativas |
 
 No pré-teste TODOS os grupos executaram executarão 5 tentativas sem receberem o feedback. Na aquisição os grupos se diferenciarão, sendo que o G100% receberá feedback a cada tentativa, o G50% receberá uma tentativa sim e uma tentativa não e o G33% reberá uma sim e duas não. Por fim, a retenção/pós-teste será semelhante ao pré-teste. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste e na retenção/pós-teste;
+
 7. O feedback será fornecido pelo valor real no qual o executante produziu. Por exemplo, ele se o executante parou a 81cm, deve-se informar o valor 81cm e não seu erro (1cm);
+
 8. O experimentador deverá sempre retornar o braço do executante após a execução;
+
 9. O experimentador deverá indicar o início da tentativa, "prepara", e em seguida "vai".
 
 ## Para entregar
