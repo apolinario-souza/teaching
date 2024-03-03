@@ -34,7 +34,7 @@ No pré-teste TODOS os grupos executaram executarão 5 tentativas sem receberem 
 
 2. Faça uma tabela com a **desvio padrão** do erro das 5 tentativas do pré-teste e  das 5 tentativas da retenção/pós-teste, conforme o exemplo da tabela anterior.
 
-Obs. Não sabe calcular o **desvio padrão** e/ou **média**, veja o vídeo a seguir: https://www.youtube.com/watch?v=JEwd0Vlqapo
+Obs. Se você não sabe calcular o **desvio padrão** e/ou **média**, veja o vídeo a seguir: https://www.youtube.com/watch?v=JEwd0Vlqapo
 
 3. De forma geral, qual grupo foi melhor?
 4. Qual grupo foi melhor considerando o **persistência**? Por que?
