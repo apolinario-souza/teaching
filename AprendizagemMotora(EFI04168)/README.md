@@ -129,9 +129,16 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [19]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Pesquisa_em_Aprendizagem/pagina_inicial.md
 [20]:https://youtu.be/dnjYvaQVAQM
 [21]:https://youtu.be/Yq69qkbGMrE
+[22]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/complementar/ingles.md
 [23]:https://youtu.be/rlPpJMJy-3k
 
+[24]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb1A.md
+[25]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb1B.md
+[26]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb1C.md
+[27]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb2.md
+
+[29]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb4.md
+[30]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/LAb5.md
 
 
 
-[22]:https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/complementar/ingles.md
