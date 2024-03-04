@@ -19,12 +19,10 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
 - **Professor:** Tércio Apolinário de Souza
   - edf.tercio@gmail.com / (31) 9.8843-8435 (Whatsapp) 
   - Sala 220 no Lapex
- - **Monitores:**
+ - **Monitor:**
    - Cristiano de Borba Ovalhe
       - cristianoborbaovalhe@gmail.com / (51) 9.9777-9606 (Whatsapp)
-    - João Krusser Ferrari
-      - krusser.ferrari@ufrgs.br / (51) 982093117 (Whatsapp)
-  
+    
 - **Horário:**
   - Tuma A. Sexta-feira 07:30 às 10:50h - sala 106
   - Tuma B. Terça-feira 18:30 as 21:30h - sala 03
