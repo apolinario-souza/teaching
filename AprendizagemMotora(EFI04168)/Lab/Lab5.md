@@ -38,6 +38,7 @@ Obs. Se você não sabe calcular o **desvio padrão** e/ou **média**, veja o v�
 
 3. De forma geral, qual grupo foi melhor?
 4. Qual grupo foi melhor considerando o **persistência**? Por que?
-5. Qual grupo foi melhor considerando a **adaptabilidade**? Por que?
-6. Considerando as hipóteses que explicam os efeitos do feedback na aprendizagem motora, explique seus resultados.
+5. Qual grupo foi melhor considerando a **consistência**? Por que?
+6. Qual grupo foi melhor considerando a **adaptabilidade**? Por que?
+7. Considerando as hipóteses que explicam os efeitos do feedback na aprendizagem motora, explique seus resultados.
 
