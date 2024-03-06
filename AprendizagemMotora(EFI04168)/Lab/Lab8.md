@@ -34,7 +34,7 @@ Tentativa 5.  2ª parte da habilidade
 
 Tentativa 6. 3ª parte da habilidade
 
-A forma como a habilidade será fragmentada será de livre escolha dos 4 integrantes do grupo. Na aquisição os grupos parmanecerão semelhantes ao pré-teste, porém, agora serão 21 tentativas e demonstração (vídeo) só será fornecida a cada 3 tentativas. Após 10 minutos da aquisição se iniciará a retenção/pós-teste, semelhante ao pré-teste.
+A forma como a habilidade será fragmentada será de livre escolha dos 4 integrantes do grupo. Na aquisição os grupos permanecerão semelhantes ao pré-teste, porém, agora, serão 21 tentativas e demonstração (vídeo) só será fornecida a cada 3 tentativas. Adote o mesmo esquema do pré-teste para ir intercalando as 1,2,3 entre as 21 tentativas nos grupos PAR-HabA e PAR-HabB. Após 10 minutos da aquisição se iniciará a retenção/pós-teste, semelhante ao pré-teste.
 
 9. O experimentador deverá  indicar o início da tentativa, "prepara", e em seguida "vai", indicando para o executante iniciar a ação.
 
