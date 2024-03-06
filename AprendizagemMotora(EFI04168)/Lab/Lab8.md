@@ -1,13 +1,14 @@
-# Laboratório 1B – Processo de Aprendizagem 
+# Laboratório 8 – Fragmentação da prática 
 
 ## Materiais
-- Bolas de tênis, cronômetro (ou celular) e folha de caderno.
+- 1 galão de 20 litros com água, cronômetro (ou celular) e folha de caderno.
 ## Procedimentos 
 Em duplas, realizar realizar mais 50 tentativas do malabares; porém, neste momento com três bolas, seguindo o trecho do vídeo:
 
 Clique na imagem e assista o vídeo do minuto 3:48 até 5:55.
 
-[![](https://i.ytimg.com/vi/iFSy0MNaDRM/hqdefault.jpg)](https://youtu.be/iFSy0MNaDRM?list=PLQ9fmFUN_UmJZC8LGRQfA7R2Ot2UVEQJd&t=226)
+[Video pelo todo](https://youtube.com/shorts/qMHxcXy-AqQ)
+[Video por parte](https://youtu.be/rye73646a0A)
 
 
 Continua-se:
