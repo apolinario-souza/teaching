@@ -3,12 +3,16 @@
 ## Materiais
 - 1 galão de 20 litros com água, cronômetro (ou celular) e folha de caderno.
 ## Procedimentos 
-Em duplas, realizar realizar mais 50 tentativas do malabares; porém, neste momento com três bolas, seguindo o trecho do vídeo:
+1. Em quatro pessoas, determine duas para praticar a Habilidade A (ver vídeo) e duas praticarão a habildiade B (ver vídeo).
+2. O obejtivo de ambas habildiades é executar rápido possível; desta forma, a medida de desempenho na tarefa será o tempo.
+3. O delineamento experimental do laboratório será:
+4.  
 
 Clique na imagem e assista o vídeo do minuto 3:48 até 5:55.
 
-[Video pelo todo](https://youtube.com/shorts/qMHxcXy-AqQ)
-[Video por parte](https://youtu.be/rye73646a0A)
+[Habilidade A](https://youtube.com/shorts/qMHxcXy-AqQ)
+
+[Habilidade B](https://youtu.be/rye73646a0A)
 
 
 Continua-se:
