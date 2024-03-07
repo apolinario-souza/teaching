@@ -10,7 +10,7 @@ cone/chinesinho, bola de basquete, celular (filmar) e caderno.
 
 5. Já a medida de programa motor generalizado se dará pela lista de checagem da habilidade, essa lista é composta por 9 itens, cada item possui o valor de 1 ponto. Isso indica que se o aprendiz poderá somar no máximo 9 pontos em cada tentativa. A seguir a lista de checagem;
 
-![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/tabela_basquete.png)
+![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/medida_de_PMG.png)
 
 
 7. O desenho experimental (delineamento) do lab será o seguinte:
