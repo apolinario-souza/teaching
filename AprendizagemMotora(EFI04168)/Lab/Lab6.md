@@ -4,8 +4,8 @@ cone/chinesinho, bola de basquete, celular (filmar) e caderno.
 ## Procedimentos
 1. Formem grupos com 4 alunos;
 2. A tarefa motora consiste em arremessar a bola de basquete na cesta realizando o padrão de movimento do lance livre, conforme o seguinte vídeo: https://www.youtube.com/watch?app=desktop&v=K7l-4EAHiVw
-3. O desempenho na tarefa será medido de duas formas: medida de parâmetro e medida de programa motor generalizado.
-4. A medida de parâmetro será medida pela pontução considerando, 9 pontos para conversão da bola na cesta em tocar no aro (chuá), 8 pontos se a bola tocar o aro e converter, 7 pontos se tocar na tabela e converter, 6 pontos se tocar no aro sem converter, 5 pontos se tocar no quadrado menor sem converter, 4 pontos se tocar na tabela sem converter, 3 pontos se a bola for fora da tabela. O esquema de pontuação pode ser visto na figura a seguir .
+3. O desempenho na tarefa será medido de duas formas: medida de parâmetros e medida de programa motor generalizado.
+4. A medida de parâmetros será medida pela pontução considerando, 9 pontos para conversão da bola na cesta em tocar no aro (chuá), 8 pontos se a bola tocar o aro e converter, 7 pontos se tocar na tabela e converter, 6 pontos se tocar no aro sem converter, 5 pontos se tocar no quadrado menor sem converter, 4 pontos se tocar na tabela sem converter, 3 pontos se a bola for fora da tabela. O esquema de pontuação pode ser visto na figura a seguir .
 ![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/tabela_basquete.png)
 
 5. Já a medida de programa motor generalizado se dará pela lista de checagem da habilidade, essa lista é composta por 5 perguntas, se naquela tentativa ele "respodeu sim" é marcado 1 ponto, caso contrário 0 ponto. A seguir a lista de checagem;
@@ -22,7 +22,7 @@ cone/chinesinho, bola de basquete, celular (filmar) e caderno.
 | Grupos | Pré-teste| Aquisição | Retenção/Pós-Teste |Transferência |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G-Cons | 5 tentativas  | 30 tentativas  | 5 tentativas |5 tentativas |
-|G-bloc | 5 tentativas  | 30 tentativas  |5 tentativas |5 tentativas |
+|G-Bloc | 5 tentativas  | 30 tentativas  |5 tentativas |5 tentativas |
 |G-Seri | 5 tentativas  | 30 tentativas  |5 tentativas |5 tentativas |
 |G-Alea | 5 tentativas  | 30 tentativas  |5 tentativas |5 tentativas |
 
@@ -30,22 +30,19 @@ No pré-teste TODOS os grupos executaram executarão 5 tentativas apenas na posi
 
 ![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/posicoes_lab6.png)
 
-Na aquisição os grupos se diferenciarão, sendo que o G100% receberá feedback a cada tentativa, o G50% receberá intercalando uma tentativa sim e uma tentativa não e o G33% receberá intercalando uma tentativa sim e duas tentativas não. Após 10 minutos da aquisição se iniciará a retenção/pós-teste, semelhante ao pré-teste/retenção. Logo após retenção/pós-teste, iniciará o teste de transferência. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, a meta não será deslocar até 80 cm, mas deslocar até 95 cm. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência;
-
-7. O feedback (apenas na aquisição) será fornecido pelo valor real no qual o executante produziu. Por exemplo, ele se o executante parou a 81cm, deve-se informar o valor 81cm e não seu erro (1cm);
-
-8. O experimentador deverá sempre retornar o braço do executante após a execução;
+Na aquisição os grupos se diferenciarão, sendo que o G-Cons praticará 30 tentativas apenas na posição A, o G-Bloc praticará em blocos nas posições A, B e C, o G-Seria praticará de forma seriada nas posições A, B e C e o G-Alea praticará de forma seriada nas posições A, B e C.  Após 10 minutos da aquisição se iniciará a retenção/pós-teste, semelhante ao pré-teste. Logo após retenção/pós-teste, iniciará o teste de transferência. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, o arremesso será na posição D. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência.
 
 9. O experimentador deverá indicar o início da tentativa, "prepara", e em seguida "vai", indicando para o executante iniciar a ação.
 
 ## Para entregar
-1. Faça uma tabela com a **média** do erro das 5 tentativas do pré-teste e  das 5 tentativas da retenção/pós-teste, conforme o exemplo:
+1. Faça uma tabela com a **média** pontos com a medida de parâmetros da  das 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo:
 
-| Grupos | Pré-teste (cm)| Aquisição | Retenção/Pós-Teste (cm) | Transferência (cm) |
+| Grupos | Pré-teste (pts)| Aquisição | Retenção/Pós-Teste (pts) | Transferência (pts) |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G 100% | 24,7  |-| 9,7 | 15,2| 
-| G 50% | 23,6  | -  |3,5 |6,8| 
-| G 33% | 21,5  | -  |5,9 |10,4|
+|G-Cons | 3,7  | - | 7,6 |5,1|
+|G-Bloc | 2,9  | - | 9,3|6,2|
+|G-Seri | 3,1  | -  |12,3|7,9 |
+|G-Alea | 4,2  |- |12,5 |8,0 |
 
 2. Faça uma tabela com o **desvio padrão** do erro das 5 tentativas do pré-teste e  das 5 tentativas da retenção/pós-teste, conforme o exemplo da tabela anterior.
 
