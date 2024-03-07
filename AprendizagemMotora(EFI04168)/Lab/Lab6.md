@@ -1,13 +1,17 @@
-# Laboratório 6 – Variabilidade da prática
+![image](https://github.com/apolinario-souza/teaching/assets/40078879/8e6c4f97-2016-48da-a76a-62fe9d204353)![image](https://github.com/apolinario-souza/teaching/assets/40078879/dda8b51d-6111-456a-ab9f-0c07f6121039)# Laboratório 6 – Variabilidade da prática
 ## Materiais
 cone/chinesinho, bola de basquete, celular (filmar) e caderno.
 ## Procedimentos
 1. Formem grupos com 4 alunos;
 2. A tarefa motora consiste em arremessar a bola de basquete na cesta realizando o padrão de movimento do lance livre, conforme o seguinte vídeo: https://www.youtube.com/watch?app=desktop&v=K7l-4EAHiVw
-3. O desempenho na tarefa será medido de duas formas: medida de parâmetro e medida do programa motor generalizado.
+3. O desempenho na tarefa será medido de duas formas: medida de parâmetro e medida de programa motor generalizado.
 4. A medida de parâmetro será medida pela pontução considerando, 9 pontos para conversão da bola na cesta em tocar no aro (chuá), 8 pontos se a bola tocar o aro e converter, 7 pontos se tocar na tabela e converter, 6 pontos se tocar no aro sem converter, 5 pontos se tocar no quadrado menor sem converter, 4 pontos se tocar na tabela sem converter, 3 pontos se a bola for fora da tabela. O esquema de pontuação pode ser visto na figura a seguir .
 ![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/tabela_basquete.png)
-6. O desenho experimental (delineamento) do lab será o seguinte:
+5. Já a medida de programa motor generalizado se dará pela lista de checagem da habilidade, essa lista é composta por 9 itens, cada item possui o valor de 1 ponto. Isso indica que se o aprendiz realizar todos os requisitos ele poderá somar no máximo 9 pontos em cada tentativa. A seguir a lista de checagem;
+
+
+
+7. O desenho experimental (delineamento) do lab será o seguinte:
 
 | Grupos | Pré-teste| Aquisição | Retenção/Pós-Teste |Transferência |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
