@@ -32,7 +32,7 @@ No pré-teste TODOS os grupos executaram executarão 5 tentativas apenas na posi
 
 Na aquisição os grupos se diferenciarão, sendo que o G-Cons praticará 30 tentativas apenas na posição A, o G-Bloc praticará em blocos nas posições A, B e C, o G-Seria praticará de forma seriada nas posições A, B e C e o G-Alea praticará de forma seriada nas posições A, B e C.  Após 10 minutos da aquisição se iniciará a retenção/pós-teste, semelhante ao pré-teste. Logo após retenção/pós-teste, iniciará o teste de transferência. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, o arremesso será na posição D. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência.
 
-9. O experimentador deverá indicar o início da tentativa, "prepara", e em seguida "vai", indicando para o executante iniciar a ação.
+8. O experimentador deverá indicar o início da tentativa, "prepara", e em seguida "vai", indicando para o executante iniciar a ação.
 
 ## Para entregar
 1. Faça uma tabela com a **média** de pontos da medida de parâmetros das 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo:
