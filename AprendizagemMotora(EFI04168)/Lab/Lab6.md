@@ -21,16 +21,16 @@ cone/chinesinho, bola de basquete, celular (filmar) e caderno.
 
 | Grupos | Pré-teste| Aquisição | Retenção/Pós-Teste |Transferência |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G-Cons | 5 tentativas  | 30 tentativas  | 5 tentativas |5 tentativas |
-|G-Bloc | 5 tentativas  | 30 tentativas  |5 tentativas |5 tentativas |
-|G-Seri | 5 tentativas  | 30 tentativas  |5 tentativas |5 tentativas |
-|G-Alea | 5 tentativas  | 30 tentativas  |5 tentativas |5 tentativas |
+|G-Cons | 5 tentativas  | 60 tentativas  | 5 tentativas |5 tentativas |
+|G-Bloc | 5 tentativas  | 60 tentativas  |5 tentativas |5 tentativas |
+|G-Seri | 5 tentativas  | 60 tentativas  |5 tentativas |5 tentativas |
+|G-Alea | 5 tentativas  | 60 tentativas  |5 tentativas |5 tentativas |
 
 No pré-teste TODOS os grupos executaram executarão 5 tentativas apenas na posição A da imagem a seguir. 
 
 ![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/posicoes_lab6.png)
 
-Na aquisição os grupos se diferenciarão, sendo que o G-Cons praticará 30 tentativas apenas na posição A, o G-Bloc praticará em blocos nas posições A, B e C, o G-Seria praticará de forma seriada nas posições A, B e C e o G-Alea praticará de forma seriada nas posições A, B e C.  Após 10 minutos da aquisição se iniciará a retenção/pós-teste, semelhante ao pré-teste. Logo após retenção/pós-teste, iniciará o teste de transferência. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, o arremesso será na posição D. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência.
+Na aquisição os grupos se diferenciarão, sendo que o G-Cons praticará 60 tentativas apenas na posição A, o G-Bloc praticará em blocos nas posições A, B e C, o G-Seria praticará de forma seriada nas posições A, B e C e o G-Alea praticará de forma seriada nas posições A, B e C.  Após 10 minutos da aquisição se iniciará a retenção/pós-teste, semelhante ao pré-teste. Logo após retenção/pós-teste, iniciará o teste de transferência. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, o arremesso será na posição D. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência.
 
 8. O experimentador deverá indicar o início da tentativa, "prepara", e em seguida "vai", indicando para o executante iniciar a ação.
 
