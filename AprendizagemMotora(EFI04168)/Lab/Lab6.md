@@ -7,8 +7,10 @@ cone/chinesinho, bola de basquete, celular (filmar) e caderno.
 3. O desempenho na tarefa será medido de duas formas: medida de parâmetro e medida de programa motor generalizado.
 4. A medida de parâmetro será medida pela pontução considerando, 9 pontos para conversão da bola na cesta em tocar no aro (chuá), 8 pontos se a bola tocar o aro e converter, 7 pontos se tocar na tabela e converter, 6 pontos se tocar no aro sem converter, 5 pontos se tocar no quadrado menor sem converter, 4 pontos se tocar na tabela sem converter, 3 pontos se a bola for fora da tabela. O esquema de pontuação pode ser visto na figura a seguir .
 ![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/tabela_basquete.png)
-5. Já a medida de programa motor generalizado se dará pela lista de checagem da habilidade, essa lista é composta por 9 itens, cada item possui o valor de 1 ponto. Isso indica que se o aprendiz realizar todos os requisitos ele poderá somar no máximo 9 pontos em cada tentativa. A seguir a lista de checagem;
 
+5. Já a medida de programa motor generalizado se dará pela lista de checagem da habilidade, essa lista é composta por 9 itens, cada item possui o valor de 1 ponto. Isso indica que se o aprendiz poderá somar no máximo 9 pontos em cada tentativa. A seguir a lista de checagem;
+
+![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/tabela_basquete.png)
 
 
 7. O desenho experimental (delineamento) do lab será o seguinte:
