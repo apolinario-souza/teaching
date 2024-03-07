@@ -35,7 +35,7 @@ Na aquisição os grupos se diferenciarão, sendo que o G-Cons praticará 30 ten
 9. O experimentador deverá indicar o início da tentativa, "prepara", e em seguida "vai", indicando para o executante iniciar a ação.
 
 ## Para entregar
-1. Faça uma tabela com a **média** pontos com a medida de parâmetros da  das 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo:
+1. Faça uma tabela com a **média** de pontos da medida de parâmetros das 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo:
 
 | Grupos | Pré-teste (pts)| Aquisição | Retenção/Pós-Teste (pts) | Transferência (pts) |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
@@ -44,13 +44,15 @@ Na aquisição os grupos se diferenciarão, sendo que o G-Cons praticará 30 ten
 |G-Seri | 3,1  | -  |12,3|7,9 |
 |G-Alea | 4,2  |- |12,5 |8,0 |
 
-2. Faça uma tabela com o **desvio padrão** do erro das 5 tentativas do pré-teste e  das 5 tentativas da retenção/pós-teste, conforme o exemplo da tabela anterior.
+2. Faça uma tabela com a **média** de pontos da medida de programa motor generalizado das 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo anterior.
+3. Faça uma tabela com a **desvio padrão** de pontos da medida de parâmetros das 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo da tabela anterior:
+4. Faça uma tabela com a **desvio padrão** de pontos da medida de programa motor generalizado das 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo anterior.
 
 Obs. Se você não sabe calcular o **desvio padrão** e/ou **média**, veja o vídeo a seguir: https://www.youtube.com/watch?v=JEwd0Vlqapo
 
-3. De forma geral, qual grupo foi melhor?
-4. Qual grupo foi melhor considerando o **persistência**? Por que?
-5. Qual grupo foi melhor considerando a **consistência**? Por que?
-6. Qual grupo foi melhor considerando a **adaptabilidade**? Por que?
-7. Considerando as hipóteses que explicam os efeitos do feedback na aprendizagem motora, explique seus resultados.
+5. De forma geral, qual grupo foi melhor?
+6. Qual grupo foi melhor considerando o **persistência**? Por que?
+7. Qual grupo foi melhor considerando a **consistência**? Por que?
+8. Qual grupo foi melhor considerando a **adaptabilidade**? Por que?
+9. Considerando as hipóteses que explicam a variabilidade da prática, explique seus resultados.
 
