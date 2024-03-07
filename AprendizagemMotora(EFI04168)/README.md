@@ -79,9 +79,9 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |7|30/04B <br> 17/05A|21|**-Avaliação 1**    |  | |
 |8|07/05B <br> 24/05A|24|[-Feedback][8]                      |Schmidt (2016) p. 256-284; Tani (2016) cap.23; Schmidt (2019) p.487-528; Magill (2018) p.343-381| [Lab5][30]
 |9|14/05B <br> 31/05A|27|[-Variabilidade da prática][9]|Schmidt (2016) p. 243-252; Tani (2016) cap.22; Schmidt (2019) p.467-482; Magill (2018) p.382-405 | [Lab6][31]
-|10|21/05B <br> 07/06A|30|[-Prática mental][10]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|
-|11|28/05B <br> 14/06A|33|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; | 
-|12|04/06B <br> 21/06A|36|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|
+|10|21/05B <br> 07/06A|30|[-Prática mental][10]|Schmidt (2016) p. 233-235; Schmidt (2019) p.455-461; Magill (2018) p.440-453|[Lab7][32]
+|11|28/05B <br> 14/06A|33|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Schmidt (2016) p. 235-240; Schmidt (2019) p.462-466; Magill (2018) p.406-421;422-439; |[Lab8][33] 
+|12|04/06B <br> 21/06A|36|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Tani (2016) cap.18, 19, 20 e 21; Magill (2018) p.318-342|[Lab9][34] 
 |13|11/06B <br> 28/06A|39|**-Avaliação 2**|| |
 |14|18/06B <br> 05/07A|42| -Implicações para atuação profissional <br> -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora** |[Kleynen et al. 2020][13]| 
 |15|25/06B <br> 12/07A|45| -Implicações para atuação profissional|   | 
@@ -135,6 +135,9 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [29]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab4.md
 [30]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab5.md
 [31]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab6.md
+[32]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab7.md
+[33]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab8.md
+[34]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
 
 
 
