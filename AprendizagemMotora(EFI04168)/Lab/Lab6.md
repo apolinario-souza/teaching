@@ -28,7 +28,7 @@ cone/chinesinho, bola de basquete, celular (filmar) e caderno.
 
 No pré-teste TODOS os grupos executaram executarão 5 tentativas apenas na posição A da imagem a seguir. 
 
-![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/tabela_basquete.png)
+![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/posicoes_lab6.png)
 
 Na aquisição os grupos se diferenciarão, sendo que o G100% receberá feedback a cada tentativa, o G50% receberá intercalando uma tentativa sim e uma tentativa não e o G33% receberá intercalando uma tentativa sim e duas tentativas não. Após 10 minutos da aquisição se iniciará a retenção/pós-teste, semelhante ao pré-teste/retenção. Logo após retenção/pós-teste, iniciará o teste de transferência. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, a meta não será deslocar até 80 cm, mas deslocar até 95 cm. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência;
 
