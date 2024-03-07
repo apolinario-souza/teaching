@@ -1,4 +1,4 @@
-![image](https://github.com/apolinario-souza/teaching/assets/40078879/8e6c4f97-2016-48da-a76a-62fe9d204353)![image](https://github.com/apolinario-souza/teaching/assets/40078879/dda8b51d-6111-456a-ab9f-0c07f6121039)# Laboratório 6 – Variabilidade da prática
+# Laboratório 6 – Variabilidade da prática
 ## Materiais
 cone/chinesinho, bola de basquete, celular (filmar) e caderno.
 ## Procedimentos
