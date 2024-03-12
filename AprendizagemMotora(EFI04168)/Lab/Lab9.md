@@ -1,10 +1,9 @@
 # Laboratório 7 – Prática mental
 ## Materiais
-Alvo, dardos, vendas e caderno. 
+bola de voleibol, cones e caderno. 
 ## Procedimentos
-1. Formem grupos com 4 alunos;
-2. A tarefa motora consiste em arremessar com a mão não dominante um dardo acertando o centro do alvo.  Os participante deve posicionar o dardo na palma de sua mão, com
-a mesma voltada ao centro do alvo, e então realizar um balanço do braço no sentido póstero-anterior, para então realizar a soltura do implemento, assemelhando-se a um movimento de pêndulo, como pode ser visto na figura a seguir:
+1. Formem grupos com 2 alunos.
+2. A tarefa motora consiste realizar o saque por cima do voleibol e acertar uma zona alvo, como pode ser visto na figura a seguir:
 ![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/Fig1.png)
 4. O desempenho na tarefa será medido pela pontuação no alvo.
 5. O desenho experimental (delineamento) do lab será o seguinte:
