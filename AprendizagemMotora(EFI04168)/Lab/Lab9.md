@@ -4,7 +4,9 @@ bola de voleibol, cones e caderno.
 ## Procedimentos
 1. Formem grupos com 4 alunos. Escolha um dos 4 para ser o experimentador. Esse aluno não passará por nenhuma intervenção e será o experimentador.
 2. A tarefa motora consiste realizar o saque por cima do voleibol e acertar uma zona alvo (vermelha da imagem), como pode ser visto na figura a seguir:
+
 ![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/Lab9.png)
+
 4. O desempenho na tarefa será medido pela pontuação no alvo, conforme a imagem.
 5. O desenho experimental (delineamento) do lab será o seguinte:
 
