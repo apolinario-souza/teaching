@@ -3,12 +3,14 @@
 Alvo, dardos, vendas e caderno. 
 ## Procedimentos
 1. Formem grupos com 4 alunos;
-2. A tarefa motora consiste em arremessar com a mão não dominante um dardo acertando o centro do alvo.  bola de basquete na cesta realizando o padrão de movimento do lance livre, conforme o seguinte vídeo: https://www.youtube.com/watch?app=desktop&v=K7l-4EAHiVw
-3. O desempenho na tarefa será medido de duas formas: medida de parâmetros e medida de programa motor generalizado.
-4. A medida de parâmetros será medida pela pontução considerando, 9 pontos para conversão da bola na cesta em tocar no aro (chuá), 8 pontos se a bola tocar o aro e converter, 7 pontos se tocar na tabela e converter, 6 pontos se tocar no aro sem converter, 5 pontos se tocar no quadrado menor sem converter, 4 pontos se tocar na tabela sem converter, 3 pontos se a bola for fora da tabela. O esquema de pontuação pode ser visto na figura a seguir .
+2. A tarefa motora consiste em arremessar com a mão não dominante um dardo acertando o centro do alvo.  Os participante deve posicionar o dardo na palma de sua mão, com
+a mesma voltada ao centro do alvo, e então realizar um balanço do braço no sentido póstero-anterior, para então realizar a soltura do implemento, assemelhando-se a um movimento de pêndulo, como pode ser visto na figura a seguir:
+![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/Fig1.png)
+4. O desempenho na tarefa será medido de duas formas: medida de parâmetros e medida de programa motor generalizado.
+5. A medida de parâmetros será medida pela pontução considerando, 9 pontos para conversão da bola na cesta em tocar no aro (chuá), 8 pontos se a bola tocar o aro e converter, 7 pontos se tocar na tabela e converter, 6 pontos se tocar no aro sem converter, 5 pontos se tocar no quadrado menor sem converter, 4 pontos se tocar na tabela sem converter, 3 pontos se a bola for fora da tabela. O esquema de pontuação pode ser visto na figura a seguir .
 ![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/tabela_basquete.png)
 
-5. Já a medida de programa motor generalizado se dará pela lista de checagem da habilidade, essa lista é composta por 5 perguntas, se naquela tentativa ele "respodeu sim" é marcado 1 ponto, caso contrário 0 ponto. A seguir a lista de checagem;
+6. Já a medida de programa motor generalizado se dará pela lista de checagem da habilidade, essa lista é composta por 5 perguntas, se naquela tentativa ele "respodeu sim" é marcado 1 ponto, caso contrário 0 ponto. A seguir a lista de checagem;
    
 - O praticante manteve o pé correspondente ao braço de arremesso à frente a uma distância de aproximadamente a largura dos ombros?
 - O praticante alinhou o cotovelo do braço de arremesso com a linha do ombro?
