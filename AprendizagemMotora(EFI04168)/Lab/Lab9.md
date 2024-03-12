@@ -1,4 +1,4 @@
-# Laboratório 9 – Instrução Verbal, Dicas Verbais e Demonstração
+# Laboratório 9 – Dicas Verbais e Demonstração
 ## Materiais
 bola de voleibol, cones e caderno. 
 ## Procedimentos
@@ -20,14 +20,14 @@ No pré-teste TODOS os grupos executaram executarão de forma **sem nenhum tipo 
 
 
 ## Para entregar
-1. Faça uma tabela com a **média** de pontos 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo:
+1. Faça uma tabela com a **média** dos pontos das 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo:
 
 | Grupos | Pré-teste (pts)| Aquisição | Retenção/Pós-Teste (pts) | Transferência (pts) |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G-100%/0% | 3,7  | - | 7,6 |5,1|
-|G-50%/50%| 2,9  | - | 9,3|6,2|
-|G-0%/100% | 3,1  | -  |12,3|7,9 |
-|G-Contr | 4,2  |- |12,5 |8,0 |
+|G-Dica | 3,7  | - | 7,6 |5,1|
+|G-Demo| 2,9  | - | 9,3|6,2|
+|G-Dica+Demo | 3,1  | -  |12,3|7,9 |
+
 
 2. Faça uma tabela com a **desvio padrão** de pontos das 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo anterior.
 
