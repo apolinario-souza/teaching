@@ -2,7 +2,7 @@
 ## Materiais
 bola de voleibol, cones e caderno. 
 ## Procedimentos
-1. Formem grupos com 2 alunos.
+1. Formem grupos com 4 alunos. Escolha um dos 4 para ser o experimentador. Esse aluno não passará por nenhuma intervenção e será o experimentador.
 2. A tarefa motora consiste realizar o saque por cima do voleibol e acertar uma zona alvo (vermelha da imagem), como pode ser visto na figura a seguir:
 ![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/Lab9.png)
 4. O desempenho na tarefa será medido pela pontuação no alvo, conforme a imagem.
@@ -12,15 +12,12 @@ bola de voleibol, cones e caderno.
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |G-Dica | 5 tentativas  | 60 tentativas  | 5 tentativas |5 tentativas |
 |G-Demo | 5 tentativas  | 60 tentativas  |5 tentativas |5 tentativas |
-|G-Explícita | 5 tentativas  | 60 tentativas  |5 tentativas |5 tentativas |
+|G-Dica+Demo | 5 tentativas  | 60 tentativas  |5 tentativas |5 tentativas |
 
-No pré-teste TODOS os grupos executaram executarão de forma **sem nenhum tipo de instrução** 5 tentativas no "Local do Saque". Na aquisição os grupos se diferenciarão, sendo que o G-100%/0% praticará todas as 60 tentativas de forma física. O G-50%/50% praticará 30 tentativas de forma física e 30 tentativas de forma mental. Já o G-0%/100% praticará todas as 60 tentativas de forma **mental**. Por fim, o G-Contr não executará nenhuma tentativa na aquisição. Após 10 minutos da aquisição iniciará os testes. O primeiro teste, retenção/pós-teste, será igual ao Pré-teste. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, o arremesso será realizado a 4 metros com um ângulo em torno de 10 graus. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência.
-
-
-https://youtube.com/shorts/7tMW8mo39oE?feature=share
+No pré-teste TODOS os grupos executaram executarão de forma **sem nenhum tipo de instrução** 5 tentativas no "Local do Saque". Na aquisição os grupos se diferenciarão, sendo que o G-Dica praticará 60 tentativas recebendo, a cada 5 tentativas, a seguinte instrução verbal do experimentador: "repare o som da mão na bola!". Logo em seguida o experimetador deverá indicar **APENAS** o som do seguinte vídeo: https://youtube.com/shorts/7tMW8mo39oE?feature=share.  o G-Demo praticará 60 tentativas recebendo, a cada 5 tentativas, **APENAS** o vídeo do vídeo citado anteriormente. Por fim, o G-Dica+Demo praticará 60 tentativas recebendo, a cada 5 tentativas, as duas informações anteriores, ou seja, verá o vídeo com  instrução verbal do experimentador: "repare o som da mão na bola!". Após 10 minutos da aquisição iniciará os testes. O primeiro teste, retenção/pós-teste, será igual ao Pré-teste. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, o saque será realizado mais distante no "Local de transf." da imagem. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência.
 
 6. O experimentador deverá indicar o início da tentativa, "prepara", e em seguida "vai", indicando para o executante iniciar a ação.
-7. A prática mental deve-se ser realizada em um local reservado em dupla. Um membro da dupla controla as tentativas realizadas pelo colega. O colega deverá indicar inicio e fim da tentativa imaginada **tocando a ponta da caneta** sobre a mesa.  
+
 
 ## Para entregar
 1. Faça uma tabela com a **média** de pontos 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo:
