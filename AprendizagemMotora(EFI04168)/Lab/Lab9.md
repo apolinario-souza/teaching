@@ -29,7 +29,7 @@ No pré-teste TODOS os grupos executaram executarão de forma **sem nenhum tipo 
 |G-Dica+Demo | 3,1  | -  |12,3|7,9 |
 
 
-2. Faça uma tabela com a **desvio padrão** de pontos das 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo anterior.
+2. Faça uma tabela com a **desvio padrão** dos pontos das 5 tentativas do pré-teste, retenção/pós-teste e transferência conforme o exemplo anterior.
 
 Obs. Se você não sabe calcular o **desvio padrão** e/ou **média**, veja o vídeo a seguir: https://www.youtube.com/watch?v=JEwd0Vlqapo
 
@@ -37,4 +37,4 @@ Obs. Se você não sabe calcular o **desvio padrão** e/ou **média**, veja o v�
 6. Qual grupo foi melhor considerando o **persistência**? Por que?
 7. Qual grupo foi melhor considerando a **consistência**? Por que?
 8. Qual grupo foi melhor considerando a **adaptabilidade**? Por que?
-9. Considerando as hipóteses que explicam os benefícios da prática mental, explique seus resultados.
+9. Considerando as explicações para instrução durante a aprendizagem motora, explique seus resultados.
