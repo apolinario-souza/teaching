@@ -1,21 +1,20 @@
-# Laboratório 7 – Prática mental
+# Laboratório 9 – Instrução Verbal, Dicas Verbais e Demonstração
 ## Materiais
 bola de voleibol, cones e caderno. 
 ## Procedimentos
 1. Formem grupos com 2 alunos.
-2. A tarefa motora consiste realizar o saque por cima do voleibol e acertar uma zona alvo, como pode ser visto na figura a seguir:
-![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/Fig1.png)
-4. O desempenho na tarefa será medido pela pontuação no alvo.
+2. A tarefa motora consiste realizar o saque por cima do voleibol e acertar uma zona alvo (vermelha da imagem), como pode ser visto na figura a seguir:
+![Texto alternativo](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/Lab9.png)
+4. O desempenho na tarefa será medido pela pontuação no alvo, conforme a imagem.
 5. O desenho experimental (delineamento) do lab será o seguinte:
 
 | Grupos | Pré-teste| Aquisição | Retenção/Pós-Teste |Transferência |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|G-100%/0% | 5 tentativas  | 60 tentativas  | 5 tentativas |5 tentativas |
-|G-50%/50% | 5 tentativas  | 60 tentativas  |5 tentativas |5 tentativas |
-|G-0%/100% | 5 tentativas  | 60 tentativas  |5 tentativas |5 tentativas |
-|G-Contr | 5 tentativas  | 0 tentativas  |5 tentativas |5 tentativas |
+|G-Dica | 5 tentativas  | 60 tentativas  | 5 tentativas |5 tentativas |
+|G-Demo | 5 tentativas  | 60 tentativas  |5 tentativas |5 tentativas |
+|G-Explícita | 5 tentativas  | 60 tentativas  |5 tentativas |5 tentativas |
 
-No pré-teste TODOS os grupos executaram executarão de forma **física** 5 tentativas a 3 metros. Na aquisição os grupos se diferenciarão, sendo que o G-100%/0% praticará todas as 60 tentativas de forma física. O G-50%/50% praticará 30 tentativas de forma física e 30 tentativas de forma mental. Já o G-0%/100% praticará todas as 60 tentativas de forma **mental**. Por fim, o G-Contr não executará nenhuma tentativa na aquisição. Após 10 minutos da aquisição iniciará os testes. O primeiro teste, retenção/pós-teste, será igual ao Pré-teste. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, o arremesso será realizado a 4 metros com um ângulo em torno de 10 graus. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência.
+No pré-teste TODOS os grupos executaram executarão de forma **sem nenhum tipo de instrução** 5 tentativas no "Local do Saque". Na aquisição os grupos se diferenciarão, sendo que o G-100%/0% praticará todas as 60 tentativas de forma física. O G-50%/50% praticará 30 tentativas de forma física e 30 tentativas de forma mental. Já o G-0%/100% praticará todas as 60 tentativas de forma **mental**. Por fim, o G-Contr não executará nenhuma tentativa na aquisição. Após 10 minutos da aquisição iniciará os testes. O primeiro teste, retenção/pós-teste, será igual ao Pré-teste. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, o arremesso será realizado a 4 metros com um ângulo em torno de 10 graus. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência.
 
 6. O experimentador deverá indicar o início da tentativa, "prepara", e em seguida "vai", indicando para o executante iniciar a ação.
 7. A prática mental deve-se ser realizada em um local reservado em dupla. Um membro da dupla controla as tentativas realizadas pelo colega. O colega deverá indicar inicio e fim da tentativa imaginada **tocando a ponta da caneta** sobre a mesa.  
