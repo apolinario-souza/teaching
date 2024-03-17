@@ -70,7 +70,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referências**| **Labs**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |--------------------|
-|1| 19/03B <br> 22/03A|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Schmidt (2008) p. 26-31 e p. 10-15; Magill (2018) p.5-16| [Lab1A][24]
+|1| 19/03B <br> 22/03A|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Schmidt (2008) p. 26-31; Magill (2018) p.5-16| [Lab1A][24]
 |2|26/03B <br> 05/04A|6|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Schmidt (2016)p. 10-15; Schmidt (2019) p.54-93; Magill (2018) p.26-28|[Lab1B][25] e [Lab2][27]
 |3|02/04B <br> 12/04A|9|[-Princípios e conceitos da aprendizagem motora][3]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436,530-563; Magill (2018) p.256-317|[Lab1C][26]
 |4|09/04B <br> 26/04A|12|[-Diferenças individuais][4]|Schmidt (2016) cap. 6; <br>  Magill (2010) p.298-317 |
