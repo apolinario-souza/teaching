@@ -53,7 +53,7 @@ O conceito será atribuído da seguinte forma:
 ## Material
 **Textbook**
 
-- Schmidt, R. (2016). Aprendizagem e performance motora: dos princípios à aplicação. Artmed.
+- Schmidt, R. (2008). Aprendizagem e performance motora: uma abordagem da aprendizagem baseada na situação. Artmed.
 - Magill, R. A. (2000). Aprendizagem motora: conceitos e aplicações. Editora Blucher.
 - Tani, G. (2016). *Comportamento motor: conceitos, estudos e aplicações*. Guanabara Koogan.
 
@@ -70,7 +70,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referências**| **Labs**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |--------------------|
-|1| 19/03B <br> 22/03A|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Schmidt (2016) p. 2-10 e p. 10-15;Schmidt (2019) p.19-53 e p.54-93; Magill (2018) p.2-14;52-53 e p.26-28| [Lab1A][24]
+|1| 19/03B <br> 22/03A|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Schmidt (2008) p. 26-31 e p. 10-15; Magill (2018) p.5-16| [Lab1A][24]
 |2|26/03B <br> 05/04A|6|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Schmidt (2016)p. 10-15; Schmidt (2019) p.54-93; Magill (2018) p.26-28|[Lab1B][25] e [Lab2][27]
 |3|02/04B <br> 12/04A|9|[-Princípios e conceitos da aprendizagem motora][3]|Schmidt (2016) p. 176-226; Schmidt (2019) p.409-436,530-563; Magill (2018) p.256-317|[Lab1C][26]
 |4|09/04B <br> 26/04A|12|[-Diferenças individuais][4]|Schmidt (2016) cap. 6; <br>  Magill (2010) p.298-317 |
