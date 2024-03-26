@@ -23,9 +23,9 @@ https://youtu.be/PQXqzzvqwCc
 5. Anote os valores de Força.  
 
 ### Parte 2 - Medindo a habilidade do passe no futsal/futebol
-1. Em um espaço aberto (quadra ou campo) posicione um cone a 6 metros de distância de uma marcação no chão com X (alvo). Veja o exemplo da próxima figura, lado esquerdo;
-2. Realize três chutes e avalie a diferança entre a marcação (alvo) do local onde a bola parou (exemplo na figura no lado direito).
-3. Anote o melhor valor dos três.
+1. Em um espaço aberto (quadra ou campo) posicione um cone a 6 metros de distância de uma marcação no chão com X (alvo);
+2. Realize três chutes e avalie a diferança (módulo) entre a marcação (alvo) do local onde a bola parou (exemplo na figura no lado direito);
+3. Anote o melhor valor dos três chutes.
 
 ![Figura organização](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/FIG/organiza_lab2.png)
 
