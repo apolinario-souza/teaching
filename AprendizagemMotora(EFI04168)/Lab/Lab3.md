@@ -1,15 +1,21 @@
-# Laboratório 4 – Transferência de habilidade 
+# Laboratório 4 – Diferenças individuais
 
 ## Materiais: 
 
-Cones/chinesinhos, celular (cronômetro) e  bola de handebol.
+Raquete de tênis, bolas com cores diferentes e celular (cronômetro).
 
 ## Procedimentos
 
 O presente laboratório será dividido em 2 partes
 
-#### Parte 1 
-Nesta parte do laboratório o objetivo é investigar o efeito prática da Habilidade A, sobre a Habilidade B. Para fazer essa verificação, primeiramente deve-se avaliar todos na Habilidade B, uma parte do grupo pratica a Habilidade A (grupo experimental) e outra parte não pratica (grupo controle). Logo em seguida avaliamos todos na Habilidade B. A tabela a seguir indica o desenho experimental (delineamento) da Parte 1 do Laboratório.
+#### Parte 1 - medindo a capacidade "velocidade de percepção visual"
+Nesta parte do laboratório o objetivo é avaliar a a capacidade "velocidade de percepção visual". Para fazer essa avaliação assista o vídeo a seguir:
+
+<iframe width="1191" height="670" src="https://www.youtube.com/embed/CI0K5mo8y-8" title="Motor Learning &amp; Control - Lab 4 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+, primeiramente deve-se avaliar todos na Habilidade B, uma parte do grupo pratica a Habilidade A (grupo experimental) e outra parte não pratica (grupo controle). Logo em seguida avaliamos todos na Habilidade B. A tabela a seguir indica o desenho experimental (delineamento) da Parte 1 do Laboratório.
 
  |Pré-teste (Hab B) | Aquisição (Hab A) | Pós-teste (Hab B) | 
 |:-----------:|:-----------:|:-----------:|
