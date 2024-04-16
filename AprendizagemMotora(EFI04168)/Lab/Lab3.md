@@ -11,8 +11,7 @@ O presente laboratório será dividido em 2 partes
 #### Parte 1 - medindo a capacidade "velocidade de percepção visual"
 Nesta parte do laboratório o objetivo é avaliar a a capacidade "velocidade de percepção visual". Para fazer essa avaliação assista o vídeo a seguir:
 
-<iframe width="1191" height="670" src="https://www.youtube.com/embed/CI0K5mo8y-8" title="Motor Learning &amp; Control - Lab 4 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![Vídeo de gatos fofos](https://www.youtube.com/watch?v=CI0K5mo8y-8)
 
 
 , primeiramente deve-se avaliar todos na Habilidade B, uma parte do grupo pratica a Habilidade A (grupo experimental) e outra parte não pratica (grupo controle). Logo em seguida avaliamos todos na Habilidade B. A tabela a seguir indica o desenho experimental (delineamento) da Parte 1 do Laboratório.
