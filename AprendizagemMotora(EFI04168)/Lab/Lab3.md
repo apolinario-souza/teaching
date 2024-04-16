@@ -37,5 +37,6 @@ https://youtu.be/yCqdQAz3L4A?t=170
 
 ## Para entregar
 1. Faça a média do tempo das 12 tentativas da Parte 1.
+2. Aqueles que apresentaram maiores níveis de capacidade "velocidade de percepção visual" foram os que apresentaram maior aprendizagem? Explique seus resultados.
 
 
