@@ -1,4 +1,4 @@
-# Laboratório 4 – Diferenças individuais
+# Laboratório 3 – Diferenças individuais
 
 ## Materiais: 
 
