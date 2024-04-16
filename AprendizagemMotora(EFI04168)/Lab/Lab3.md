@@ -22,18 +22,20 @@ Siga exatamente as instruções do vídeo, porém com algumas alterações:
 5. Caso o receptor informe a cor errada o tempo deverá pernecer contabilizando.
 
 
+
 #### Parte 2 - Aprendendo uma rebater uma bola
 1. O objetivo da tarefa é realizar o máximo de rebatidas do tênis no paredão durante 1 minuto;
 2. A execução deve serguir o modelo do vídeo a seguir (assitir o minuto 2:50 até 2:55)
 
 https://youtu.be/yCqdQAz3L4A?t=170
 
-4. Peça aocolega contabilizar quantas batidas foram realizadas a cada 1 minutos;
-5. Faça 15 blocos de 1 minuto com intervalo de 30 segundos entre os blocos;
-6. A medida de desempenho nesta tarefa é o número de vezes que a bola tocou na parede tocando apenas uma vez ao chão.
+4. Peça ao colega contabilizar quantas batidas foram realizadas a cada 1 minutos;
+5. Faça 15 blocos de 1 minuto com intervalo de 30 segundos entre os blocos (fase de aquisição);
+6. Espere 15 minutos e faça mais 1 bloco de 1 minutos.
+7. A medida de desempenho nesta tarefa é o número de vezes que a bola tocou na parede tocando apenas uma vez ao chão.
 
 
 ## Para entregar
-1. Em relação a parte 1, houve transferência da Habildiade A para Habilidade B? Explique.
-2. Em relação a parte 2, Qual das duas condições foi mais fácil realizar o arremesso? Explique considerando as duas teorias de transferência de aprendizagem. 
+1. Faça a média do tempo das 12 tentativas da Parte 1.
+
 
