@@ -70,8 +70,8 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |1| 19/03B <br> 22/03A|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Magill (2000) cap. 1| [Lab1A][24]
 |2|26/03B <br> 05/04A|6|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Magill (2000) cap.7|[Lab1B][25] e [Lab2][27]
 |3|09/04B <br> 12/04A|9|[-Princípios e conceitos da aprendizagem motora][3]|Magill (2000) cap.4|[Lab1C][26]
-|4|16/04B <br> 26/04A|12|[-Diferenças individuais][4]|Schmidt (2000) cap. 6|[Lab3][28]
-|5|23/04B <br> 03/05A|15|[-Transferência de Aprendizagem][5]|Schmidt (2008) cap. 7| [Lab4][29]
+|4|16/04B <br> 19/04A|12|[-Diferenças individuais][4]|Schmidt (2000) cap. 6|[Lab3][28]
+|5|23/04B <br> 26/04A|15|[-Transferência de Aprendizagem][5]|Schmidt (2008) cap. 7| [Lab4][29]
 |6|07/05B <br> 10/05A|18|[-Teorias da aprendizagem motora][6] |Magill (2000) cap. 2|
 |7|14/04<br> 17/05A|21|**-Avaliação 1**    |  | |
 |8|21/05B <br> 24/05A|24|[-Feedback][8]|Schmidt (2008) cap. 10| [Lab5][30]
