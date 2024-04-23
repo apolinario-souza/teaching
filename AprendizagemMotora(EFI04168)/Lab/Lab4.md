@@ -45,5 +45,5 @@ Nesta parte do laboratório o objetivo é investigar o efeito prática da Habili
 
 
 ## Para entregar
-1. Em relação a parte 1, houve transferência da Habildiade A para Habilidade B? Explique.
+1. Houve transferência da Habildiade A para Habilidade B? Explique.
 
