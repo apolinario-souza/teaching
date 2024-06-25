@@ -71,17 +71,18 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |3|09/04B <br> 12/04A|9|[-Princípios e conceitos da aprendizagem motora][3]|Magill (2000) cap.4|[Lab1C][26]
 |4|16/04B <br> 19/04A|12|[-Diferenças individuais][4]|Schmidt (2000) cap. 6|[Lab3][28]
 |5|23/04B <br> 26/04A|15|[-Transferência de Aprendizagem][5]|Schmidt (2008) cap. 7| [Lab4][29]
-|6|02/07B <br> 05/07|18|[-Teorias da aprendizagem motora][6] |Magill (2000) cap. 2|
-|7|09/07B<br> 12/07A|21|**-Avaliação 1**    |  | |
-|8|16/07 <br> 19/07A |24|[-Feedback][8]|Schmidt (2008) cap. 10| [Lab5][30]
-|9| 23/07B <br>26/07A |27|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]
-|10|30/07B <br> 01/08A |30|[-Prática mental][10]|Magill (2000) cap. 6.5|[Lab7][32]
-|11|06/08B <br> 09/08A |33|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33] 
-|12|13/08B <br> 16/08A |36|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|[Lab9][34] 
-|13|20/08B <br> 23/08A |39|**-Avaliação 2** <br> -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora**|| |
-|14|27/08 <br>30/08A |42| -Recuperação   || 
+|6| 30/03B <br> 03/04|18|[-Teorias da aprendizagem motora][6] |Magill (2000) cap. 2|
+|6|02/07B <br> 05/07|21|Revisão||[Assistir][35]|
+|7|09/07B<br> 12/07A|24|**-Avaliação 1**    |  | |
+|8|16/07 <br> 19/07A |27|[-Feedback][8]|Schmidt (2008) cap. 10| Assistir][35]
+|9| 23/07B <br>26/07A |30|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| Assistir][35]
+|10|30/07B <br> 01/08A |33|[-Prática mental][10]|Magill (2000) cap. 6.5|[Assistir][35]
+|11|06/08B <br> 09/08A |36|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|Assistir][35]
+|12|13/08B <br> 16/08A |39|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|Assistir][35] 
+|13|20/08B <br> 23/08A |42|**-Avaliação 2** <br> -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora**|| |
+|14|27/08 <br>30/08A |51| -Recuperação   || 
 |------|||||------|
-|-         | -         | 51          | [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução <br> **FAVOR DESCONSIDERAR A COLETA DE DADOS**][20]|   [Exemplos de pesquisas][19]
+|-         | -         | 60          | [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução <br> **FAVOR DESCONSIDERAR A COLETA DE DADOS**][20]|   [Exemplos de pesquisas][19]
 | -        | -         | 60          | [Pesquisa em Aprendizagem Motora: como aprensentar o método][21] |   
 
 
@@ -131,4 +132,9 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [33]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab8.md
 [34]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
 
-
+[35]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
+[36]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
+[37]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
+[38]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
+[39]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
+[40]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
