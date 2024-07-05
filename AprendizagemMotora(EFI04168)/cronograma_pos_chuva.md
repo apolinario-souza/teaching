@@ -82,7 +82,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |13|20/08B <br> 23/08A |42|**-Avaliação 2** <br> -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora**|| |
 |14|27/08 <br>30/08A |51| -Recuperação   || 
 |------|||||------|
-|-         | -         |           | [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução <br> **FAVOR DESCONSIDERAR A COLETA DE DADOS, RESULTADOS< DISCUSSÂO**][20]|   [Exemplos de pesquisas][19]
+|-         | -         |           | [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução <br> **FAVOR DESCONSIDERAR A COLETA DE DADOS, RESULTADOS e DISCUSSÂO**][20]|   [Exemplos de pesquisas][19]
 | -        | -         |           | [Pesquisa em Aprendizagem Motora: como aprensentar o método][21] |   
 
 
