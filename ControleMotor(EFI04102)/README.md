@@ -1,20 +1,13 @@
 
-<div align="center">
-<img style="margin: 10px" src="https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/img/cabecalho.png" alt="Python" height="150" 
-/>  </div>
-
-
-# **Aprendizagem Motora (EFI04168)**
+# **Controle Motor (EFI04102)**
 
 
 ## Descrição
 
-Aborda o processo ensino-aprendizagem de habilidades motoras. Discute os mecanismos internos que regulam o movimento, bem como os fatores 
-ambientais que afetam o mesmo. Problematiza a prática das habilidades motoras nas diferentes fases da vida.
-
+Aborda as bases comportamentais, fisiológicas e psicológicas relacionadas ao controle de habilidades motoras. Estudo dos mecanismos sensório-motores envolvidos no planejamento e na regulação motora.
 
 ## Objetivos
-Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentação teórica sobre os processos e mecanismos internos da aprendizagem motora. Identificar os fatores que influenciam na aprendizagem de habilidades motoras.
+O aluno deverá conhecer os mecanismos e os processos subjacentes ao controle motor, interrelacionado-os nos níveis de análise comportamental, fisiológico e psicológico.
 
 - **Professor:** Tércio Apolinário de Souza
   - edf.tercio@gmail.com / (31) 9.8843-8435 (Whatsapp) 
@@ -23,16 +16,13 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
    
     
 - **Horário:**
-  - Tuma A. Sexta-feira 07:30 às 10:30h - sala 106
-  - Tuma B. Terça-feira 18:30 as 21:30h - Sala de reuniões do administrativo
-
-
-
+  - Sexta-feira 13:30 às 16:30h - sala 101
+ 
 
 ## Avaliação
 - Avaliação 1. 3 pts
 - Avaliação 2. 3 pts
-- [Pesquisa em Aprendizagem Motora][17]. 3 pts
+- [Pesquisa em Controle Motor][17]. 3 pts
 - Relatório dos laboratórios. 1 pt
 
 - **Bônus** (máx 1 pt)
