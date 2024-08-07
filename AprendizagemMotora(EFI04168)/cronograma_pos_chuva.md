@@ -77,7 +77,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |8|16/07 <br> 19/07A |27|[-Feedback][8]|Schmidt (2008) cap. 10| [Assistir][36]
 |9| 23/07B <br>26/07A |30|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Assistir][37]
 |10|30/07B <br> 01/08A |33|[-Prática mental][10]|Magill (2000) cap. 6.5|[Assistir][38]
-|11|06/08B <br> 09/08A |36|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Assistir][35]
+|11|06/08B <br> 09/08A |36|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Assistir][39]
 |12|13/08B <br> 16/08A |39|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|[Assistir][35] 
 |13|20/08B <br> 23/08A |42|**-Avaliação 2** <br> -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora**|| |
 |14|27/08 <br>30/08A |51| -Recuperação   || 
@@ -136,5 +136,5 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [36]: https://youtu.be/aKv6cMMC2wI
 [37]: https://youtu.be/0yNpg2567t0
 [38]: https://youtu.be/eB4UEZbJoZ0
-[39]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
+[39]: https://youtu.be/1C_Zi3liUIY
 [40]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
