@@ -53,7 +53,7 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 1. A pergunta do estudo é sobre aprendizagem motora? 1 ponto
 2. Cumpriu o tempo estipulado (entre 3 a 7 minutos)? 0,5 pontos
 3. Utilizou gráficos (ou tabelas) para apresentar os resultados? 0,5 pontos
-4. Utilizou imagens, vídeos ou esquemas para ilustrar os métodos (prinpalmente a tarefa motora)? 0,5 pontos
+4. Utilizou imagens, vídeos ou esquemas para ilustrar os métodos (principalmente a tarefa motora)? 0,5 pontos
 5. Explicou como o desempenho na tarefa motora foi medido? 0,5 pts
 
 
