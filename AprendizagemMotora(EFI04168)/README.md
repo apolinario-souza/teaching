@@ -66,7 +66,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 ## Cronograma
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
-|:-: | :---------------------: | --------- | --------------------- | -------------- |--------------------|--------------------|
+|:-: | :---------------------: | --------- | --------------------- | -------------- |------------------------|--------------------|
 |1| 24/09B <br> 27/09A|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Magill (2000) cap. 1| [Lab1A][24]|[Link][44]
 |2|01/10B <br> 04/10A|6|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Magill (2000) cap.7|[Lab1B][25] e [Lab2][27]
 |3|08/10B <br> 11/10A|9|[-Princípios e conceitos da aprendizagem motora][3]|Magill (2000) cap.4|[Lab1C][26]
