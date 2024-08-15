@@ -67,11 +67,11 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |--------------------|--------------------|
-|1| 24/09B <br> 27/09A|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Magill (2000) cap. 1| [Lab1A][24]
+|1| 24/09B <br> 27/09A|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Magill (2000) cap. 1| [Lab1A][24]|[Link][44]
 |2|01/10B <br> 04/10A|6|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Magill (2000) cap.7|[Lab1B][25] e [Lab2][27]
 |3|08/10B <br> 11/10A|9|[-Princípios e conceitos da aprendizagem motora][3]|Magill (2000) cap.4|[Lab1C][26]
 |4|15/10B <br> 18/10A|12|[-Transferência de Aprendizagem][5]|Schmidt (2008) cap. 7| [Lab4][29]
-|5|22/10B <br> 25/10A|15|[-Teorias da aprendizagem motora][6] |Magill (2000) cap. 2|
+|5|22/10B <br> 25/10A|15|[-Teorias da aprendizagem motora][6] |Magill (2000) cap. 2|| [Parte 1][41] [Parte 2][42] [Parte 3][43]
 |6|29/10B <br> 01/11|18|**-Avaliação 1**    |  | |[Revisao][35]
 |7|05/11B<br> 08/11A|21|[-Feedback][8]|Schmidt (2008) cap. 10| [Lab5][30]|[Link][36]
 |8|12/11B <br> 15/11A |24|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
@@ -142,3 +142,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [38]: https://youtu.be/eB4UEZbJoZ0
 [39]: https://youtu.be/1C_Zi3liUIY
 [40]: https://youtu.be/GmhAIQvTPq8
+[41]: https://youtu.be/W7s9ymT4hJQ
+[42]: https://youtu.be/BKMD-JX8Ujo
+[43]: https://www.youtube.com/watch?v=OvbpqqClvhg
+[44]: https://youtu.be/6zRQ0FGg3Gw
