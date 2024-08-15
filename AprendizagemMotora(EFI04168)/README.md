@@ -65,19 +65,19 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 ## Cronograma
 
-| **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab**
+| **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |--------------------|
 |1| 24/09B <br> 27/09A|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Magill (2000) cap. 1| [Lab1A][24]
 |2|01/10B <br> 04/10A|6|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Magill (2000) cap.7|[Lab1B][25] e [Lab2][27]
 |3|08/10B <br> 11/10A|9|[-Princípios e conceitos da aprendizagem motora][3]|Magill (2000) cap.4|[Lab1C][26]
 |4|15/10B <br> 18/10A|12|[-Transferência de Aprendizagem][5]|Schmidt (2008) cap. 7| [Lab4][29]
 |5|22/10B <br> 25/10A|15|[-Teorias da aprendizagem motora][6] |Magill (2000) cap. 2|
-|6|29/10B <br> 01/11|18|**-Avaliação 1**    |  | |
-|7|05/11B<br> 08/11A|21|[-Feedback][8]|Schmidt (2008) cap. 10| [Lab5][30]
-|8|12/11B <br> 15/11A |24|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]
-|9| 19/11B <br>22/11A |27|[-Prática mental][10]|Magill (2000) cap. 6.5|[Lab7][32]
-|10|26/11B <br> 29/11A |30|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33] 
-|11|03/12B <br> 06/12A |33|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|[Lab9][34] 
+|6|29/10B <br> 01/11|18|**-Avaliação 1**    |  | |[Revisao][35]
+|7|05/11B<br> 08/11A|21|[-Feedback][8]|Schmidt (2008) cap. 10| [Lab5][30]|[Link][36]
+|8|12/11B <br> 15/11A |24|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
+|9| 19/11B <br>22/11A |27|[-Prática mental][10]|Magill (2000) cap. 6.5|[Lab7][32]|[Link][38]
+|10|26/11B <br> 29/11A |30|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|[Link][39] 
+|11|03/12B <br> 06/12A |33|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40] 
 |12|10/12B <br> 13/12A |36|**-Avaliação 2**|| |
 |13|17/12B <br> 20/12A |39| -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora** |
 |14|07/01 <br>10/01A |42| - Implicações para atuação profissional (online) <br> |[Kleynen et al. 2020][13]| 
@@ -136,4 +136,9 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [34]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
 
 
-
+[35]: https://youtu.be/qEwYf7AQbos
+[36]: https://youtu.be/aKv6cMMC2wI
+[37]: https://youtu.be/0yNpg2567t0
+[38]: https://youtu.be/eB4UEZbJoZ0
+[39]: https://youtu.be/1C_Zi3liUIY
+[40]: https://youtu.be/GmhAIQvTPq8
