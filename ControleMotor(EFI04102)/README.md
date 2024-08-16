@@ -42,13 +42,11 @@ O conceito será atribuído da seguinte forma:
 ## Material
 **Textbook**
 
-- Schmidt, R. Wrisberg, C. (2008). Aprendizagem e performance motora: uma abordagem da aprendizagem baseada na situação. Artmed.
+- Schmidt, R. Wrisberg, C. (2016). Aprendizagem e performance motora: dos princípios à aplicação. Artmed.
 - Magill, R. A. (2000). Aprendizagem motora: conceitos e aplicações. Editora Blucher.
+- Shumway-Cook, A., & Woollacott, M. H. (2003). Controle motor: teoria e aplicações práticas. Manole.
 
 Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da UFRGS  (https://www.ufrgs.br/bibliotecas/pesquisa/proxy/) e acessando a Minha Biblioteca Online. Adicionalmente, podem ser consultados presencialmente na biblioteca da ESEFID. 
-
-**Lista de leituras [complementares][22].**
-
 
 ## 
 
@@ -56,17 +54,17 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |------------------------|--------------------|
-|1| 27/09|3|[ -Comportamento Motor e suas subáreas <br> -Definição de habilidades motoras <br> -Medidas de desempenho <br> -Classificação de habilidades motoras][1]|Magill (2000) cap. 1| [Lab1A][24]|[Link][44]
-|2|04/10|6|[-Problemas centrais do Controle Motor <br> -Teorias de controle motor][2]|Magill (2000) cap.7|[Lab1B][25] e [Lab2][27]
-|3|11/10|9|[-Sistema visual][3]|Magill (2000) cap.4|[Lab1C][26]
-|4|18/10|12|[-Sistema visual no controle motor][5]|Schmidt (2008) cap. 7| [Lab4][29]
-|5|25/10|15|[-Sistema proprioceptivo no controle motor <br> Sistema vestibular no controle motor][6] |Magill (2000) cap. 2|| [Parte 1][41] [Parte 2][42] [Parte 3][43]
-|6|01/11|18|**- Avaliação 1**|  | |[Revisao][35]
-|7|08/11|21|[-Controle central nos movimentos][8]|Schmidt (2008) cap. 10| [Lab5][30]|[Link][36]
-|8|15/11 |24|[-Processos cognitivos envolvidos no controle motor][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
-|9|22/11|27|[-Características controle motor nas habilidades: movimentos que requerem precisão e velocidade <br> Lateralidade no controle motor][10]|Magill (2000) cap. 6.5|[Lab7][32]|[Link][38]
-|10|29/11|30|[-Características controle motor nas habilidades: preensão, caligrafia e coordenação bimanual, pegar um objeto em movimento, golpear um objeto em movimento ][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|[Link][39] 
-|11|06/12 |33|[-Características controle motor nas habilidades: movimentos rítmicos e locomoção][12]|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40] 
+|1| 27/09|3|[-Comportamento Motor e suas subáreas <br> -Definição de habilidades motoras <br> -Medidas de desempenho <br> -Classificação de habilidades motoras][1]|Magill (2000) cap. 1| [Lab1A][24]|
+|2|04/10|6|[-Problemas centrais do Controle Motor <br> -Teorias de controle motor][2]|Magill (2000) cap.2|[Lab1B][25] e [Lab2][27]
+|3|11/10|9|[-Sistema visual no controle motor][3]|[Lent][35] |[Lab1C][26]
+|4|18/10|12|[-Sistema visual no controle motor][5]|Schmidt (2008) cap. 4| [Lab4][29]
+|5|25/10|15|[-Sistema proprioceptivo no controle motor <br> Sistema vestibular no controle motor][6] | Shumway-Cook e Woollacott (2003) cap 3||
+|6|01/11|18|**- Avaliação 1**|  | |
+|7|08/11|21|[-Controle central nos movimentos][8]|Schmidt (2008) cap. 5| [Lab5][30]|
+|8|15/11 |24|[-Processos cognitivos envolvidos no controle motor][9]|Schmidt (2008) cap. 3| [Lab6][31]|
+|9|22/11|27|[-Características controle motor nas habilidades: movimentos que requerem precisão e velocidade <br> Lateralidade no controle motor][10]|Schmidt (2008) cap. 6|[Lab7][32]|
+|10|29/11|30|[-Características controle motor nas habilidades: preensão, caligrafia e coordenação bimanual, pegar um objeto em movimento, golpear um objeto em movimento ][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|
+|11|06/12 |33|[-Características controle motor nas habilidades: movimentos rítmicos e locomoção][12]|Schmidt (2008) cap. 8|[Lab9][34]|
 |12|13/12 |36|**-Avaliação 2**|| |
 |13|20/12|39| -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Controle Motor** |
 |14|10/01|42| - Implicações para atuação profissional (online) <br> |[Kleynen et al. 2020][13]| 
