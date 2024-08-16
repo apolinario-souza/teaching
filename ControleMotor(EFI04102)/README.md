@@ -61,10 +61,10 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |2|04/10|6|[-Problemas centrais do Controle Motor <br> -Teorias de controle motor][2]|Magill (2000) cap.2|
 |3|11/10|9|[-Sistema visual no controle motor][3]|[Lent][35] |[Lab1][26]
 |4|18/10|12|[-Sistema visual no controle motor][5]|Schmidt (2008) cap. 4| [Lab2][29]
-|5|25/10|15|[-Sistema proprioceptivo no controle motor <br> Sistema vestibular no controle motor][6] | Shumway-Cook e Woollacott (2003) cap 3||[Lab3][29]
+|5|25/10|15|[-Sistema proprioceptivo no controle motor <br> Sistema vestibular no controle motor][6]|Shumway-Cook e Woollacott (2003) cap 3|[Lab3][29]
 |6|01/11|18|**- Avaliação 1**|  | |
 |7|08/11|21|[-Controle central nos movimentos][8]|Schmidt (2008) cap. 5| [Lab4][30]|
-|8|15/11 |24|[-Processos cognitivos envolvidos no controle motor][9]|Schmidt (2008) cap. 3| [Lab5][31]|
+|8|15/11 |24|[-Processos cognitivos envolvidos no controle motor][9]|Schmidt (2008) cap. 3|[Lab5][31]|
 |9|22/11|27|[-Características controle motor nas habilidades: movimentos que requerem precisão e velocidade <br> Lateralidade no controle motor][10]|Schmidt (2008) cap. 6|[Lab6][32]|
 |10|29/11|30|[-Características controle motor nas habilidades: preensão, caligrafia e coordenação bimanual, pegar um objeto em movimento, golpear um objeto em movimento ][11]||[Lab7][33]|
 |11|06/12 |33|[-Características controle motor nas habilidades: movimentos rítmicos e locomoção][12]|Shumway-Cook e Woollacott (2003) cap 7|[Lab8][34]|
