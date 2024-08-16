@@ -44,9 +44,8 @@ O conceito será atribuído da seguinte forma:
 
 ## Material
 **Textbook**
-
-- Schmidt, R. Wrisberg, C. (2016). Aprendizagem e performance motora: dos princípios à aplicação. Artmed.
 - Magill, R. A. (2000). Aprendizagem motora: conceitos e aplicações. Editora Blucher.
+- Schmidt, R. Wrisberg, C. (2016). Aprendizagem e performance motora: dos princípios à aplicação. Artmed.
 - Shumway-Cook, A., & Woollacott, M. H. (2003). Controle motor: teoria e aplicações práticas. Manole.
 
 Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da UFRGS  (https://www.ufrgs.br/bibliotecas/pesquisa/proxy/) e acessando a Minha Biblioteca Online. Adicionalmente, podem ser consultados presencialmente na biblioteca da ESEFID. 
