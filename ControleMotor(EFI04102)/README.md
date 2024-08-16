@@ -125,5 +125,6 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [33]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab8.md
 [34]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
 
+[35]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/Cap06Lent.pdf
 
 
