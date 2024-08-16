@@ -12,6 +12,9 @@ O aluno deverá conhecer os mecanismos e os processos subjacentes ao controle mo
 - **Professor:** Tércio Apolinário de Souza
   - edf.tercio@gmail.com / (31) 9.8843-8435 (Whatsapp) 
   - Sala 220 no Lapex
+- **Professora:** Daiana Amaral Medeiros da Silva
+  - daianaamaralfisio@gmail.com
+  - Sala 220 no Lapex
  - **Monitor:**
    
     
