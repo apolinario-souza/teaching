@@ -26,7 +26,7 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
  - [Link da agenda](https://calendar.google.com/calendar/u/0?cid=ZWRmLnRlcmNpb0BnbWFpbC5jb20)  
     
 - **Horário:**
-  - Tuma A. Sexta-feira 07:30 às 10:30h - sala 106
+  - Tuma A. Sexta-feira 07:30 às 10:30h - Sala 106
   - Tuma B. Terça-feira 18:30 as 21:30h - Sala de reuniões do administrativo
 
 
