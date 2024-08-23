@@ -83,7 +83,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |11|03/12B <br> 06/12A |33|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40] 
 |12|10/12B <br> 13/12A |36|**-Avaliação 2**|| |
 |13|17/12B <br> 20/12A |39| -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora** |
-|14|07/01B <br>10/01A |42| - Implicações para atuação profissional (online) <br> |[Kleynen et al. 2020][13]<br>[Otte et al., 2019][16]| 
+|14|07/01B <br>10/01A |42| - Implicações para atuação profissional (online) <br> |[Kleynen et al. 2020][13]<br>[Otte et al., 2019][16]<br>[Otte et al., 2020][18]| 
 |15|14/01B <br> 17/01A |45| - Recuperação (online)  
 |------|||||------|
 |-         | -         | 48          | [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução][20]|   [Exemplos de pesquisas][19]
@@ -118,7 +118,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [16]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Otte%20et%20al.%2C%202019).pdf
 
 [17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/roteiro_pesquisa_em_AM.md
-
+[18]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Otte%20et%20al.%2C%202020).pdf
 
 [19]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Pesquisa_em_Aprendizagem/pagina_inicial.md
 [20]:https://youtu.be/dnjYvaQVAQM
