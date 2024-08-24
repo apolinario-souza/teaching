@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste de Reação</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+            position: relative;
+        }
+        .container {
+            text-align: center;
+        }
+        .message {
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        .reaction-time {
+            font-size: 1.5em;
+            color: #ff0000;
+            margin-bottom: 20px;
+        }
+        .history {
+            max-height: 300px;
+            overflow-y: auto;
+            border-left: 2px solid #ccc;
+            padding-left: 20px;
+            position: absolute;
+            right: 20px;
+            top: 20px;
+        }
+        .history-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .history-item {
+            font-size: 1em;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="message" id="message">Prepara...</div>
+        <div class="reaction-time" id="reaction-time"></div>
+    </div>
+
+    <div class="history" id="history">
+        <div class="history-title">Histórico de Reações</div>
+    </div>
+
+    <script>
+        let startTime;
+        let timeoutId;
+        let isTiming = false;
+        let attemptCount = 0;
+
+        function startTest() {
+            document.getElementById('message').textContent = 'Prepara...';
+            document.getElementById('reaction-time').textContent = '';
+            
+            const delay = Math.random() * 2000 + 2000; // Entre 2 e 4 segundos
+            
+            timeoutId = setTimeout(() => {
+                document.getElementById('message').textContent = 'Vai!';
+                startTime = new Date().getTime();
+                isTiming = true;
+            }, delay);
+        }
+
+        function updateHistory(reactionTime) {
+            attemptCount++;
+            const historyDiv = document.getElementById('history');
+            const newItem = document.createElement('div');
+            newItem.className = 'history-item';
+            newItem.textContent = `Tentativa ${attemptCount}: ${reactionTime} ms`;
+            historyDiv.appendChild(newItem);
+        }
+
+        document.addEventListener('keydown', function(event) {
+            if (event.code === 'Space') {
+                event.preventDefault(); // Impede a barra de rolagem
+            }
+        });
+
+        document.addEventListener('keyup', function(event) {
+            if (event.code === 'Space' && isTiming) {
+                const reactionTime = new Date().getTime() - startTime;
+                document.getElementById('reaction-time').textContent = `Tempo de reação: ${reactionTime} ms`;
+                updateHistory(reactionTime);
+                isTiming = false;
+                setTimeout(startTest, 2000); // Reinicia o teste após 2 segundos
+            }
+        });
+
+        startTest();
+    </script>
+</body>
+</html>
