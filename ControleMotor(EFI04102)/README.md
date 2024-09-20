@@ -68,7 +68,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |8|15/11 |24|[-Processos cognitivos envolvidos no controle motor][9]|Schmidt (2008) cap. 3|[Lab5][31]|
 |9|22/11|27|[-Características do controle motor nas habilidades: movimentos que requerem precisão e velocidade <br> Lateralidade no controle motor][10]|Schmidt (2008) cap. 6|[Lab6][32]|
 |10|29/11|30|[-Características do controle motor nas habilidades: preensão, caligrafia e coordenação bimanual, pegar um objeto em movimento, golpear um objeto em movimento ][11]||[Lab7][33]|
-|11|06/12 |33|[-Características do controle motor nas habilidades: movimentos rítmicos e locomoção][12]|Shumway-Cook e Woollacott (2003) cap 7|[Lab8][34]|
+|11|06/12 |33|[-Características do controle motor nas habilidades: movimentos rítmicos, postura, mobilidade e locomoção][12]|Shumway-Cook e Woollacott (2003) cap 7|[Lab8][34]|
 |12|13/12 |36|**-Avaliação 2**|| |
 |13|20/12|39| -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Controle Motor** |
 |14|10/01|42| - Implicações para atuação profissional (online) <br> |[Kleynen et al. 2020][13]| 
