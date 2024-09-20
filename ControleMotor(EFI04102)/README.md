@@ -58,7 +58,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |------------------------|--------------------|
-|1| 27/09|3|[-Comportamento Motor e suas subáreas <br> -Definição de habilidades motoras <br> -Medidas de desempenho <br> -Classificação de habilidades motoras][1]|Magill (2000) cap. 1||
+|1| 27/09|3|[-Comportamento Motor e suas subáreas <br> -Introdução ao Controle Motor][1]|Magill (2000) cap. 1||
 |2|04/10|6|[-Problemas centrais do Controle Motor <br> -Teorias de controle motor][2]|Magill (2000) cap.2|
 |3|11/10|9|[-Sistema visual no controle motor][3]|[Lent][35] |[Lab1][26]
 |4|18/10|12|[-Sistema visual no controle motor][5]|Schmidt (2008) cap. 4| [Lab2][29]
