@@ -58,8 +58,8 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |------------------------|--------------------|
-|1| 27/09|3|[-Comportamento Motor e suas subáreas <br> -Introdução ao Controle Motor][1]|Magill (2000) cap. 1||
-|2|04/10|6|[-Problemas centrais do Controle Motor <br> -Teorias de controle motor][2]|Magill (2000) cap.2|
+|1| 27/09|3|[-Comportamento Motor e suas subáreas <br> -Introdução ao Controle Motor <br> -Problemas centrais do Controle Motor][1]|Magill (2000) cap. 1||
+|2|04/10|6|[ -Teorias de controle motor][2]|Magill (2000) cap.2|
 |3|11/10|9|[-Sistema visual no controle motor][3]|[Lent][35] |[Lab1][26]
 |4|18/10|12|[-Sistema visual no controle motor][5]|Schmidt (2008) cap. 4| [Lab2][29]
 |5|25/10|15|[-Sistema proprioceptivo no controle motor <br> Sistema vestibular no controle motor][6]|Shumway-Cook e Woollacott (2003) cap 3|[Lab3][29]
