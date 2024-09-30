@@ -128,6 +128,6 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 
 [35]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/Cap06Lent.pdf
 
-[36]:https://youtu.be/dnjYvaQVAQM
+[36]:https://youtu.be/b608JK3dvHM
 
 
