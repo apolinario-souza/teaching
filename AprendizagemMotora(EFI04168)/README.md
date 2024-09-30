@@ -22,7 +22,7 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
  - **Monitor:**
  
  - **Agendar uma reunião**
- - Link para agendar
+ - Envie o convite para edf.tercio@gmail.com
  - [Link da agenda](https://calendar.google.com/calendar/u/0?cid=ZWRmLnRlcmNpb0BnbWFpbC5jb20)  
     
 - **Horário:**
