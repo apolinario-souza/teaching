@@ -1,9 +1,4 @@
 
-<div align="center">
-<img style="margin: 10px" src="https://github.com/apolinario-souza/teaching/blob/main/AprendizageMotora(EFI04168)/img/cabecalho.png" alt="Python" height="150" 
-/>  </div>
-
-
 # **Aprendizagem Motora (EFI04168)**
 
 
@@ -22,8 +17,8 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
  - **Monitor:**
  
  - **Agendar uma reunião**
+ - [Link da agenda](https://calendar.google.com/calendar/u/0?cid=ZWRmLnRlcmNpb0BnbWFpbC5jb20)
  - Envie o convite para edf.tercio@gmail.com
- - [Link da agenda](https://calendar.google.com/calendar/u/0?cid=ZWRmLnRlcmNpb0BnbWFpbC5jb20)  
     
 - **Horário:**
   - Tuma A. Sexta-feira 07:30 às 10:30h - Sala 106
