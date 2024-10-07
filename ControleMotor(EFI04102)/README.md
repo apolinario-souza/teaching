@@ -16,6 +16,8 @@ O aluno deverá conhecer os mecanismos e os processos subjacentes ao controle mo
    - daianaamaralfisio@gmail.com
   - Sala 220 no Lapex
 - **Professor:** João Guimarães (estágio a docência)
+  - profjoaoguimaraes99@gmail.com
+  - Sala 220 no Lapex  
   
  - **Monitor:**
    
