@@ -1,25 +1,44 @@
-# Laboratório 1C – Processo de Aprendizagem 
+# Laboratório 1 –Especificade da prática
 
 ## Materiais
-- Bolas de tênis, cronômetro (ou celular) e folha de caderno.
-## Procedimentos 
-Em duplas, realizar realizar mais 50 tentativas do malabares com três bolas; porém, neste momento, duas alterações ocorrerão em relação ao Lab1B:
+Linear Positioning Task e caderno.
 
-1. A medida de desempenho na tarefa não será os erros/acertos a tentativa, será o tempo que o participante permaneceu realizando a tarefa sem deixar a bola cair. Anote este tempo a cada tentativa.
-2. Não haverá sonda nessas 50 tentativas. 
+## Procedimentos
+1. Formem duplas ;
+2. A tarefa motora consiste em deslocar o curso do Linear Positioning Task o mais rápido possível e parar sobre o valor 80 cm da régua, conforme indicado no vídeo:
+3. O desempenho na tarefa será medido pela diferença entre o valor executado e a meta, em módulo. Por exemplo, se o executante parou a 79 cm o erro será de 1 cm; igualmente se o executante parar a 81 cm o seu erro será de 1 cm;
+4. O desenho experimental (delineamento) do lab será o seguinte:
 
-
-# Para entregar
-Responda
-1. Comparado ao seu colega, quem apresentou mais aperfeiçoamento? Explique como você chegou nessa conclusão.
-2. Comparado ao seu colega, quem apresentou mais consistência? Explique como você chegou nessa conclusão.
-
-Obs. Lembre-se, o desvio padrão é uma medida adequada para inferir sobre consistência. Se você não sabe calcular o desvio padrão, veja o vídeo a seguir: https://www.youtube.com/watch?v=JEwd0Vlqapo
+| duplas | Com os olhos vendados| Sem os olhos vendados| Com os olhos vendados| Sem os olhos vendados| 
+|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|1| X  | |
+|2 |  | 30 tentativas  |5 tentativas |
 
 
-   
-4. Comparado ao seu colega, quem apresentou mais persistência? Explique como você chegou nessa conclusão.
-5. Crie e descreva uma condição hipotética para medir a adaptabilidade nesta tarefa.
-6. O tempo da sonda diminuiu ou aumentou ao longo das 100 tentativas? Explique considerando os modelos que descrevem o processo de aprendizagem motora.
+No pré-teste TODOS os grupos executaram executarão 5 tentativas sem receberem o feedback. Na aquisição os grupos se diferenciarão, sendo que o G100% receberá feedback a cada tentativa, o G50% receberá intercalando uma tentativa sim e uma tentativa não e o G33% receberá intercalando uma tentativa sim e duas tentativas não. Após 10 minutos da aquisição se iniciará a retenção/pós-teste, semelhante ao pré-teste/retenção. Logo após retenção/pós-teste, iniciará o teste de transferência. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, a meta não será deslocar até 80 cm, mas deslocar até 95 cm. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência;
 
+7. O feedback (apenas na aquisição) será fornecido pelo valor real no qual o executante produziu. Por exemplo, ele se o executante parou a 81cm, deve-se informar o valor 81cm e não seu erro (1cm);
+
+8. O experimentador deverá sempre retornar o braço do executante após a execução;
+
+9. O experimentador deverá indicar o início da tentativa, "prepara", e em seguida "vai", indicando para o executante iniciar a ação.
+
+## Para entregar
+1. Faça uma tabela com a **média** do erro das 5 tentativas do pré-teste e  das 5 tentativas da retenção/pós-teste, conforme o exemplo:
+
+| Grupos | Pré-teste (cm)| Aquisição | Retenção/Pós-Teste (cm) | Transferência (cm) |
+|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|G 100% | 24,7  |-| 9,7 | 15,2| 
+| G 50% | 23,6  | -  |3,5 |6,8| 
+| G 33% | 21,5  | -  |5,9 |10,4|
+
+2. Faça uma tabela com o **desvio padrão** do erro das 5 tentativas do pré-teste e  das 5 tentativas da retenção/pós-teste, conforme o exemplo da tabela anterior.
+
+Obs. Se você não sabe calcular o **desvio padrão** e/ou **média**, veja o vídeo a seguir: https://www.youtube.com/watch?v=JEwd0Vlqapo
+
+3. De forma geral, qual grupo foi melhor?
+4. Qual grupo foi melhor considerando o **persistência**? Por que?
+5. Qual grupo foi melhor considerando a **consistência**? Por que?
+6. Qual grupo foi melhor considerando a **adaptabilidade**? Por que?
+7. Considerando as hipóteses que explicam os efeitos do feedback na aprendizagem motora, explique seus resultados.
 
