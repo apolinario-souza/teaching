@@ -23,7 +23,7 @@ O aluno deverá conhecer os mecanismos e os processos subjacentes ao controle mo
    
     
 - **Horário:**
-  - Sexta-feira 13:30 às 16:30h - sala 101
+  - Sexta-feira 13:30 às 16:30h - sala 105
  
 
 ## Avaliação
