@@ -51,7 +51,7 @@ O conceito será atribuído da seguinte forma:
 **Textbook**
 
 - Schmidt, R. Wrisberg, C. (2008). Aprendizagem e performance motora: uma abordagem da aprendizagem baseada na situação. Artmed.
-- Magill, R. A. (2000). Aprendizagem motora: conceitos e aplicações. Editora Blucher.
+- [Magill, R. A. (2000). Aprendizagem motora: conceitos e aplicações. Editora Blucher.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
 
 Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da UFRGS  (https://www.ufrgs.br/bibliotecas/pesquisa/proxy/) e acessando a Minha Biblioteca Online. Adicionalmente, podem ser consultados presencialmente na biblioteca da ESEFID. 
 
