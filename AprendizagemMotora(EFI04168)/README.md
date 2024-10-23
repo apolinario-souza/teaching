@@ -36,6 +36,7 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
 - **Bônus** (máx 1 pt)
   - Estudo dirigido. 1 pt 
   - Participação em pesquisa. 1 pt
+      - Cristiano Ovalhe 51 9.9777-9606
   - Participação no Journal Club. 1 pt
 
 
