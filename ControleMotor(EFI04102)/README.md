@@ -93,9 +93,9 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 
 [1]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/01.pdf
 [2]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/02_parte2.pdf
-[3]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/03/03.html#1
+[3]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/03.pdf
 [4]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/04/04.html#1
-[5]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/05/05.html#1
+[5]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/03.pdf
 [6]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/06/06.html#1
 [8]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/08/08.html#1
 [9]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/09/09.pdf#1
