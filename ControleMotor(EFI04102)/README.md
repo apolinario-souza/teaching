@@ -64,9 +64,9 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |2|04/10|6|[ -Teorias de controle motor][2]|Magill (2000) cap.2||[Link][37]
 |3|11/10|9|[-Sistema visual no controle motor][3]|[Lent][35] |
 |4|18/10|12|[-Sistema visual no controle motor][5]|Schmidt (2008) cap. 4| 
-|5|25/10|15|[-Sistema proprioceptivo no controle motor <br> -Sistema vestibular no controle motor][6]|Shumway-Cook e Woollacott (2003) cap 3|[Lab3][29]
+|5|25/10|15|[-Sistema proprioceptivo no controle motor <br> -Sistema vestibular no controle motor][6]|Shumway-Cook e Woollacott (2003) cap 3|
 |6|01/11|18|**- Avaliação 1**|  | |
-|7|08/11|21|[-Controle central nos movimentos][8]|Schmidt (2008) cap. 5| [Lab4][30]|
+|7|08/11|21|[-Controle central nos movimentos][8]|Schmidt (2008) cap. 5| |
 |8|15/11 |24|[-Processos cognitivos envolvidos no controle motor][9]|Schmidt (2016) cap. 3||
 |9|22/11|27|[-Características do controle motor nas habilidades: movimentos que requerem precisão e velocidade <br> -Lateralidade no controle motor][10]|Schmidt (2016) cap. 6||
 |10|29/11|30|[-Características do controle motor nas habilidades: preensão, caligrafia e coordenação bimanual, pegar um objeto em movimento e golpear um objeto em movimento ][11]|||
