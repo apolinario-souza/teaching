@@ -96,7 +96,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [3]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/03.pdf
 [4]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/04/04.html#1
 [5]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/03.pdf
-[6]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/06/06.html#1
+[6]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/Sistema%20_Propioceptivo_e_Vestibular.pdf
 [8]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/08/08.html#1
 [9]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/09/09.pdf#1
 [10]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/10/10.pdf#1
