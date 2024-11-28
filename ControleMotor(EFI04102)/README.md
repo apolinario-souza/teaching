@@ -72,8 +72,8 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |10|29/11|30|[-Características do controle motor nas habilidades: movimentos que requerem precisão e velocidade <br> -Lateralidade no controle motor ][11]|Schmidt (2016) cap. 6||
 |11|06/12 |33|[-Características do controle motor nas habilidades: movimentos rítmicos, postura, mobilidade e locomoção][12]|Shumway-Cook e Woollacott (2003) cap 7||
 |12|13/12 |36|**-Avaliação 2**|| |
-|13|20/12|39| -Entrega dos **"Relatório dos laboratórios"** <br> -Postagem no moodle da **Pesquisa em Controle Motor** |
-|14|10/01|42| - Implicações para atuação profissional (online) <br> |[Kleynen et al. 2020][13]| 
+|13|20/12|39| -Entrega dos **"Relatório dos laboratórios"**  |
+|14|10/01|42| - Implicações para atuação profissional (online) <br> <br> -Postagem no moodle da **Pesquisa em Controle Motor** |[Kleynen et al. 2020][13]| 
 |15|17/01|45| - Recuperação (online)  
 |------|||||------|
 |-         | -         | 48          | [Pesquisa em Controle Motor: visão geral e como elaborar a Introdução][20]|   [Exemplos de pesquisas][19]
