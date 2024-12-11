@@ -99,8 +99,8 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [6]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/Sistema%20_Propioceptivo_e_Vestibular.pdf
 [8]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/aula_07.pdf
 [9]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/09/09.pdf#1
-[10]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/10/10.pdf#1
-[11]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/11/11.pdf#1
+[10]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/Aula_assimetria.pdf
+[11]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/Aula_assimetria2.pdf
 [12]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/aula11.pdf
 [13]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Kleynen%20et%20al.%2C%202018).pdf
 [14]:https://youtu.be/dljqqiynrt8
