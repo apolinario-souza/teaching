@@ -67,7 +67,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |5|25/10|15|[-Sistema proprioceptivo no controle motor <br> -Sistema vestibular no controle motor][6]|Shumway-Cook e Woollacott (2003) cap 3|
 |6|01/11|18|**- Avaliação 1**|  | |
 |7|08/11|21|[-Controle central nos movimentos][8]|Schmidt (2008) cap. 5| |
-|8|15/11 |24|[-Processos cognitivos envolvidos no controle motor][9]|Schmidt (2016) cap. 3||
+|8|15/11 |24|-Processos cognitivos envolvidos no controle motor - Aula não realizada |Schmidt (2016) cap. 3||
 |9|22/11|27|[-Características do controle motor nas habilidades: preensão, caligrafia e coordenação bimanual, pegar um objeto em movimento e golpear um objeto em movimento][10]|||
 |10|29/11|30|[-Características do controle motor nas habilidades: movimentos que requerem precisão e velocidade <br> -Lateralidade no controle motor ][11]|Schmidt (2016) cap. 6||
 |11|06/12 |33|[-Características do controle motor nas habilidades: movimentos rítmicos, postura, mobilidade e locomoção][12]|Shumway-Cook e Woollacott (2003) cap 7||
@@ -97,7 +97,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [4]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/04/04.html#1
 [5]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/03.pdf
 [6]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/Sistema%20_Propioceptivo_e_Vestibular.pdf
-[8]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/08/08.html#1
+[8]:https://github.com/apolinario-souza/teaching/blob/main/ControleMotor(EFI04102)/aulas/aula_07.pdf
 [9]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/09/09.pdf#1
 [10]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/10/10.pdf#1
 [11]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/11/11.pdf#1
