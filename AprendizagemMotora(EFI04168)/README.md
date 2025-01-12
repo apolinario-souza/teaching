@@ -80,7 +80,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |12|10/12B <br> 13/12A |36|**-Avaliação 2**|| |
 |13|17/12B <br> 20/12A |39| -Entrega dos **"Relatório dos laboratórios"** |
 |14|07/01B <br>10/01A |42| - Implicações para atuação profissional (online) <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora**  |[Kleynen et al. 2020][13]<br>[Otte et al., 2019][16]<br>[Otte et al., 2020][18]| 
-|15|14/01B <br> 17/01A |45| - Recuperação (online)  
+|15|14/01 |45| - Recuperação (online)  
 |------|||||------|
 |-         | -         | 48          | [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução][20]|   [Exemplos de pesquisas][19]
 | -        | -         | 54          | [Pesquisa em Aprendizagem Motora: como aprensentar o método][21] |   
