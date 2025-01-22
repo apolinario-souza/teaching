@@ -93,51 +93,22 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 
 
 
-[1]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/01/1.html#1
-[2]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/02/02.html#1
-[3]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/03/03.html#1
-[4]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/04/04.html#1
-[5]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/05/05.html#1
-[6]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/06/06.html#1
-[8]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/08/08.html#1
-[9]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/09/09.pdf#1
-[10]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/10/10.pdf#1
-[11]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/11/11.pdf#1
-[12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/12.html
-[13]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Kleynen%20et%20al.%2C%202018).pdf
-[14]:https://youtu.be/dljqqiynrt8
-[15]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/resultados_Pesquisa_em_AM.ipynb
-[16]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Otte%20et%20al.%2C%202019).pdf
+[1]:https://
+[2]:https://
+[3]:https://
+[4]:https://
+[5]:https://
+[6]:https://
+[7]:https://
+[8]:https://
+[9]:https://
+[10]:https://
+[11]:https://
+[12]:https://
+[13]:https://
+[14]:https://
+[15]:https://
+[16]:https://
+[17]:https://
+[18]:https://
 
-[17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/roteiro_pesquisa_em_AM.md
-[18]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Otte%20et%20al.%2C%202020).pdf
-
-[19]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Pesquisa_em_Aprendizagem/pagina_inicial.md
-[20]:https://youtu.be/dnjYvaQVAQM
-[21]:https://youtu.be/Yq69qkbGMrE
-[22]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/ingles.md
-[23]:https://youtu.be/rlPpJMJy-3k
-
-[24]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab1A.md
-[25]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab1B.md
-[26]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab1C.md
-[27]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab2.md
-[28]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab3.md
-[29]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab4.md
-[30]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab5.md
-[31]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab6.md
-[32]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab7.md
-[33]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab8.md
-[34]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab9.md
-
-
-[35]: https://youtu.be/qEwYf7AQbos
-[36]: https://youtu.be/aKv6cMMC2wI
-[37]: https://youtu.be/0yNpg2567t0
-[38]: https://youtu.be/eB4UEZbJoZ0
-[39]: https://youtu.be/1C_Zi3liUIY
-[40]: https://youtu.be/GmhAIQvTPq8
-[41]: https://youtu.be/W7s9ymT4hJQ
-[42]: https://youtu.be/BKMD-JX8Ujo
-[43]: https://www.youtube.com/watch?v=OvbpqqClvhg
-[44]: https://youtu.be/6zRQ0FGg3Gw
