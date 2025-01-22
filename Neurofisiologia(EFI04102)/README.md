@@ -62,24 +62,24 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |------------------------|--------------------|
-|1| 10/03 <br> 14/03|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Magill (2000) cap. 1| [Lab1A][24]|[Link][44]
-|2|17/03 <br> 21/03|6|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Magill (2000) cap.7|[Lab1B][25] e [Lab2][27]
-|3|24/03 <br> 28/03|9|[-Princípios e conceitos da aprendizagem motora][3]|Magill (2000) cap.4|[Lab1C][26]
-|4|31/03 <br> 04/04|12|[-Transferência de Aprendizagem][4]|Schmidt (2008) cap. 7| [Lab4][29]
-|5|07/04 <br> 11/04|15|[-Teorias da aprendizagem motora][5] |Magill (2000) cap. 2|| [Parte 1][41] [Parte 2][42] [Parte 3][43]
-|6|14/04 |16,5|**-Avaliação 1**    |  | |[Revisao][6]
-|7|25/04 <br> 28/04 <br> 05/05|21|[-Feedback][7]|Schmidt (2008) cap. 10| [Lab5][30]|[Link][36]
-|8|09/05 <br> 12/05 <br> 16/05 <br>19/05|8|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
-|9|23/05<br>26/05|30|[-Prática mental][10]|Magill (2000) cap. 6.5|[Lab7][32]|[Link][38]
-|10| 30/05<br>02/06|33|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|[Link][39] 
-|11|06/06<br>09/06|36|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40] 
-|12|13/06|37,5|**-Avaliação 2**|| |
-|13|16/06 <br> 20/06 <br>23/06|42|- Implicações para atuação profissional |[Kleynen et al. 2020][13]<br>[Otte et al., 2019][16]<br>[Otte et al., 2020][18]| 
-|14|27/06<br>30/06|45|- Desenvolvimento da Pesquisa em Aprendizagem Motora <br> - Entrega dos **"Relatório dos laboratórios"** <br>| 
-|15|04/07<br>07/07|48|- Desenvolvimento da Pesquisa em Aprendizagem Motora|
-|16|04/07<br>07/07|48|- Desenvolvimento da Pesquisa em Aprendizagem Motora|
-|17|04/07<br>07/07|48|- Desenvolvimento da Pesquisa em Aprendizagem Motora|
-|18|04/07<br>07/07|48|- Desenvolvimento da Pesquisa em Aprendizagem Motora|
+|1| 10/03 <br> 14/03|3|[ -][1]|| [Lab1A][24]|[Link][44]
+|2|17/03 <br> 21/03|6|[][2]|Magill (2000) cap.7|[Lab1B][25] e [Lab2][27]
+|3|24/03 <br> 28/03|9|[][3]|Magill (2000) cap.4|[Lab1C][26]
+|4|31/03 <br> 04/04|12|[][4]|Schmidt (2008) cap. 7| [Lab4][29]
+|5|07/04 <br> 11/04|15|[][5] |Magill (2000) cap. 2|| [Parte 1][41] [Parte 2][42] [Parte 3][43]
+|6|14/04 |16,5|  |  | |[Revisao][6]
+|7|25/04 <br> 28/04 <br> 05/05|21|[-][7]|Schmidt (2008) cap. 10| [Lab5][30]|[Link][36]
+|8|09/05 <br> 12/05 <br> 16/05 <br>19/05|8|[-][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
+|9|23/05<br>26/05|30|[-][10]|Magill (2000) cap. 6.5|[Lab7][32]|[Link][38]
+|10| 30/05<br>02/06|33|[-][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|[Link][39] 
+|11|06/06<br>09/06|36|[-][12]|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40] 
+|12|13/06|37,5|**- 2**|| |
+|13|16/06 <br> 20/06 <br>23/06|42|-  |[Kleynen et al. 2020][13]<br>[Otte et al., 2019][16]<br>[Otte et al., 2020][18]| 
+|14|27/06<br>30/06|45|- | 
+|15|04/07<br>07/07|48|- |
+|16|04/07<br>07/07|48|- |
+|17|04/07<br>07/07|48|- |
+|18|04/07<br>07/07|48|- |
 
 
 
