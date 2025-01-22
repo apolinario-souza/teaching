@@ -1,0 +1,10 @@
+﻿git clone git@github.com:apolinario-souza/apolinario-souza.github.io.git
+cd apolinario-souza.github.io
+Copiar os arquivos para a pasta apolinario-souza.github.io
+git add .
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+
+
+
