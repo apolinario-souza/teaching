@@ -73,7 +73,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |5|07/04 <br> 11/04|15|[-Transferência de Aprendizagem][5]|Schmidt (2008) cap. 7| [Lab4][29]
 |6|14/04 <br> 25/04|18|**-Avaliação 1**    |  | |[Revisao][35]
 |7|28/04 <br> 05/05|21|[-Feedback][8]|Schmidt (2008) cap. 10| [Lab5][30]|[Link][36]
-|8|09/05 <br> 16/05 |24|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
+|8|09/05 <br> 12/05 <br> 16/05 |24|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
 |9|19/05 <br>23/05 |27|[-Prática mental][10]|Magill (2000) cap. 6.5|[Lab7][32]|[Link][38]
 |10|26/05 <br> 30/05 |30|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|[Link][39] 
 |11|02/06 <br> 06/06 |33|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40] 
