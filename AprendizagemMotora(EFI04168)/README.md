@@ -21,8 +21,8 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
  - Envie o convite para edf.tercio@gmail.com
     
 - **Horário:**
-  - Tuma A. Sexta-feira 07:30 às 10:30h - Sala 106
-  - Tuma B. Terça-feira 18:30 as 21:30h - Sala de reuniões do administrativo
+  - Tuma A. Segunda-feira 09:30 às 11:00h e Sexta-feira de 7:30 às 9:00 - Sala 106
+  - Tuma B. Segunda-feira 15:30 às 17:00h e Sexta-feira de 13:30 às 15:00 - Sala 106
 
 
 
@@ -66,26 +66,28 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |------------------------|--------------------|
-|1| 24/09B <br> 27/09A|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Magill (2000) cap. 1| [Lab1A][24]|[Link][44]
-|2|01/10B <br> 04/10A|6|[-Teorias da aprendizagem motora][6] |Magill (2000) cap. 2|| [Parte 1][41] [Parte 2][42] [Parte 3][43]
-|3|08/10B <br> 11/10A|9|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Magill (2000) cap.7|[Lab1B][25] e [Lab2][27]
-|4|15/10B <br> 18/10A|12|[-Princípios e conceitos da aprendizagem motora][3]|Magill (2000) cap.4|[Lab1C][26]
-|5|22/10B <br> 25/10A|15|[-Transferência de Aprendizagem][5]|Schmidt (2008) cap. 7| [Lab4][29]
-|6|29/10B <br> 01/11|18|**-Avaliação 1**    |  | |[Revisao][35]
-|7|05/11B<br> 08/11A|21|[-Feedback][8]|Schmidt (2008) cap. 10| [Lab5][30]|[Link][36]
-|8|12/11B <br> 15/11A |24|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
-|9| 19/11B <br>22/11A |27|[-Prática mental][10]|Magill (2000) cap. 6.5|[Lab7][32]|[Link][38]
-|10|26/11B <br> 29/11A |30|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|[Link][39] 
-|11|03/12B <br> 06/12A |33|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40] 
-|12|10/12B <br> 13/12A |36|**-Avaliação 2**|| |
-|13|17/12B <br> 20/12A |39| -Entrega dos **"Relatório dos laboratórios"** |
-|14|07/01B <br>10/01A |42| - Implicações para atuação profissional (online) <br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora**  |[Kleynen et al. 2020][13]<br>[Otte et al., 2019][16]<br>[Otte et al., 2020][18]| 
-|15|14/01 |45| - Recuperação (online)  
+|1| 10/03 <br> 14/03|3|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Magill (2000) cap. 1| [Lab1A][24]|[Link][44]
+|2|17/03 <br> 21/03|6|[-Teorias da aprendizagem motora][6] |Magill (2000) cap. 2|| [Parte 1][41] [Parte 2][42] [Parte 3][43]
+|3|24/03 <br> 28/03|9|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Magill (2000) cap.7|[Lab1B][25] e [Lab2][27]
+|4|31/03 <br> 04/04|12|[-Princípios e conceitos da aprendizagem motora][3]|Magill (2000) cap.4|[Lab1C][26]
+|5|07/04 <br> 11/04|15|[-Transferência de Aprendizagem][5]|Schmidt (2008) cap. 7| [Lab4][29]
+|6|14/04 <br> 25/04|18|**-Avaliação 1**    |  | |[Revisao][35]
+|7|28/04 <br> 05/05|21|[-Feedback][8]|Schmidt (2008) cap. 10| [Lab5][30]|[Link][36]
+|8|09/05 <br> 16/05 |24|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
+|9|19/05 <br>23/05 |27|[-Prática mental][10]|Magill (2000) cap. 6.5|[Lab7][32]|[Link][38]
+|10|26/05 <br> 30/05 |30|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|[Link][39] 
+|11|02/06 <br> 06/06 |33|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40] 
+|12|09/06 <br> 13/06 |36|**-Avaliação 2**|| |
+|13|16/06 <br> 20/06 |39|- Implicações para atuação profissional |[Kleynen et al. 2020][13]<br>[Otte et al., 2019][16]<br>[Otte et al., 2020][18]| 
+|14|23/06 <br>27/06 |42|- Desenvolvimento da Pesquisa em Aprendizagem Motora <br> - Entrega dos **"Relatório dos laboratórios"** <br>| 
+|14|30/06 <br>04/07 |45|- Desenvolvimento da Pesquisa em Aprendizagem Motora|
+|14|07/07 <br> 11/07 |48|- Desenvolvimento da Pesquisa em Aprendizagem Motora|<br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora**|  
+|15|14/07 || - Recuperação|
 |------|||||------|
-|-         | -         | 48          | [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução][20]|   [Exemplos de pesquisas][19]
-| -        | -         | 54          | [Pesquisa em Aprendizagem Motora: como aprensentar o método][21] |   
-| -        | -         | 57          | [Pesquisa em Aprendizagem Motora: como apresentar os resultados][14] <br> [-Algoritmo utilizado][15]|   
-| -        | -         | 60          | [Pesquisa em Aprendizagem Motora: como apresentar a discussão e conclusão][23]|    
+|-         | -         | 54 | [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução][20]|   [Exemplos de pesquisas][19]
+| -        | -         | 56 | [Pesquisa em Aprendizagem Motora: como aprensentar o método][21] |   
+| -        | -         | 58 | [Pesquisa em Aprendizagem Motora: como apresentar os resultados][14] <br> [-Algoritmo utilizado][15]|   
+| -        | -         | 60 | [Pesquisa em Aprendizagem Motora: como apresentar a discussão e conclusão][23]|    
 
 
 ## Atividades de Recuperação Previstas
