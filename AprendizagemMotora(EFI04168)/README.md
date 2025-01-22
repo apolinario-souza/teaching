@@ -73,21 +73,21 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |5|07/04 <br> 11/04|15|[-Transferência de Aprendizagem][5]|Schmidt (2008) cap. 7| [Lab4][29]
 |6|14/04 <br> 25/04|18|**-Avaliação 1**    |  | |[Revisao][35]
 |7|28/04 <br> 05/05|21|[-Feedback][8]|Schmidt (2008) cap. 10| [Lab5][30]|[Link][36]
-|8|09/05 <br> 12/05 <br> 16/05 |24|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
-|9|19/05 <br>23/05 |27|[-Prática mental][10]|Magill (2000) cap. 6.5|[Lab7][32]|[Link][38]
-|10|26/05 <br> 30/05 |30|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|[Link][39] 
-|11|02/06 <br> 06/06 |33|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40] 
-|12|09/06 <br> 13/06 |36|**-Avaliação 2**|| |
-|13|16/06 <br> 20/06 |39|- Implicações para atuação profissional |[Kleynen et al. 2020][13]<br>[Otte et al., 2019][16]<br>[Otte et al., 2020][18]| 
-|14|23/06 <br>27/06 |42|- Desenvolvimento da Pesquisa em Aprendizagem Motora <br> - Entrega dos **"Relatório dos laboratórios"** <br>| 
-|14|30/06 <br>04/07 |45|- Desenvolvimento da Pesquisa em Aprendizagem Motora|
-|14|07/07 <br> 11/07 |48|- Desenvolvimento da Pesquisa em Aprendizagem Motora|<br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora**|  
-|15|14/07 || - Recuperação|
+|8-9|09/05 <br> 12/05 <br> 16/05 <br>19/05|27|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
+|10|23/05<br>26/05|30|[-Prática mental][10]|Magill (2000) cap. 6.5|[Lab7][32]|[Link][38]
+|11| 30/05<br>02/06|33|[-Fragmentação da prática <br> - Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|[Link][39] 
+|12|06/06<br>09/06|36|[-Instrução verbal <br> -Demonstração <br> -Metas][12]|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40] 
+|13|13/06<br>16/06 |39|**-Avaliação 2**|| |
+|14|20/06 <br>23/06|42|- Implicações para atuação profissional |[Kleynen et al. 2020][13]<br>[Otte et al., 2019][16]<br>[Otte et al., 2020][18]| 
+|15|27/06<br>30/06|45|- Desenvolvimento da Pesquisa em Aprendizagem Motora <br> - Entrega dos **"Relatório dos laboratórios"** <br>| 
+|16|04/07<br>07/07|48|- Desenvolvimento da Pesquisa em Aprendizagem Motora|
+|17| 11/07 |54|- Desenvolvimento da Pesquisa em Aprendizagem Motora|<br> -Postagem no moodle da **Pesquisa em Aprendizagem Motora**|  
+|18|14/07 || - Recuperação|
 |------|||||------|
-|-         | -         | 54 | [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução][20]|   [Exemplos de pesquisas][19]
-| -        | -         | 56 | [Pesquisa em Aprendizagem Motora: como aprensentar o método][21] |   
-| -        | -         | 58 | [Pesquisa em Aprendizagem Motora: como apresentar os resultados][14] <br> [-Algoritmo utilizado][15]|   
-| -        | -         | 60 | [Pesquisa em Aprendizagem Motora: como apresentar a discussão e conclusão][23]|    
+|-         | -         |  | [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução][20]|   [Exemplos de pesquisas][19]
+| -        | -         |  | [Pesquisa em Aprendizagem Motora: como aprensentar o método][21] |   
+| -        | -         |  | [Pesquisa em Aprendizagem Motora: como apresentar os resultados][14] <br> [-Algoritmo utilizado][15]|   
+| -        | -         |  | [Pesquisa em Aprendizagem Motora: como apresentar a discussão e conclusão][23]|    
 
 
 ## Atividades de Recuperação Previstas
