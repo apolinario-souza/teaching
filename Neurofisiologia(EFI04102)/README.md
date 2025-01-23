@@ -71,10 +71,10 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |7| 28/04 <br> 30/04|21|[ -][1]||
 |8| 05/05 <br> 07/05|24|[ -][1]||
 |9| 12/05 <br> 14/05|27|[ -][1]||
-|10| 19/05 <br> 21/05|30|[ -][1]||
-|11| 26/05 <br> 28/05|33|[ -][1]||
-|12| 02/06 <br> 04/06|36|[ -][1]||
-|13| 09/06 <br> 11/06|39|[ -][1]||
+|10| 19/05 <br> 21/05|30|[ -Funções de alta ordem, córtex pré-frontal e exercício físico][1]||
+|11| 26/05 <br> 28/05|33|[ -Funções de alta ordem, córtex pré-frontal e exercício físico][1]||
+|12| 02/06 <br> 04/06|36|[ -Funções de alta ordem, córtex pré-frontal e exercício físico][1]||
+|13| 09/06 <br> 11/06|39|[ -Funções de alta ordem, córtex pré-frontal e exercício físico][1]||
 |14| 16/06 <br> 18/06|42|[ -][1]||
 |15| 23/06 <br> 25/06|45|[ -][1]||
 |16| 30/06 <br> 02/07|48|[ -][1]||
