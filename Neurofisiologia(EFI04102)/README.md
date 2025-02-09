@@ -26,7 +26,7 @@ O aluno deverá conhecer os mecanismos e os processos neurobiológicos subjacent
 ## Avaliação
 - Avaliação 1. 3 pts
 - Avaliação 2. 3 pts
-- Avaliação 2. 3 pts
+- Trabalho. 3 pts
 - Relatórios dos laboratórios. 1 pt
 
 - **Bônus** (máx 1 pt)
@@ -62,26 +62,26 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |------------------------|--------------------|
-|1| 10/03 <br> 12/03|3|[ -][1]||
-|2| 17/03 <br> 19/03|6|[ -][1]||
-|3| 24/03 <br> 26/03|9|[ -][1]||
-|4| 31/03 <br> 02/04|12|[ -][1]||
-|5| 07/04 <br> 09/04|15|[ -][1]||
-|6| 14/04 <br> 16/04|18|[ -][1]||
-|7| 28/04 <br> 30/04|21|[ -][1]||
-|8| 05/05 <br> 07/05|24|[ -][1]||
-|9| 12/05 <br> 14/05|27|[ -][1]||
-|10| 19/05 <br> 21/05|30|[ -Funções de alta ordem, córtex pré-frontal e exercício físico][1]||
-|11| 26/05 <br> 28/05|33|[ -Funções de alta ordem, córtex pré-frontal e exercício físico][1]||
-|12| 02/06 <br> 04/06|36|[ -Funções de alta ordem, córtex pré-frontal e exercício físico][1]||
-|13| 09/06 <br> 11/06|39|[ -Funções de alta ordem, córtex pré-frontal e exercício físico][1]||
-|14| 16/06 <br> 18/06|42|[ -][1]||
-|15| 23/06 <br> 25/06|45|[ -][1]||
-|16| 30/06 <br> 02/07|48|[ -][1]||
-|17| 30/06 <br> 02/07|51|[ -][1]||
-|18| 07/07 <br> 09/07|54|[ -][1]||
-|19| 07/07 <br> 09/07|57|[ -][1]||
-|20| 14/07 <br> 16/07|60|[ -][1]||
+|1| 10/03 <br> 12/03|3|[-Introdução e Métodos das Neurociências[1]|Cap. 1, 2 e 3 Gazzaniga|
+|2| 17/03 <br> 19/03|6|[-Neurônios motores inferiores e superiores][1]|Cap. 16 e 17. Purves|
+|3| 24/03 <br> 26/03|9|[-Neurofisiologia da sensação e percepção][1]|Cap. 5 Gazzaniga|
+|4| 31/03 <br> 02/04|12|[-Córtex motor e movimento]][1]|Cap. 37 Kandel|
+|5| 07/04 <br> 09/04|15|[-Córtex parietal e áreas pré-motoras][1]|Cap. 38 Kandel|
+|6| 14/04 <br> 16/04|18|[-Cerebelo e Núcleos da base][1]|Cap. 42 e 43 Kandel|
+|7| 28/04 <br> 30/04|21|**Avaliação 1** 
+|8| 05/05 <br> 07/05|24|[-Neurofisiologia da Memória][1]|Cap. 9 Gazzaniga|
+|9| 12/05 <br> 14/05|27|[-Neurofisiologia da Memória][1]|Cap. 9 Gazzaniga|
+|10| 19/05 <br> 21/05|30|[-Neurofisiologia da atenção][1]|Cap. 7 Gazzaniga|
+|11| 26/05 <br> 28/05|33|[-Lateralidade e hespecialização hemisférica][1]|Cap. 4 Gazzaniga|
+|12| 02/06 <br> 04/06|36|[-Infância e o cérebro][1]|Cap. 24 Purves|
+|13| 09/06 <br> 11/06|39|[-Envelhecimento e o cérebro][1]|Cap. 59 Kandel|
+|14| 16/06 <br> 18/06|42|**-Avaliação 2**||
+|15| 23/06 <br> 25/06|45|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
+|16| 30/06 <br> 02/07|48|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
+|17| 30/06 <br> 02/07|51|[**Trabalho**][1]||
+|18| 07/07 <br> 09/07|54|[-Laboratórios][1]||
+|19| 07/07 <br> 09/07|57|[-Laboratórios][1]||
+|20| 14/07 <br> 16/07|60|Prova de recuperação||
 
 
 
