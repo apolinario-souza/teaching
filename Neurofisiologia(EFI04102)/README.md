@@ -46,11 +46,11 @@ O conceito será atribuído da seguinte forma:
 
 ## Material
 **Textbook**
-- [Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2006). Neurociência cognitiva: A biologia da mente. Artmed.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
+- [Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2006). Neurociência cognitiva: A biologia da mente. Artmed.](
+https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sharing)
+- [Purves (2019). Neurociências (6ª ed., R. Linden, Trad.). Guanabara Koogan.](https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sharing)
 
-- [Purves (2019). Neurociências (6ª ed., R. Linden, Trad.). Guanabara Koogan.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
-
-- [Kandel (2021). Principios da Neurociências. McGraw Hill.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
+- [Kandel (2021). Principios da Neurociências. McGraw Hill.](https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sharing)
 
 Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da UFRGS  (https://www.ufrgs.br/bibliotecas/pesquisa/proxy/) e acessando a Minha Biblioteca Online. Adicionalmente, podem ser consultados presencialmente na biblioteca da ESEFID. 
 
