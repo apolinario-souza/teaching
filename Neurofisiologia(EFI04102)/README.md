@@ -50,11 +50,11 @@ O conceito será atribuído da seguinte forma:
 
 - [Purves (2019). Neurociências (6ª ed., R. Linden, Trad.). Guanabara Koogan.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
 
-- [Kandel (2021). Principles of neural science (6th ed.). McGraw Hill.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
+- [Kandel (2021). Principios da Neurociências. McGraw Hill.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
 
 Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da UFRGS  (https://www.ufrgs.br/bibliotecas/pesquisa/proxy/) e acessando a Minha Biblioteca Online. Adicionalmente, podem ser consultados presencialmente na biblioteca da ESEFID. 
 
-**Lista de leituras [complementares][22].**
+
 
 
 ## 
