@@ -46,9 +46,11 @@ O conceito será atribuído da seguinte forma:
 
 ## Material
 **Textbook**
+- [Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2006). Neurociência cognitiva: A biologia da mente. Artmed.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
 
-- Schmidt, R. Wrisberg, C. (2008). Aprendizagem e performance motora: uma abordagem da aprendizagem baseada na situação. Artmed.
-- [Magill, R. A. (2000). Aprendizagem motora: conceitos e aplicações. Editora Blucher.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
+- [Purves (2019). Neurociências (6ª ed., R. Linden, Trad.). Guanabara Koogan.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
+
+- [Kandel (2021). Principles of neural science (6th ed.). McGraw Hill.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
 
 Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da UFRGS  (https://www.ufrgs.br/bibliotecas/pesquisa/proxy/) e acessando a Minha Biblioteca Online. Adicionalmente, podem ser consultados presencialmente na biblioteca da ESEFID. 
 
@@ -62,10 +64,10 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |------------------------|--------------------|
-|1| 10/03 <br> 12/03|3|[-Introdução e Métodos das Neurociências[1]|Cap. 1, 2 e 3 Gazzaniga|
+|1| 10/03 <br> 12/03|3|[-Introdução e Métodos das Neurociências][1]|Cap. 1, 2 e 3 Gazzaniga|
 |2| 17/03 <br> 19/03|6|[-Neurônios motores inferiores e superiores][1]|Cap. 16 e 17. Purves|
 |3| 24/03 <br> 26/03|9|[-Neurofisiologia da sensação e percepção][1]|Cap. 5 Gazzaniga|
-|4| 31/03 <br> 02/04|12|[-Córtex motor e movimento]][1]|Cap. 37 Kandel|
+|4| 31/03 <br> 02/04|12|[-Córtex motor][1]|Cap. 37 Kandel|
 |5| 07/04 <br> 09/04|15|[-Córtex parietal e áreas pré-motoras][1]|Cap. 38 Kandel|
 |6| 14/04 <br> 16/04|18|[-Cerebelo e Núcleos da base][1]|Cap. 42 e 43 Kandel|
 |7| 28/04 <br> 30/04|21|**Avaliação 1** 
@@ -78,7 +80,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |14| 16/06 <br> 18/06|42|**-Avaliação 2**||
 |15| 23/06 <br> 25/06|45|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
 |16| 30/06 <br> 02/07|48|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
-|17| 30/06 <br> 02/07|51|[**Trabalho**][1]||
+|17| 30/06 <br> 02/07|51|**Trabalho**||
 |18| 07/07 <br> 09/07|54|[-Laboratórios][1]||
 |19| 07/07 <br> 09/07|57|[-Laboratórios][1]||
 |20| 14/07 <br> 16/07|60|Prova de recuperação||
