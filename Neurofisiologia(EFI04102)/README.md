@@ -20,7 +20,7 @@ O aluno deverá conhecer os mecanismos e os processos neurobiológicos subjacent
  - Envie o convite para edf.tercio@gmail.com
     
 - **Horário:**
-  - Tuma U. Segunda e quarta 13:30 às 15:00h - Sala 106
+  - Tuma U. Segunda e quarta 13:30 às 15:00h - Sala Museu
   -
 
 ## Avaliação
