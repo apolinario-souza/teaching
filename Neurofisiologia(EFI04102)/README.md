@@ -52,10 +52,6 @@ https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sha
 
 - [Kandel (2021). Principios de Neurociências. McGraw Hill.](https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sharing)
 
-Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da UFRGS  (https://www.ufrgs.br/bibliotecas/pesquisa/proxy/) e acessando a Minha Biblioteca Online. Adicionalmente, podem ser consultados presencialmente na biblioteca da ESEFID. 
-
-
-
 
 ## 
 
