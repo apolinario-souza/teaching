@@ -48,9 +48,7 @@ O conceito será atribuído da seguinte forma:
 **Textbook**
 - [Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2006). Neurociência cognitiva: A biologia da mente. Artmed.](
 https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sharing)
-- [Purves (2019). Neurociências (6ª ed., R. Linden, Trad.). Guanabara Koogan.](https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sharing)
-
-- [Kandel (2021). Principios de Neurociências. McGraw Hill.](https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sharing)
+- [Kolb, B., & Whishaw, I. Q. (2008). Fundamentals of human neuropsychology (8th ed.). Worth Publishers.](https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sharing)
 
 
 ## 
@@ -63,19 +61,19 @@ https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sha
 |1| 10/03 <br> 12/03|3|[-Introdução e Métodos das Neurociências][1]|Cap. 1, 2 e 3 Gazzaniga|
 |2| 17/03 <br> 19/03|6|[-Neurofisiologia da sensação e percepção][1]|Cap. 5 Gazzaniga|
 |3| 24/03 <br> 26/03|9|[-Neurofisiologia da sensação e percepção][1]|Cap. 5 Gazzaniga|
-|4| 31/03 <br> 02/04|12|[-Córtex motor][1]|Cap. 37 Kandel|
-|5| 07/04 <br> 09/04|15|[-Córtex parietal e áreas pré-motoras][1]|Cap. 38 Kandel|
-|6| 14/04 <br> 16/04|18|[-Cerebelo e Núcleos da base][1]|Cap. 42 e 43 Kandel|
+|4| 31/03 <br> 02/04|12|[-Reconhecimento de objetos][1]|Cap. 6 Gazzaniga|
+|5| 07/04 <br> 09/04|15|[-Organização do Sistema Motor][1]|Cap. 9 Kolb e Whishaw, 2008|
+|6| 14/04 <br> 16/04|18|[-Organização do Sistema Motor][1]|Cap. 9 Kolb e Whishaw, 2008|
 |7| 28/04 <br> 30/04|21|**Avaliação 1** 
 |8| 05/05 <br> 07/05|24|[-Neurofisiologia da Memória][1]|Cap. 9 Gazzaniga|
 |9| 12/05 <br> 14/05|27|[-Neurofisiologia da Memória][1]|Cap. 9 Gazzaniga|
 |10| 19/05 <br> 21/05|30|[-Neurofisiologia da atenção][1]|Cap. 7 Gazzaniga|
 |11| 26/05 <br> 28/05|33|[-Lateralidade e hespecialização hemisférica][1]|Cap. 4 Gazzaniga|
-|12| 02/06 <br> 04/06|36|[-Infância e o cérebro][1]|Cap. 24 Purves|
+|12| 02/06 <br> 04/06|36|[-Infância e o cérebro][1]|Cap. 23 Kolb e Whishaw, 2008|
 |13| 09/06 <br> 11/06|39|[-Envelhecimento e o cérebro][1]|Cap. 59 Kandel|
 |14| 16/06 <br> 18/06|42|**-Avaliação 2**||
 |15| 23/06 <br> 25/06|45|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
-|16| 30/06 <br> 02/07|48|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
+|16| 30/06 <br> 02/07|48|[-Córtex pré-frontal e exercício físico][1]|Cap. 28 Kolb e Whishaw, 2008||
 |17| 30/06 <br> 02/07|51|**Trabalho**||
 |18| 07/07 <br> 09/07|54|[-Laboratórios][1]||
 |19| 07/07 <br> 09/07|57|[-Laboratórios][1]||
