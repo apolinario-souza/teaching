@@ -65,18 +65,18 @@ https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sha
 |5| 07/04 <br> 09/04|15|[-Organização do Sistema Motor][1]|Cap. 9 Kolb e Whishaw, 2008|
 |6| 14/04 <br> 16/04|18|[-Organização do Sistema Motor][1]|Cap. 9 Kolb e Whishaw, 2008|
 |7| 28/04 <br> 30/04|21|**Avaliação 1** 
-|8| 05/05 <br> 07/05|24|[-Neurofisiologia da Memória][1]|Cap. 9 Gazzaniga|
-|9| 12/05 <br> 14/05|27|[-Neurofisiologia da Memória][1]|Cap. 9 Gazzaniga|
-|10| 19/05 <br> 21/05|30|[-Neurofisiologia da atenção][1]|Cap. 7 Gazzaniga|
-|11| 26/05 <br> 28/05|33|[-Lateralidade e hespecialização hemisférica][1]|Cap. 4 Gazzaniga|
-|12| 02/06 <br> 04/06|36|[-Infância e o cérebro][1]|Cap. 23 Kolb e Whishaw, 2008|
-|13| 09/06 <br> 11/06|39|[-Envelhecimento e o cérebro][1]|Cap. 59 Kandel|
-|14| 16/06 <br> 18/06|42|**-Avaliação 2**||
-|15| 23/06 <br> 25/06|45|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
-|16| 30/06 <br> 02/07|48|[-Córtex pré-frontal e exercício físico][1]|Cap. 28 Kolb e Whishaw, 2008||
-|17| 30/06 <br> 02/07|51|**Trabalho: bateria de testes das FEs**||
-|18| 07/07 <br> 09/07|54|[-Laboratório: EEG][1]||
-|19| 07/07 <br> 09/07|57|[-Laboratório: ETCC][1]||
+|8| 05/05 <br> 07/05|24|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
+|9| 12/05 <br> 14/05|27|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
+|10| 19/05 <br> 21/05|30|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
+|11| 26/05 <br> 28/05|33|**Trabalho: bateria de testes das FEs**||
+|12| 02/06 <br> 04/06|36|[-Neurofisiologia da Memória][1]|Cap. 9 Gazzaniga|
+|13| 09/06 <br> 11/06|39|[-Neurofisiologia da atenção][1]|Cap. 7 Gazzaniga|
+|14| 16/06 <br> 18/06|42|[-Lateralidade e hespecialização hemisférica][1]|Cap. 4 Gazzaniga|
+|15| 23/06 <br> 25/06|45|[-Infância e o cérebro][1]|Cap. 23 Kolb e Whishaw, 2008|
+|16| 30/06 <br> 02/07|48|[-Envelhecimento e o cérebro][1]|Cap. 59 Kandel|
+|17| 30/06 <br> 02/07|51|[-Laboratório: EEG][1]||
+|18| 07/07 <br> 09/07|54|[-Laboratório: ETCC][1]||
+|19| 07/07 <br> 09/07|57|**Avaliação 2** 
 |20| 14/07 <br> 16/07|60|Prova de recuperação||
 
 
