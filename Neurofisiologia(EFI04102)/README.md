@@ -86,7 +86,7 @@ Alunos que não alcançarem o rendimento mínimo para aprovação na disciplina 
   
 ## Observações
 
-Alterações no cronograma e conteúdo programático poderão ocorrer no decorrer do semestre dependendo das necessidades das turmas. 
+Alterações no cronograma e conteúdo programático poderão ocorrer no decorrer do semestre dependendo das necessidades da turma. 
 
 
 
