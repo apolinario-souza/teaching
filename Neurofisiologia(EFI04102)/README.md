@@ -75,8 +75,8 @@ https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sha
 |15| 23/06 <br> 25/06|45|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
 |16| 30/06 <br> 02/07|48|[-Córtex pré-frontal e exercício físico][1]|Cap. 28 Kolb e Whishaw, 2008||
 |17| 30/06 <br> 02/07|51|**Trabalho**||
-|18| 07/07 <br> 09/07|54|[-Laboratórios][1]||
-|19| 07/07 <br> 09/07|57|[-Laboratórios][1]||
+|18| 07/07 <br> 09/07|54|[-Laboratório: EEG][1]||
+|19| 07/07 <br> 09/07|57|[-Laboratório: ETCC][1]||
 |20| 14/07 <br> 16/07|60|Prova de recuperação||
 
 
