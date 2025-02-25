@@ -58,7 +58,7 @@ https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sha
 
 | **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
 |:-: | :---------------------: | --------- | --------------------- | -------------- |------------------------|--------------------|
-|1| 10/03 <br> 12/03|3|[-Introdução e Métodos das Neurociências][1]|Cap. 1, 2 e 3 Gazzaniga|
+|1| 10/03 <br> 12/03|3|[-Introdução as Neurociências][1]|Cap. 1, 2 e 3 Gazzaniga|
 |2| 17/03 <br> 19/03|6|[-Neurofisiologia da sensação e percepção][1]|Cap. 5 Gazzaniga|
 |3| 24/03 <br> 26/03|9|[-Neurofisiologia da sensação e percepção][1]|Cap. 5 Gazzaniga|
 |4| 31/03 <br> 02/04|12|[-Reconhecimento de objetos][1]|Cap. 6 Gazzaniga|
