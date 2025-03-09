@@ -74,7 +74,7 @@ https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sha
 |14| 16/06 <br> 18/06|42|[-Lateralidade e hespecialização hemisférica][1]|Cap. 4 Gazzaniga|
 |15| 23/06 <br> 25/06|45|[-Infância e o cérebro][1]|Cap. 23 Kolb e Whishaw, 2008|
 |16| 30/06 <br> 02/07|48|[-Envelhecimento e o cérebro][1]|Cap. 59 Kandel|
-|17| 30/06 <br> 02/07|51|[-Laboratório: EEG][1]||
+|17| 30/06 <br> 02/07|51|[-Laboratório: EEG][1]|[Link](https://www.youtube.com/watch?v=7-HibHuVhzs&list=PL1mmsbkAvS4mxAQqkY4eMIDtzbDf0RPZz&t=27s)|
 |18| 07/07 <br> 09/07|54|[-Laboratório: ETCC][1]||
 |19| 07/07 <br> 09/07|57|**Avaliação 2** 
 |20| 14/07 <br> 16/07|60|Prova de recuperação||
