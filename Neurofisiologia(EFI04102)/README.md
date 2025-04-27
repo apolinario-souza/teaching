@@ -92,7 +92,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 
 [1]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Introducao_Neuro.pdf
 [2]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Neurofisiologia_da_sensacao_e_percepcao.pdf
-[3]:https://
+[3]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Organizacao_do_Sistema_Motor.pdf
 [4]:https://
 [5]:https://
 [6]:https://
