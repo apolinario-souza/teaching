@@ -67,7 +67,7 @@ https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sha
 |7| 28/04 <br> 30/04|21|**Avaliação 1** 
 |8| 05/05 <br> 07/05|24|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
 |9| 12/05 <br> 14/05|27|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
-|10| 19/05 <br> 21/05|30|**Trabalho: bateria de testes das FEs**||
+|10| 19/05 <br> 21/05|30|[**Trabalho: bateria de testes das FEs**][5]||
 |11| 26/05 <br> 28/05|33|[-Neurofisiologia da Memória][1]|Cap. 9 Gazzaniga|
 |12| 02/06 <br> 04/06|36|[-Neurofisiologia da Memória][1]|Cap. 9 Gazzaniga|
 |13| 09/06 <br> 11/06|39|[-Neurofisiologia da atenção][1]|Cap. 7 Gazzaniga|
@@ -94,7 +94,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [2]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Neurofisiologia_da_sensacao_e_percepcao.pdf
 [3]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Organizacao_do_Sistema_Motor.pdf
 [4]:https://
-[5]:https://
+[5]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/trabalho.md
 [6]:https://
 [7]:https://
 [8]:https://
