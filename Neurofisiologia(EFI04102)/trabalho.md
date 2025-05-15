@@ -1,4 +1,4 @@
-# Trabalho 
+# Trabalho: bateria de testes das FEs
 
 O objetivo de trabalho é aplicar uma bateria de testes das funções executivas.
 
