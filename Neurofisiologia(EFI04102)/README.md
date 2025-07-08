@@ -68,9 +68,9 @@ https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sha
 |8| 05/05 <br> 07/05|24|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
 |9| 12/05 <br> 14/05|27|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
 |10| 19/05 <br> 21/05|30|[**Trabalho: bateria de testes das FEs**][5]||
-|11| 26/05 <br> 28/05|33|[-Neurofisiologia da Memória][1]|Cap. 9 Gazzaniga|
-|12| 02/06 <br> 04/06|36|[-Neurofisiologia da Memória][1]|Cap. 9 Gazzaniga|
-|13| 09/06 <br> 11/06|39|[-Neurofisiologia da atenção][1]|Cap. 7 Gazzaniga|
+|11| 26/05 <br> 28/05|33|[-Neurofisiologia da Memória][4]|Cap. 9 Gazzaniga|
+|12| 02/06 <br> 04/06|36|[-Neurofisiologia da Memória][4]|Cap. 9 Gazzaniga|
+|13| 09/06 <br> 11/06|39|[-Neurofisiologia da atenção][4]|Cap. 7 Gazzaniga|
 |14| 16/06 <br> 18/06|42|[-Lateralidade e hespecialização hemisférica][1]|Cap. 4 Gazzaniga|
 |15| 23/06 <br> 25/06|45|[-Infância e o cérebro][1]|Cap. 23 Kolb e Whishaw, 2008|
 |16| 30/06 <br> 02/07|48|[-Envelhecimento e o cérebro][1]|Cap. 59 Kandel|
@@ -93,7 +93,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [1]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Introducao_Neuro.pdf
 [2]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Neurofisiologia_da_sensacao_e_percepcao.pdf
 [3]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Organizacao_do_Sistema_Motor.pdf
-[4]:https://
+[4]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Memoria.pdf
 [5]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/trabalho.md
 [6]:https://
 [7]:https://
