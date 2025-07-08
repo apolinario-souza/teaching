@@ -65,8 +65,8 @@ https://drive.google.com/drive/folders/1OC3IkGNkys7sCBJkCamspjA6bz2hTj9Y?usp=sha
 |5| 07/04 <br> 09/04|15|[-Organização do Sistema Motor][3]|Cap. 9 Kolb e Whishaw, 2008|
 |6| 14/04 <br> 16/04|18|[-Organização do Sistema Motor][3]|Cap. 9 Kolb e Whishaw, 2008|
 |7| 28/04 <br> 30/04|21|**Avaliação 1** 
-|8| 05/05 <br> 07/05|24|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
-|9| 12/05 <br> 14/05|27|[-Córtex pré-frontal e exercício físico][1]|Cap. 12 Gazzaniga|
+|8| 05/05 <br> 07/05|24|[-Córtex pré-frontal e exercício físico][6]|Cap. 12 Gazzaniga|
+|9| 12/05 <br> 14/05|27|[-Córtex pré-frontal e exercício físico][6]|Cap. 12 Gazzaniga|
 |10| 19/05 <br> 21/05|30|[**Trabalho: bateria de testes das FEs**][5]||
 |11| 26/05 <br> 28/05|33|[-Neurofisiologia da Memória][4]|Cap. 9 Gazzaniga|
 |12| 02/06 <br> 04/06|36|[-Neurofisiologia da Memória][4]|Cap. 9 Gazzaniga|
@@ -95,7 +95,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [3]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Organizacao_do_Sistema_Motor.pdf
 [4]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Memoria.pdf
 [5]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/trabalho.md
-[6]:https://
+[6]:https://github.com/apolinario-souza/teaching/blob/main/Neurofisiologia(EFI04102)/aulas/Funcoes_de_alta_ordem.pdf
 [7]:https://
 [8]:https://
 [9]:https://
