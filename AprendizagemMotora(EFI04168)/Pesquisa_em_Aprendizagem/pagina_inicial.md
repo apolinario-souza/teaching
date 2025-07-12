@@ -46,5 +46,22 @@ Autores: Hélio Paz, Sabryna Trindade e Taciane
 
 Link:  https://www.youtube.com/watch?v=PAAuACuLIk4
 
+**Efeitos da prática mental no aprendizado da técnica O Soto Gari do Judô**
+
+Semestre: 2025/1
+
+Autora: MARIA EDUARDA TENDERO FERREIRA
+
+Link: https://www.youtube.com/watch?v=cdN9fe_gPyM
+
+**A Influência do Feedback em grupo na aprendizagem do Zenpo Kaiten Ukemi –
+Rolamento Frontal no Judô**
+
+Semestre: 2025/1
+
+Autores: Lucas A. e Eduardo Vargas
+
+link:  https://youtu.be/cmIq39GbfTo
+
 
 
