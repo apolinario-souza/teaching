@@ -64,4 +64,12 @@ Autores: Lucas A. e Eduardo Vargas
 link:  https://youtu.be/cmIq39GbfTo
 
 
+**Percepção do grupo muscular envolvido e quantidade de repetições máximas durante a execução do agachamento livre em uma condição com instrução por analogia ou instrução verbal direta**
+
+Semestre: 2025/1
+
+Autoras: Júlia da Silva Dias e Natália Fagundes
+
+link do vídeo: https://youtu.be/OcfyUrfVJuQ?feature=shared
+
 
