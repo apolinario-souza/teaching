@@ -54,15 +54,6 @@ Autora: MARIA EDUARDA TENDERO FERREIRA
 
 Link: https://www.youtube.com/watch?v=cdN9fe_gPyM
 
-**A Influência do Feedback em grupo na aprendizagem do Zenpo Kaiten Ukemi –
-Rolamento Frontal no Judô**
-
-Semestre: 2025/1
-
-Autores: Lucas A. e Eduardo Vargas
-
-link:  https://youtu.be/cmIq39GbfTo
-
 
 **Percepção do grupo muscular envolvido e quantidade de repetições máximas durante a execução do agachamento livre em uma condição com instrução por analogia ou instrução verbal direta**
 
@@ -72,4 +63,28 @@ Autoras: Júlia da Silva Dias e Natália Fagundes
 
 link do vídeo: https://youtu.be/OcfyUrfVJuQ?feature=shared
 
+**Aprendizagem Motora: Prática Constante + FB extrínseco vs Prática Variada sem FB extrínseco**
 
+Semestre: 2025/1
+
+Autores: Tiago Radajeski Costa e FELIPE SZORTIKA
+
+link do vídeo: https://www.youtube.com/watch?v=VwOapcmH6Jg
+
+
+**Um movimento acrobático, duas práticas corporais distintas: a transferência de aprendizagem de uma habilidade motora comum à Capoeira e à Ginástica Artística**
+
+Semestre: 2025/1
+
+Autores: Guilherme Conrad e João Pedro Pereira Neris
+
+link do vídeo: https://youtu.be/aV2l_7yw214
+
+
+**Efeitos da demonstração e instrução verbal na aprendizagem motora do Middle Kick**
+
+Semestre: 2025/1
+
+Autoras: Isabella Moresco e Victória Crispim
+
+Link do vídeo: https://www.youtube.com/watch?v=ez-oTX3dvmY
