@@ -38,6 +38,13 @@
  
  Link: https://www.youtube.com/watch?v=fxLtV2uth88
 
+**Efeitos da prática mental na aprendizagem motora**
+
+Semestre: 2025/1
+
+Autores: Hélio Paz, Sabryna Trindade e Taciane
+
+Link:  https://www.youtube.com/watch?v=PAAuACuLIk4
 
 
 
