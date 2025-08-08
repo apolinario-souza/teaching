@@ -140,4 +140,4 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [43]: https://www.youtube.com/watch?v=OvbpqqClvhg
 [44]: https://youtu.be/6zRQ0FGg3Gw
 
-[45]:AprendizagemMotora(EFI04168)/trabalhos/trabalho-laboratorios.md
+[45]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/trabalho-laboratorios.md
