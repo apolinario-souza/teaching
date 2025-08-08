@@ -34,11 +34,13 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
 - [Pesquisa em Aprendizagem Motora][17]. 3 pts
 - [Relatórios dos laboratórios][45]. 1 pt
 
-- **Bônus** (máx 1 pt)
-  - Estudo dirigido. 1 pt 
-  - Participação em pesquisa. 1 pt
-      - Cristiano Ovalhe 51 9.9777-9606
-  - Participação no Journal Club. 1 pt
+- [**Bônus**][46] (máx 1 pt)
+  - Estudo dirigido
+  - Participação em pesquisa.
+      - Kassia 51 98433-3414
+      - Pedro 51 98127-6599
+      - Matias 51 9344-0735
+  - Participação no Journal Club ou reuniões do GAIM. 
 
 
 O conceito será atribuído da seguinte forma: 
@@ -141,3 +143,4 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [44]: https://youtu.be/6zRQ0FGg3Gw
 
 [45]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/trabalho-laboratorios.md
+[46]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/bonus.md
