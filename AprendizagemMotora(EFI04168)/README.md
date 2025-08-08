@@ -80,7 +80,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |11|20/10<br> 24/10|44|[-Prática mental][10]|Magill (2000) cap. 6.5|[Lab7][32]|[Link][38]
 |12|27/10<br>31/10|48|[-Fragmentação da prática][11] <br> - [Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|[Link][39] 
 |13|03/11<br>10/11|52|[-Instrução verbal][12] <br> [-Demonstração][12] <br> [-Metas][12] <br> -Entrega dos **"Relatório dos laboratórios"**|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40]| 
-|14|17/11 <br> 24/11|56|**-Revisão e Avaliação 2** <br> -Entrega da **Pesquisa em Aprendizagem Motora**|| |
+|14|17/11 <br> 24/11|56|**-Revisão e Avaliação 2** <br> -Entrega da **Pesquisa em Aprendizagem Motora** <br> Entrega dos **estudos dirigidos**|| |
 |16|08/12|60|Recuperação  <br>| 
 
 
