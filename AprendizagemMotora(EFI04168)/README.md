@@ -104,18 +104,17 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [11]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/11/11.pdf#1
 [12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/12.html
 [13]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Kleynen%20et%20al.%2C%202018).pdf
-[14]:https://youtu.be/dljqqiynrt8
+
 [15]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/resultados_Pesquisa_em_AM.ipynb
 [16]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Otte%20et%20al.%2C%202019).pdf
 
 [17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/roteiro_pesquisa_em_AM.md
 [18]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Otte%20et%20al.%2C%202020).pdf
 
-[19]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Pesquisa_em_Aprendizagem/pagina_inicial.md
-[20]:https://youtu.be/dnjYvaQVAQM
-[21]:https://youtu.be/Yq69qkbGMrE
+
+
 [22]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/ingles.md
-[23]:https://youtu.be/rlPpJMJy-3k
+
 
 [24]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab1A.md
 [25]: https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/Lab/Lab1B.md
