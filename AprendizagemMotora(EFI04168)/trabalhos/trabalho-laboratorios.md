@@ -1,6 +1,6 @@
 # Visão Geral  
 O objetivo do laboratório é proporcionar aos alunos a oportunidade de vivenciar, por meio de experimentos simples, os conceitos teóricos estudados em **Aprendizagem Motora**.  
-Assim, será possível observar, na prática, como os fenômenos investigados nessa área se manifestam.  
+Assim, será possível observar, na prática, como os fenômenos investigados se manifestam.  
 
 ---
 
