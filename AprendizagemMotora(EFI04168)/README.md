@@ -105,7 +105,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/12.html
 [13]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Kleynen%20et%20al.%2C%202018).pdf
 
-[15]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/resultados_Pesquisa_em_AM.ipynb
+
 [16]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Otte%20et%20al.%2C%202019).pdf
 
 [17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/roteiro_pesquisa_em_AM.md
