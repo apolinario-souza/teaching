@@ -51,7 +51,7 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 - [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução][20]
 - [Exemplos de pesquisas][19]
 - [Pesquisa em Aprendizagem Motora: como apresentar o método][21]
-- [Pesquisa em Aprendizagem Motora: como apresentar os resultados][14]; [-Algoritmo utilizado][14]
+- [Pesquisa em Aprendizagem Motora: como apresentar os resultados][14]; [-Algoritmo utilizado][15]
 - [Pesquisa em Aprendizagem Motora: como apresentar a discussão e conclusão][23]   
 
 # Critérios de Avaliação
