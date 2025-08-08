@@ -32,7 +32,7 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
 - Avaliação 1. 3 pts
 - Avaliação 2. 3 pts
 - [Pesquisa em Aprendizagem Motora][17]. 3 pts
-- Relatórios dos laboratórios. 1 pt
+- [Relatórios dos laboratórios][45]. 1 pt
 
 - **Bônus** (máx 1 pt)
   - Estudo dirigido. 1 pt 
@@ -139,3 +139,5 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [42]: https://youtu.be/BKMD-JX8Ujo
 [43]: https://www.youtube.com/watch?v=OvbpqqClvhg
 [44]: https://youtu.be/6zRQ0FGg3Gw
+
+[45]:AprendizagemMotora(EFI04168)/trabalhos/trabalho-laboratorios.md
