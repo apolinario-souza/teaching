@@ -15,7 +15,7 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
   - edf.tercio@gmail.com / (31) 9.8843-8435 (Whatsapp) 
   - Sala 220 no Lapex
  - **Monitor:**
-   - João Kern 51 9578-8193 
+   - 
  
  - **Agendar uma reunião**
  - [Link da agenda](https://calendar.google.com/calendar/u/0?cid=ZWRmLnRlcmNpb0BnbWFpbC5jb20)
