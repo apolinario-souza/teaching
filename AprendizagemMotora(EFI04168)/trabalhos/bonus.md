@@ -14,9 +14,10 @@ O **bônus** tem como objetivo incentivar os alunos a se engajarem em atividades
 O ponto bônus poderá ser obtido de diferentes formas previstas no programa do semestre, sendo a **principal** o **estudo dirigido**.
 
 ### Estudo Dirigido  
-- Consiste na elaboração de um **resumo manuscrito** (escrito à mão) de até **uma lauda**, referente ao capítulo (ou capítulos) indicados para a semana.  
+- Consiste na elaboração de um **resumo manuscrito** (escrito à mão) de até **uma lauda**, referente ao capítulo (ou capítulos) indicados para a semana (coluna "Referência" no cronograma).  
 - Para validação, o resumo deverá ser apresentado **antes da aula** ao professor ou monitor para receber o visto.  
-- O estudo dirigido poderá ser utilizado como **consulta durante a prova**.
+- Os estudos dirigidos poderão ser utilizados como **consulta durante a prova**.
+- Os estudos dirigidos serão entregues ao final do semestre, em uma data pré-estabelecida.
 
 ---
 
