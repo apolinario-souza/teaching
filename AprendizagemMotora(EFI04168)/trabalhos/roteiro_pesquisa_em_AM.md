@@ -48,7 +48,7 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 - Tempo estipulado entre 3 a 7 minutos
 - Coloque o link no youtube
 - Não precisa de material escrito
-- [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução] [20]
+- [Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução][20]
 - [Exemplos de pesquisas][19]
 - [Pesquisa em Aprendizagem Motora: como apresentar o método][21]
 - [Pesquisa em Aprendizagem Motora: como apresentar os resultados][14]; [-Algoritmo utilizado]
