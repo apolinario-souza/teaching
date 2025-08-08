@@ -22,7 +22,7 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
  - Envie o convite para edf.tercio@gmail.com
     
 - **Horário:**
-  - Tuma A. Segunda-feira 09:30 às 11:10h e Sexta-feira de 09:30 às 11:10h - Sala 106
+  - Tuma A. Segunda-feira e e Sexta-feira 09:30 às 11:10h
   - Tuma B. Segunda-feira 15:30 às 17:00h e Sexta-feira de 13:30 às 15:00 - Sala 106
 
 
