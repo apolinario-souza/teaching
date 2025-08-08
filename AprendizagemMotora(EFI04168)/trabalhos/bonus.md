@@ -3,10 +3,11 @@
 ## Visão Geral  
 O **bônus** tem como objetivo incentivar os alunos a se engajarem em atividades **extraclasse**, como leituras, participação em projetos de pesquisa, eventos ou grupos de estudo.
 
+
 ---
 
 ## Funcionamento  
-- O **ponto bônus** será utilizado **exclusivamente** para complementar notas inferiores ao valor mínimo de aprovação.  
+- O **ponto bônus** será utilizado **exclusivamente** para complementar notas inferiores ao valor mínimo de aprovação. 
 - **Em hipótese alguma** o ponto bônus será usado para outros fins.  
 - O valor do ponto bônus será definido no **programa do curso**.  
 
