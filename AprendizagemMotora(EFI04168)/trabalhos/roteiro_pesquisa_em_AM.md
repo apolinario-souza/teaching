@@ -58,3 +58,8 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 
 
 [1]:https://docs.google.com/presentation/d/1mLP4XlC-fMg2V_fWIOEiLTCFu4jp2eQ_Z4ET2kerJ_Q/edit?usp=sharing 
+
+
+# Asista os seguintes vídeos para realizar a pesquisa
+[Pesquisa em Aprendizagem Motora: visão geral e como elaborar a Introdução][20] 
+[Exemplos de pesquisas][19]
