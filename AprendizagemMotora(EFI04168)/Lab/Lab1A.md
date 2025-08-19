@@ -70,7 +70,7 @@ plt.plot(tentativas, sonda, '-or')
 plt.ylabel('Tempo (s)')
 plt.xlabel('Tentativas')
 
-
+```
 
 
 
