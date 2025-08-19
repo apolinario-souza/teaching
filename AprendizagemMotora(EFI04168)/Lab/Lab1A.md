@@ -47,3 +47,31 @@ plt.xlabel('Tentativas')
 
 
 ```
+
+## Código utilizado no vídeo, versão 2
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+
+dados = pd.read_excel('/content/Planilha_tercio.xlsx')
+
+# Força conversão para número (se tiver vírgula como separador decimal, converte também)
+dados['Tentativas'] = pd.to_numeric(dados['Tentativas'], errors='coerce')
+dados['Tempo sonda'] = pd.to_numeric(dados['Tempo sonda'].astype(str).str.replace(',', '.'), errors='coerce')
+dados['Acertos'] = pd.to_numeric(dados['Acertos'], errors='coerce')
+
+tentativas = dados['Tentativas']
+sonda = dados['Tempo sonda']
+acerto = dados['Acertos']
+
+
+plt.plot(tentativas, sonda, '-or')
+
+plt.ylabel('Tempo (s)')
+plt.xlabel('Tentativas')
+
+
+
+
+
+```
