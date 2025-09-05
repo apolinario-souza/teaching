@@ -25,7 +25,7 @@ Resumo das fases
 |Grupo |Pré-teste| Aquisição | Transferẽncia | 
 |:-----------:|:-----------:|:-----------:|:-----------:|
 |GMD|6 ME|60 MD| 6 ME|
-|GME|6 MD |60 ME| 6 ME|
+|GME|6 MD |60 ME| 6 MD|
 
 
 
