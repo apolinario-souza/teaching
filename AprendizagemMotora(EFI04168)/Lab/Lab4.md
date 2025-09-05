@@ -2,11 +2,13 @@
 
 ## Materiais: 
 
-Excel e tarefa motora disponivel no link ![Texto alternativo](https://apolinario-souza.github.io/com_html/SRTT.html)
+Excel e tarefa motora disponivel no link ![link](https://apolinario-souza.github.io/com_html/SRTT.html)
 
-## Procedimentos
+## Objetivo
 
 Neste laboratório o objetivo é investigar o efeito da direção da transferência bilateral. Quer dizer, se o praticar com a mão direita transfere mais para a mão esquerda ou se praticar com a mão esquerda transfere mais para a mão direita.
+
+## Procedimentos
 
 Formem quartetos e determine 2 pessoas para o grupo prática com a mão direita (GMD) e 2 pessoas para o grupo prática com a mão esquerda (GME).
 
