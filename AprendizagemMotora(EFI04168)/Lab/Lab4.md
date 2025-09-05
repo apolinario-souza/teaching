@@ -2,7 +2,7 @@
 
 ## Materiais: 
 
-Excel e tarefa motora disponivel no link ![link](https://apolinario-souza.github.io/com_html/SRTT.html)
+Excel e tarefa motora disponivel no ![link](https://apolinario-souza.github.io/com_html/SRTT.html)
 
 ## Objetivo
 
