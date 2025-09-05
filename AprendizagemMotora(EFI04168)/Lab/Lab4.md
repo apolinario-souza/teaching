@@ -14,7 +14,7 @@ Formem quartetos e determine 2 pessoas para o grupo prática com a mão direita 
 
 Todos os grupos passarão por três fases diferentes no laboratório: pré-teste, aquisição e transferência.
 
-No pré-teste os grupos GMD e GME executarão *6 tentativas* da tarefa motora disponível no link ![Texto alternativo](https://apolinario-souza.github.io/com_html/SRTT.html). Essa tarefa motora consiste em precissionar 4 teclas (ASDF) utilizando os dedos mindinho, anelar, médio e indicador *o mais rápido possível*. Nesta fase os participantes do GMD execução com a mão esquerda e os participantes do GME com a mão direita. Após a execução das 6 tentativas, copie os dados clicando no botão copiar histórico no canto inferior esquerdo da tela do computador e cole no Excel. 
+No pré-teste os grupos GMD e GME executarão *6 tentativas* da tarefa motora disponível no ![link](https://apolinario-souza.github.io/com_html/SRTT.html). Essa tarefa motora consiste em precissionar 4 teclas (ASDF) utilizando os dedos mindinho, anelar, médio e indicador *o mais rápido possível*. Nesta fase os participantes do GMD execução com a mão esquerda e os participantes do GME com a mão direita. Após a execução das 6 tentativas, copie os dados clicando no botão copiar histórico no canto inferior esquerdo da tela do computador e cole no Excel. 
 
 Logo após o pré-teste iniciará a fase de aquisição. A fase de aquisição consistirá na execução da mesma tarefa motora 60 vezes, porém os participantes do GMD executarão com a mão direita e os participantes do GME com a mão esquerda. Após a execução das 60 tentativas, copie os dados clicando no botão copiar histórico no canto inferior esquerdo da tela do computador e cole no Excel.  
 
