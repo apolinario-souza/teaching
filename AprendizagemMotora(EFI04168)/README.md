@@ -72,7 +72,7 @@ Os livros ficam disponíveis em www.ufrgs.br/bibliotecas/ utilizando o Proxy da 
 |1| 11/08 <br> 15/08|4|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Magill (2000) cap. 1| [Lab1A][24]|[Link][44]
 |2|18/08 <br> 22/08|8|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Magill (2000) cap.7|[Lab1B][25] e [Lab2][27]
 |3|25/08 <br> 29/08|12|[-Princípios e conceitos da aprendizagem motora][3]|Magill (2000) cap.4|[Lab1C][26]
-|4|01/09 <br> 05/09|16|[-Transferência de Aprendizagem][5]|Schmidt (2008) cap. 7| [Lab4][29]
+|4|01/09 <br> 05/09|16|[-Transferência de Aprendizagem][5]|[Schmidt (2008) cap. 7][47]| [Lab4][29]
 |5|08/09 <br> 12/09|20|[-Teorias da aprendizagem motora][6] |Magill (2000) cap. 2|| [Parte 1][41] [Parte 2][42] [Parte 3][43]
 |6|15/09 <br> 19/09 |24|**-Revisão e Avaliação 1**    |  | |[Revisao][35]
 |7-8|22/09 à 03/10 |32|[-Feedback][8]|Schmidt (2008) cap. 10| [Lab5][30]|[Link][36]
@@ -144,3 +144,5 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 
 [45]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/trabalho-laboratorios.md
 [46]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/bonus.md
+
+[47]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/Cap.7%20Schimidt.pdf
