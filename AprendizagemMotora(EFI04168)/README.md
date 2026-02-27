@@ -23,9 +23,7 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
     
 - **Horário:**
   - Tuma A. Segunda-feira e e Sexta-feira 09:30 às 11:10h
-  - Tuma B. Segunda-feira 15:30 às 17:00h e Sexta-feira de 13:30 às 15:00 - Sala 106
-
-
+  - Tuma B. Segunda-feira e Sexta-feira de 13:30 às 15:00 - Sala 106
 
 
 ## Avaliação
@@ -33,15 +31,6 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
 - Avaliação 2. 3 pts
 - [Pesquisa em Aprendizagem Motora][17]. 3 pts
 - [Relatórios dos laboratórios][45]. 1 pt
-
-- [**Bônus**][46] (máx 1 pt)
-  - Estudo dirigido
-  - Participação em pesquisa.
-      - Kassia 51 98433-3414
-      - Pedro 51 98127-6599
-      - Matias 51 9344-0735
-  - Participação no Journal Club ou reuniões do GAIM. 
-
 
 O conceito será atribuído da seguinte forma: 
 - 9 a 10  - A 
@@ -67,21 +56,22 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 
 ## Cronograma
 
-| **Semana** |**Data**| **C.H.**  | **Tópico**                                              | **Referência**| **Lab** | **Assíncrono**
-|:-: | :---------------------: | --------- | --------------------- | -------------- |------------------------|--------------------|
-|1| 11/08 <br> 15/08|4|[ -A área Comportamento Motor <br> -Classificação da habilidades][1]|Magill (2000) cap. 1| [Lab1A][24]|[Link][44]
-|2|18/08 <br> 22/08|8|[-Conceitos do Comportamento Motor <br> -Medidas de desempenho][2]|Magill (2000) cap.7|[Lab1B][25] e [Lab2][27]
-|3|25/08 <br> 29/08|12|[-Princípios e conceitos da aprendizagem motora][3]|Magill (2000) cap.4|[Lab1C][26]
-|4|01/09 <br> 05/09|16|[-Transferência de Aprendizagem][5]|[Schmidt (2008) cap. 7][47]| [Lab4][29]
-|5|08/09 <br> 12/09|20|[-Teorias da aprendizagem motora][6] |Magill (2000) cap. 2|| [Parte 1][41] [Parte 2][42] [Parte 3][43]
-|6|15/09 <br> 19/09 |24|**-Revisão e Avaliação 1**    |  | |[Revisao][35]
-|7-8|22/09 à 03/10 |32|[-Feedback][8]|Schmidt (2008) cap. 10| [Lab5][30]|[Link][36]
-|9-10|06/10 à 17/10|40|[-Variabilidade da prática][9]|Schmidt (2008) cap. 9| [Lab6][31]|[Link][37]
-|11|20/10<br> 24/10|44|[-Prática mental][10]|Magill (2000) cap. 6.5|[Lab7][32]|[Link][38]
-|12|27/10<br>31/10|48|[-Fragmentação da prática][11] <br> - [Relação entre prática e repouso][11]|Magill (2000) cap. 6.2-6.4|[Lab8][33]|[Link][39] 
-|13|03/11<br>10/11|52|[-Instrução verbal][12] <br> [-Demonstração][12] <br> [-Metas][12] <br> -Entrega dos **"Relatório dos laboratórios"**|Schmidt (2008) cap. 8|[Lab9][34]|[Link][40]| 
-|14|17/11 <br> 24/11|56|**-Revisão e Avaliação 2** <br> -Entrega da **Pesquisa em Aprendizagem Motora** <br> Entrega dos **estudos dirigidos**|| |
-|16|08/12|60|Recuperação  <br>| 
+| **Semana** | **Data** | **C.H.** | **Tópico** | **Referência** | **Lab** | **Assíncrono** |
+|:--:|:--:|:--:|:--|:--|:--|:--|
+| 1 | 02/03 <br> 06/03 | 4 | [- Área Comportamento Motor <br> - Classificação das habilidades][1] | Magill (2000) cap. 1 | [Lab1A][24] | [Link][44] |
+| 2 | 09/03 <br> 13/03 | 8 | [- Conceitos do Comportamento Motor <br> - Medidas de desempenho][2] | Magill (2000) cap. 7 | [Lab1B][25] e [Lab2][27] | — |
+| 3 | 16/03 <br> 20/03 | 12 | [- Princípios e conceitos da aprendizagem motora][3] | Magill (2000) cap. 4 | [Lab1C][26] | — |
+| 4 | 23/03 <br> 27/03 | 16 | [- Transferência de Aprendizagem][5] | [Schmidt (2008) cap. 7][47] | [Lab4][29] | — |
+| 5 | 30/03 <br> 06/04 | 20 | [- Teorias da aprendizagem motora][6] | Magill (2000) cap. 2 | — | [Parte 1][41] [Parte 2][42] [Parte 3][43] |
+| 6 | 10/04 <br> 13/04 | 24 | **Revisão e Avaliação 1** | — | — | [Revisão][35] |
+| 7–8 | 17/04 à 27/04 | 32 | [- Feedback][8] | Schmidt (2008) cap. 10 | [Lab5][30] | [Link][36] |
+| 9–10 | 04/05 à 15/05 | 40 | [- Variabilidade da prática][9] | Schmidt (2008) cap. 9 | [Lab6][31] | [Link][37] |
+| 11 | 18/05 <br> 22/05 | 44 | [- Prática mental][10] | Magill (2000) cap. 6.5 | [Lab7][32] | [Link][38] |
+| 12 | 25/05 <br> 29/05 | 48 | [- Fragmentação da prática <br> - Relação entre prática e repouso][11] | Magill (2000) cap. 6.2–6.4 | [Lab8][33] | [Link][39] |
+| 13 | 01/06 <br> 05/06 | 52 | [- Instrução verbal <br> - Demonstração <br> - Metas][12] <br> Entrega do **Relatório dos Laboratórios** | Schmidt (2008) cap. 8 | [Lab9][34] | [Link][40] |
+| 14 | 08/06 <br> 12/06 | 56 | **Revisão e Avaliação 2** <br> Entrega da **Pesquisa em Aprendizagem Motora** <br> Entrega dos **Estudos Dirigidos** | — | — | — |
+| 15 | 15/06 <br> 19/06 | 60 | Continuação / Fechamento de Conteúdos | — | — | — |
+| 16 | 22/06 | 60 | Recuperação | — | — | — |
 
 
 
