@@ -13,7 +13,7 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
 
 - **Professor:** Tércio Apolinário de Souza
   - edf.tercio@gmail.com / (31) 9.8843-8435 (Whatsapp) 
-  - Sala 220 no Lapex
+  - Sala 218 no Lapex
  - **Monitor:**
    - 
  
@@ -23,7 +23,7 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
     
 - **Horário:**
   - Tuma A. Segunda-feira e e Sexta-feira 09:30 às 11:10h
-  - Tuma B. Segunda-feira e Sexta-feira de 13:30 às 15:00 - Sala 106
+  - Tuma B. Segunda-feira e Sexta-feira de 13:30 às 15:10 - Sala 106
 
 
 ## Avaliação
