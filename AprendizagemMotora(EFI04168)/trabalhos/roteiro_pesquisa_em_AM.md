@@ -61,7 +61,7 @@ Em duplas, os alunos deverão levantar uma questão com temáticas relacionadas 
 4. Utilizou gráficos (ou tabelas) para apresentar os resultados? 0,5 pontos
 5. Explicou como o desempenho na tarefa motora foi medido? 0,5 pts
 
-# Prompt no ChatGPT recomendado para os alunos desenvolverem o trabalho
+# Prompt no NotebookLM recomendado para os alunos desenvolverem o trabalho
 
 ```text
 Você é um orientador acadêmico especialista em Aprendizagem Motora.
