@@ -50,6 +50,8 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 
 **Lista de leituras [complementares][22].**
 
+**[Assistente IA da disciplina][48]**
+
 
 ## 
 
@@ -136,3 +138,5 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [46]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/bonus.md
 
 [47]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/Cap.7%20Schimidt.pdf
+
+[48]:https://notebooklm.google.com/notebook/b1a60030-49bd-4dbb-bfc3-448a1bb11d83
