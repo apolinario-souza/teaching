@@ -2,23 +2,23 @@
 
 ## Materiais: 
 
-Excel e tarefa motora disponivel no link https://apolinario-souza.github.io/com_html/SRTT.html
+Folha de caderno, caneta e bolinhas de tênis.
 
 ## Objetivo
 
-Neste laboratório o objetivo é investigar o efeito da direção da transferência bilateral. Quer dizer, se o praticar com a mão direita transfere mais para a mão esquerda ou se praticar com a mão esquerda transfere mais para a mão direita.
+Neste laboratório, o objetivo é investigar o efeito da direção da transferência bilateral. Quer dizer, se praticar com a mão direita, transfere mais para a mão esquerda, ou se praticar com a mão esquerda, transfere mais para a mão direita?
 
 ## Procedimentos
 
-Formem quartetos e determine 2 pessoas para o grupo prática com a mão direita (GMD) e 2 pessoas para o grupo prática com a mão esquerda (GME).
+Formem quartetos e determinem 2 pessoas para o grupo de prática com a mão direita (GMD) e 2 pessoas para o grupo de prática com a mão esquerda (GME).
 
-Todos os grupos passarão por três fases diferentes no laboratório: pré-teste, aquisição e transferência.
+Todos os grupos passarão por três fases no laboratório: pré-teste, aquisição e transferência.
 
-No pré-teste os grupos GMD e GME executarão *6 tentativas* da tarefa motora disponível no https://apolinario-souza.github.io/com_html/SRTT.html. Essa tarefa motora consiste em precissionar 4 teclas (ASDF) utilizando os dedos mindinho, anelar, médio e indicador *o mais rápido possível*. Nesta fase os participantes do GMD execução com a mão esquerda e os participantes do GME com a mão direita. Após a execução das 6 tentativas, copie os dados clicando no botão copiar histórico no canto inferior esquerdo da tela do computador e cole no Excel. 
+No pré-teste, os grupos GMD e GME executarão *6 tentativas* da tarefa motora. Essa tarefa motora consiste em realizar malabares com duas bolinhas utilizando apenas uma das mãos. Nesta fase, os participantes do GMD execução com a mão esquerda e os participantes do GME com a mão direita.
 
-Logo após o pré-teste iniciará a fase de aquisição. A fase de aquisição consistirá na execução da mesma tarefa motora 60 vezes, porém os participantes do GMD executarão com a mão direita e os participantes do GME com a mão esquerda. Após a execução das 60 tentativas, copie os dados clicando no botão copiar histórico no canto inferior esquerdo da tela do computador e cole no Excel.  
+Logo após o pré-teste, iniciará a fase de aquisição. A fase de aquisição consistirá na execução da mesma tarefa motora 50 vezes, porém os participantes do GMD a executarão com a mão direita e os do GME com a mão esquerda. 
 
-Por fim, após a fase do pré-teste iniciará a fase de transferência. Essa fase é exatamente igual a fase pré-teste.
+Por fim, após a fase do pré-teste, iniciará a fase de transferência. Essa fase é exatamente igual à fase pré-teste.
 
 Resumo das fases
 
