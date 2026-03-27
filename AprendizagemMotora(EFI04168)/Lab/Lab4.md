@@ -16,7 +16,7 @@ Todos os grupos passarão por três fases no laboratório: pré-teste, aquisiç�
 
 No pré-teste, os grupos GMD e GME executarão *6 tentativas* da tarefa motora. Essa tarefa motora consiste em realizar malabares com duas bolinhas utilizando apenas uma das mãos. Nesta fase, os participantes do GMD execução com a mão esquerda e os participantes do GME com a mão direita.
 
-Logo após o pré-teste, iniciará a fase de aquisição. A fase de aquisição consistirá na execução da mesma tarefa motora 50 vezes, porém os participantes do GMD a executarão com a mão direita e os do GME com a mão esquerda. 
+Logo após o pré-teste, iniciará a fase de aquisição. A fase de aquisição consistirá na execução da mesma tarefa motora 60 vezes, porém os participantes do GMD a executarão com a mão direita e os do GME com a mão esquerda. 
 
 Por fim, após a fase do pré-teste, iniciará a fase de transferência. Essa fase é exatamente igual à fase pré-teste.
 
