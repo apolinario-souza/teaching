@@ -65,7 +65,7 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | 3 | 16/03 <br> 20/03 | 12 | [- Princípios e conceitos da aprendizagem motora][3] | Magill (2000) cap. 4 | [Lab1C][26] | — |
 | 4 | 23/03 <br> 27/03 | 16 | [- Transferência de Aprendizagem][5] | [Schmidt (2008) cap. 7][47] | [Lab4][29] | — |
 | 5 | 30/03 <br> 06/04 | 20 | [- Teorias da aprendizagem motora][6] | Magill (2000) cap. 2 | — | [Parte 1][41] [Parte 2][42] [Parte 3][43] |
-| 6 | 10/04 <br> 13/04 | 24 | **Revisão e Avaliação 1** | — | — | [Revisão][35] |
+| 6 | 06/04 <br> 10/04 | 24 | **Revisão e Avaliação 1** | — | — | [Revisão][35] |
 | 7–8 | 17/04 à 27/04 | 32 | [- Feedback][8] | Schmidt (2008) cap. 10 | [Lab5][30] | [Link][36] |
 | 9–10 | 04/05 à 15/05 | 40 | [- Variabilidade da prática][9] | Schmidt (2008) cap. 9 | [Lab6][31] | [Link][37] |
 | 11 | 18/05 <br> 22/05 | 44 | [- Prática mental][10] | Magill (2000) cap. 6.5 | [Lab7][32] | [Link][38] |
