@@ -5,9 +5,10 @@ Linear Positioning Task e caderno.
 1. Formem grupos com 4 alunos;
 2. Escolham um dos 4 alunos para ser o experimentador. O experimentador será responsável por conduzir o lab, anotando os resultados e fornecendo feedback
 3. Os demais alunos serão divididos, 100%, 50% e 33% de feedback.
-4. A tarefa motora consiste em deslocar o curso do Linear Positioning Task com os olhos vendados o mais rápido possível e parar sobre o valor 80 cm da régua, conforme indicado no vídeo:
-5. O desempenho na tarefa será medido pela diferença entre o valor que o executando e a meta, em módulo. Por exemplo, se o executante parou a 79 cm o erro será de 1 cm; igualmente se o executante parar a 81 cm o seu erro será de 1 cm;
-6. O desenho experimental (delineamento) do lab será o seguinte:
+4. A tarefa motora consiste em lançar uma bolinha de tênis, com os olhos fechados, para que caia em uma área determinada.
+5. Utilize cones para determinar quatro os locais de pontuação.
+6. O desempenho na tarefa será medido pela pontuação. Por exemplo, se a bolinha caiu na área que vale 3 pontos; indique o valor de 3 como pontos
+7. O desenho experimental (delineamento) do lab será o seguinte:
 
 | Grupos | Pré-teste| Aquisição | Retenção/Pós-Teste |Transferência |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
@@ -15,16 +16,14 @@ Linear Positioning Task e caderno.
 | G 50% | 5 tentativas  | 30 tentativas  |5 tentativas |5 tentativas |
 | G 33% | 5 tentativas  | 30 tentativas  |5 tentativas |5 tentativas |
 
-No pré-teste TODOS os grupos executaram executarão 5 tentativas sem receberem o feedback. Na aquisição os grupos se diferenciarão, sendo que o G100% receberá feedback a cada tentativa, o G50% receberá intercalando uma tentativa sim e uma tentativa não e o G33% receberá intercalando uma tentativa sim e duas tentativas não. Após 10 minutos da aquisição se iniciará a retenção/pós-teste, semelhante ao pré-teste/retenção. Logo após retenção/pós-teste, iniciará o teste de transferência. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, a meta não será deslocar até 80 cm, mas deslocar até 95 cm. Observação, o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e transferência;
+No pré-teste, TODOS os grupos executarão 5 tentativas sem receber feedback. Na aquisição, os grupos se diferenciarão, sendo que o G100% receberá feedback a cada tentativa, o G50% receberá, intercalando uma tentativa sim e uma tentativa não, e o G33% receberá, intercalando uma tentativa sim e duas tentativas não. Após 10 minutos da aquisição, iniciará-se a retenção/pós-teste, semelhante ao pré-teste/retenção. Logo após a retenção/pós-teste, iniciará o teste de transferência. O teste de transferência será semelhante ao pré-teste e retenção/pós-teste; porém, de um passo atrás para lançar a bolinha. Observação: o experimentador deverá anotar apenas o desempenho no pré-teste, na retenção/pós-teste e na transferência;
 
-7. O feedback (apenas na aquisição) será fornecido pelo valor real no qual o executante produziu. Por exemplo, ele se o executante parou a 81cm, deve-se informar o valor 81cm e não seu erro (1cm);
-
-8. O experimentador deverá sempre retornar o braço do executante após a execução;
+8. O experimentador deverá sempre considerar o primeiro local onde a bolinha caiu;
 
 9. O experimentador deverá indicar o início da tentativa, "prepara", e em seguida "vai", indicando para o executante iniciar a ação.
 
 ## Para entregar
-1. Faça uma tabela com a **média** do erro das 5 tentativas do pré-teste e  das 5 tentativas da retenção/pós-teste, conforme o exemplo:
+1. Faça uma tabela com a **média** do erro das 5 tentativas do pré-teste e das 5 tentativas da retenção/pós-teste, conforme o exemplo:
 
 | Grupos | Pré-teste (cm)| Aquisição | Retenção/Pós-Teste (cm) | Transferência (cm) |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
