@@ -21,7 +21,7 @@ Este laboratório também tem como objetivo que os alunos pratiquem:
 
 # Organização da turma
 
-A turma será organizada em **duplas**.
+A turma será organizada em grupos de **duas** pessoas.
 
 Cada dupla deverá:
 
@@ -34,8 +34,8 @@ Depois, as duplas **trocam de função**.
 
 ## Estrutura
 
-- **Grupo A aplica seu experimento no Grupo B**
-- **Grupo B aplica seu experimento no Grupo A**
+- **Grupo X aplica seu experimento no Grupo Y**
+- **Grupo Y aplica seu experimento no Grupo X**
 
 Assim, todos os alunos participam como:
 
@@ -46,7 +46,7 @@ Assim, todos os alunos participam como:
 
 # Etapa 1 – Escolha da habilidade motora
 
-Cada dupla deve escolher **uma habilidade motora simples**.
+Cada dupla deve escolher **uma habilidade motora**.
 
 Critérios para escolha:
 
@@ -54,14 +54,8 @@ Critérios para escolha:
 - permitir **medida de desempenho**
 - não exigir grande habilidade prévia
 - ser executável dentro do tempo da aula
+- ser nova para maioria das pessoas
 
-## Exemplos de habilidades possíveis
-
-- arremesso de bola em um alvo
-- arremesso de basquete
-- acertar uma bola de papel em um copo
-- rebater uma bola com a mão
-- quicar uma bola em um alvo no chão
 
 ### Exemplo (apenas ilustrativo)
 
@@ -91,7 +85,7 @@ O grupo deve definir **como o desempenho será avaliado**.
 
 Podem ser utilizadas duas medidas:
 
-## 1. Medida de resultado (produto)
+## 1. Medida de resultado
 
 Avalia o **resultado da ação**.
 
@@ -104,11 +98,11 @@ Exemplo:
 | Bola na tabela | 1 |
 | Erro | 0 |
 
-## 2. Medida de processo (técnica)
+## 2. Medida do padrão de movimento
 
 Avalia **como o movimento foi executado**, com base nos componentes da tarefa.
 
-Exemplo:
+No exemplo do arremesso do baquete:
 
 | Componente | Correto | Incorreto |
 |------------|---------|-----------|
@@ -157,8 +151,6 @@ Tentativa 2 → sem feedback
 Tentativa 3 → feedback  
 Tentativa 4 → sem feedback  
 
-Nas tentativas **sem feedback**, o praticante deve utilizar apenas **feedback intrínseco** (sua própria percepção do movimento).
-
 ---
 
 # Etapa 5 – Delineamento Experimental
@@ -182,6 +174,7 @@ Regras:
 
 - **Nenhum feedback deve ser fornecido**
 - Serve para medir o **nível inicial de desempenho**
+- contabilize a habilidade nesta fase
 
 ---
 
@@ -209,7 +202,7 @@ O feedback deve seguir a **hierarquia de componentes da tarefa** definida anteri
 
 ## 3. Teste de retenção
 
-Após um intervalo (alguns minutos ou ao final da aula), os participantes realizam:
+Após um intervalo (alguns minutos), os participantes realizam:
 
 **10 tentativas da mesma tarefa**.
 
@@ -280,12 +273,6 @@ Após a realização do laboratório, os grupos devem discutir:
 
 - Quem apresentou melhor desempenho **durante a prática**?
 - Quem apresentou melhor desempenho **no teste de retenção**?
-- Houve diferença entre **performance e aprendizagem**?
 - O desempenho no teste de **transferência** mudou?
-- Os resultados são consistentes com a **Hipótese da Orientação**?
+- Os resultados são consistentes com as hipóteses do feedback?
 
----
-
-# Ideia central do laboratório
-
-Frequentemente, participantes que recebem **100% de feedback apresentam melhor desempenho durante a prática**, mas participantes que recebem **frequência reduzida de feedback** podem apresentar **melhor desempenho em testes de retenção e transferência**, indicando **aprendizagem mais estável**.
