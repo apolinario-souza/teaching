@@ -202,7 +202,7 @@ O feedback deve seguir a **hierarquia de componentes da tarefa** definida anteri
 
 ## 3. Teste de retenção
 
-Após um intervalo (alguns minutos), os participantes realizam:
+Após no outro dia, os participantes realizam:
 
 **10 tentativas da mesma tarefa**.
 
