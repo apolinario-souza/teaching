@@ -250,7 +250,7 @@ Arremessar **1–2 metros mais longe**.
 | Fase | Nº de tentativas | Feedback | Observação |
 |-----|-----|-----|-----|
 | Pré-teste | 10 | Não | Medida inicial |
-| Aquisição | 30–50 | 100% ou 50% | Conforme condição |
+| Aquisição | 100 | 100% ou 50% | Conforme condição |
 | Retenção | 10 | Não | Mesma tarefa do pré-teste |
 | Transferência | 10 | Não | Modificação da tarefa |
 
