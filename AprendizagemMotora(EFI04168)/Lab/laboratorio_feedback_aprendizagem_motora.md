@@ -184,7 +184,7 @@ Durante a fase de aquisição, os participantes praticam a habilidade.
 
 Cada participante realiza:
 
-**30–50 tentativas**
+**160-200 tentativas em dois dias**
 
 seguindo sua condição experimental.
 
