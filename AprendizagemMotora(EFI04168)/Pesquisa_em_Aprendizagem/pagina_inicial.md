@@ -88,3 +88,28 @@ Semestre: 2025/1
 Autoras: Isabella Moresco e Victória Crispim
 
 Link do vídeo: https://www.youtube.com/watch?v=ez-oTX3dvmY
+
+**Efeito da prática mental no arremesso com giro de 360° no handball de areia**
+Autores: Augusto Rosa e Pedro Loureiro
+Semestre 2026/1
+
+Link: https://www.youtube.com/watch?v=d9_vVi9RZbs
+
+**A Prática com a Perna Dominante Favorece o Desempenho da Perna Não
+Dominante? Um Estudo de Transferência**
+Autoras: Ana Luisa Araujo e Eduarda Dulac
+Link: https://youtu.be/8iT6lyYHnb0
+
+**Efeitos da frequência reduzida de Feedback verbal na aprendizagem técnica do agachamento livre em adultos jovens**
+Autores: Luiz Andriotti e Júlio Gouvea
+Link: https://www.youtube.com/watch?v=tW0Z2auGns8
+
+**Efeitos da frequência de feedback na aprendizagem motora**
+Autor: Micael Payao
+Link: https://www.youtube.com/watch?v=hwwKInPyKSE
+
+**Efeito do Feedback Verbal e do Feedback por Vídeo na Aprendizagem da Cambada em Atletas de Vela**
+Autor: Lucas Zorzi
+Link: https://www.youtube.com/watch?v=FC6Eg_gOI_o
+
+
