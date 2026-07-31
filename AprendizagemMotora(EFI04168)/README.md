@@ -60,20 +60,27 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 
 | **Semana** | **Data** | **C.H.** | **Tópico** | **Referência** | **Lab** | **Assíncrono** |
 |:--:|:--:|:--:|:--|:--|:--|:--|
-| 1 | 02/03 <br> 06/03 | 4 | [- Área Comportamento Motor <br> - Classificação das habilidades][1] | Magill (2000) cap. 1 | [Lab1A][24] | [Link][44] |
-| 2 | 09/03 <br> 13/03 | 8 | [- Conceitos do Comportamento Motor <br> - Medidas de desempenho][2] | Magill (2000) cap. 7 | [Lab1B][25] e [Lab2][27] | — |
-| 3 | 16/03 <br> 20/03 | 12 | [- Princípios e conceitos da aprendizagem motora][3] | Magill (2000) cap. 4 | [Lab1C][26] | — |
-| 4 | 23/03 <br> 27/03 | 16 | [- Transferência de Aprendizagem][5] | [Schmidt (2008) cap. 7][47] | [Lab4][29] | — |
-| 5 | 30/03 | 20 | [- Teorias da aprendizagem motora][6] | Magill (2000) cap. 2 | — | [Parte 1][41] [Parte 2][42] [Parte 3][43] |
-| 6 | 06/04 <br> 10/04 | 24 | **Revisão e Avaliação 1** | — | — | [Revisão][35] |
-| 7–8 | 17/04 à 27/04 | 32 | [- Feedback][8] | Schmidt (2008) cap. 10 | [Lab5][30] | [Link][36] |
-| 9–10 | 04/05 à 15/05 | 40 | [- Variabilidade da prática][9] | Schmidt (2008) cap. 9 | [Lab6][31] | [Link][37] |
-| 11 | 18/05 <br> 22/05 | 44 | [- Prática mental][10] | Magill (2000) cap. 6.5 | [Lab7][32] | [Link][38] |
-| 12 | 25/05 <br> 29/05 | 48 | [- Fragmentação da prática <br> - Relação entre prática e repouso][11] | Magill (2000) cap. 6.2–6.4 | [Lab8][33] | [Link][39] |
-| 13 | 01/06 <br> 05/06 | 52 | [- Instrução verbal <br> - Demonstração <br> - Metas][12] <br> Entrega do **Relatório dos Laboratórios** | Schmidt (2008) cap. 8 | [Lab9][34] | [Link][40] |
-| 14 | 08/06 <br> 12/06 | 56 | **Revisão e Avaliação 2** <br> Entrega da **Pesquisa em Aprendizagem Motora** <br> Entrega dos **Estudos Dirigidos** | — | — | — |
-| 15 | 15/06 <br> 19/06 | 60 | Continuação / Fechamento de Conteúdos | — | — | — |
-| 16 | 22/06 | 60 | Recuperação | — | — | — |
+| 1 | 10/08 <br> 14/08 | 4 | [- Área Comportamento Motor <br> - Classificação das habilidades][1] | Magill (2000) cap. 1 | [Lab1A][24] | [Link][44] |
+| 2 | 17/08 <br> 21/08 | 8 | [- Conceitos do Comportamento Motor <br> - Medidas de desempenho][2] | Magill (2000) cap. 7 | [Lab1B][25] e [Lab2][27] | — |
+| 3 | 24/08 <br> 28/08 | 12 | [- Princípios e conceitos da aprendizagem motora][3] | Magill (2000) cap. 4 | [Lab1C][26] | — |
+| 4 | 31/08 <br> **04/09** | 16 | [- Transferência de Aprendizagem][5] | [Schmidt (2008) cap. 7][47] | [Lab4][29] | — |
+| — | **07/09** | — | **Feriado – Independência do Brasil** | — | — | — |
+| 5 | **11/09** <br> **14/09** | 20 | [- Teorias da aprendizagem motora][6] | Magill (2000) cap. 2 | — | [Parte 1][41] [Parte 2][42] [Parte 3][43] |
+| 6 | 18/09 <br> 21/09 | 24 | **Revisão e Avaliação 1** | — | — | [Revisão][35] |
+| 7 | 25/09 <br> 28/09 | 28 | [- Feedback (Parte 1)][8] | Schmidt (2008) cap. 10 | [Lab5][30] | [Link][36] |
+| 8 | 02/10 <br> 05/10 | 32 | [- Feedback (Parte 2)][8] | Schmidt (2008) cap. 10 | — | — |
+| 9 | 09/10 | 34 | [- Variabilidade da prática (Parte 1)][9] | Schmidt (2008) cap. 9 | [Lab6][31] | [Link][37] |
+| — | **12/10** | — | **Feriado – Nossa Senhora Aparecida** | — | — | — |
+| 10 | **16/10** <br> **19/10** | 38 | [- Variabilidade da prática (Parte 2)][9] | Schmidt (2008) cap. 9 | — | — |
+| 11 | 23/10 <br> 26/10 | 42 | [- Prática mental][10] | Magill (2000) cap. 6.5 | [Lab7][32] | [Link][38] |
+| 12 | 30/10 | 44 | [- Fragmentação da prática <br> - Relação entre prática e repouso][11] | Magill (2000) cap. 6.2–6.4 | [Lab8][33] | [Link][39] |
+| — | **02/11** | — | **Feriado – Finados** | — | — | — |
+| 13 | **06/11** <br> **09/11** | 48 | [- Instrução verbal <br> - Demonstração <br> - Metas][12] <br> Entrega do **Relatório dos Laboratórios** | Schmidt (2008) cap. 8 | [Lab9][34] | [Link][40] |
+| 14 | 13/11 <br> 16/11 | 52 | **Revisão e Avaliação 2** <br> Entrega da **Pesquisa em Aprendizagem Motora** <br> Entrega dos **Estudos Dirigidos** | — | — | — |
+| 15 | **20/11** <br> 23/11 | 56 | Continuação / Fechamento de Conteúdos | — | — | — |
+| 16 | 27/11 <br> 30/11 | 60 | Seminários / Discussão de artigos | — | — | — |
+| 17 | 04/12 <br> 07/12 | 64 | Atividades de consolidação e esclarecimento de dúvidas | — | — | — |
+| 18 | 11/12 | 66 | Recuperação | — | — | — |
 
 
 
