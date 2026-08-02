@@ -72,25 +72,25 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | 11 | 14/09 | 18h20 | Instrução verbal, Demonstração e Metas | Schmidt (2008), cap. 8 | Link |
 | 12 | 18/09 | 20h00 | Transferência de Aprendizagem | Schmidt (2008), cap. 7 | — |
 | 13 | 21/09 | 21h40 | **Avaliação 1** | — | — |
-| 14 | 25/09 | 23h20 | **- Entrega da Pesquisa em Aprendizagem Motora** <br> - Teorias de controle e aprendizagem motora (Parte 1) | Magill (2000), cap. 2.1 | |
-| 15 | 28/09 | 25h00 | Teorias de controle e aprendizagem motora (Parte 2) | Magill (2000), cap. 2.1 | |
-| 16 | 02/10 | 26h40 | Processamento de informações e tomada de decisão (Parte 1) |  Schmidt (2016), cap. 2| |
-| 17 | 05/10 | 28h20 | Processamento de informações e tomada de decisão (Parte 2)|  Schmidt (2016), cap. 2| |
-| 18 | 09/10 | 30h00 | Papel da atenção no controle motor|  Schmidt (2016), cap. 2| ||
-| 19 | 16/10 | 31h40 | Contribuições sensoriais para o controle motor (Parte 1)|Schmidt (2016), cap. 4|
-| 20 | 19/10 | 33h20 | Contribuições sensoriais para o controle motor (Parte 2)|Schmidt (2016), cap. 4|
-| 21 | 23/10 | 35h00 |
-| 22 | 26/10 | 36h40 | 
+| 14 | 25/09 | 23h20 | Organização e coleta de dados para o trabalho Pesquisa em Aprendizagem Motora 
+| 15 | 28/09 | 25h00 | Organização e coleta de dados  para o trabalho Pesquisa em Aprendizagem Motora 
+| 16 | 02/10 | 26h40 | **- Entrega da Pesquisa em Aprendizagem Motora** <br> - Teorias de controle e aprendizagem motora (Parte 1) | Magill (2000), cap. 2.1 | |
+| 17 | 05/10 | 28h20 | Teorias de controle e aprendizagem motora (Parte 2) | Magill (2000), cap. 2.1 | |
+| 18 | 09/10 | 30h00 | Processamento de informações e tomada de decisão (Parte 1) |  Schmidt (2016), cap. 2| |
+| 19 | 16/10 | 31h40 | Processamento de informações e tomada de decisão (Parte 2)|  Schmidt (2016), cap. 2| |
+| 20 | 19/10 | 33h20 | Papel da atenção no controle motor|  Schmidt (2016), cap. 2| ||
+| 21 | 23/10 | 35h00 | Contribuições sensoriais para o controle motor (Parte 1)|Schmidt (2016), cap. 4|
+| 22 | 26/10 | 36h40 | Contribuições sensoriais para o controle motor (Parte 2)|Schmidt (2016), cap. 4|
 | 23 | 30/10 | 38h20 | 
 | 24 | 06/11 | 40h00 | 
-| 25 | 09/11 | 41h40 | Revisão | — | — |
-| 26 | 13/11 | 43h20 | Avaliação 2 e entrega da Pesquisa em Aprendizagem Motora e dos Estudos Dirigidos | — | — |
-| 27 | 16/11 | 45h00 | Continuação e fechamento dos conteúdos | — | — |
-| 28 | 20/11 | 46h40 | Continuação e fechamento dos conteúdos | — | — |
-| 29 | 23/11 | 48h20 | Seminários | — | — |
-| 30 | 27/11 | 50h00 | Discussão de artigos | — | — |
-| 31 | 30/11 | 51h40 | Atividades de consolidação | — | — |
-| 32 | 04/12 | 53h20 | Esclarecimento de dúvidas | — | — |
+| 25 | 09/11 | 41h40 | 
+| 26 | 13/11 | 43h20 | 
+| 27 | 16/11 | 45h00 | 
+| 28 | 20/11 | 46h40 | 
+| 29 | 23/11 | 48h20 | 
+| 30 | 27/11 | 50h00 | 
+| 31 | 30/11 | 51h40 | 
+| 32 | 04/12 | 53h20 | 
 | 33 | 07/12 | 55h00 | Recuperação | — | — |
 
 
