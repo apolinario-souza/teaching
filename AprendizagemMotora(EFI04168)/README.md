@@ -44,6 +44,7 @@ O conceito será atribuído da seguinte forma:
 **Textbook**
 
 - Schmidt, R. Wrisberg, C. (2008). Aprendizagem e performance motora: uma abordagem da aprendizagem baseada na situação. Artmed.
+- Schmidt, R. Lee, C. (2016). Aprendizagem e performance motora: dos princípios à aplicação. Artmed.
 - [Magill, R. A. (2000). Aprendizagem motora: conceitos e aplicações. Editora Blucher.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
 
 Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLSq105M_E.) 
@@ -53,34 +54,44 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 **[Assistente IA da disciplina][48]**
 
 
-## 
-
-
 ## Cronograma
 
-| **Semana** | **Data** | **C.H.** | **Tópico** | **Referência** | **Lab** | **Assíncrono** |
-|:--:|:--:|:--:|:--|:--|:--|:--|
-| 1 | 10/08 <br> 14/08 | 4 | [- Área Comportamento Motor <br> - Classificação das habilidades][1] | Magill (2000) cap. 1 | [Lab1A][24] | [Link][44] |
-| 2 | 17/08 <br> 21/08 | 8 | [- Conceitos do Comportamento Motor <br> - Medidas de desempenho][2] | Magill (2000) cap. 7 | [Lab1B][25] e [Lab2][27] | — |
-| 3 | 24/08 <br> 28/08 | 12 | [- Princípios e conceitos da aprendizagem motora][3] | Magill (2000) cap. 4 | [Lab1C][26] | — |
-| 4 | 31/08 <br> **04/09** | 16 | [- Transferência de Aprendizagem][5] | [Schmidt (2008) cap. 7][47] | [Lab4][29] | — |
-| — | **07/09** | — | **Feriado – Independência do Brasil** | — | — | — |
-| 5 | **11/09** <br> **14/09** | 20 | [- Teorias da aprendizagem motora][6] | Magill (2000) cap. 2 | — | [Parte 1][41] [Parte 2][42] [Parte 3][43] |
-| 6 | 18/09 <br> 21/09 | 24 | **Revisão e Avaliação 1** | — | — | [Revisão][35] |
-| 7 | 25/09 <br> 28/09 | 28 | [- Feedback (Parte 1)][8] | Schmidt (2008) cap. 10 | [Lab5][30] | [Link][36] |
-| 8 | 02/10 <br> 05/10 | 32 | [- Feedback (Parte 2)][8] | Schmidt (2008) cap. 10 | — | — |
-| 9 | 09/10 | 34 | [- Variabilidade da prática (Parte 1)][9] | Schmidt (2008) cap. 9 | [Lab6][31] | [Link][37] |
-| — | **12/10** | — | **Feriado – Nossa Senhora Aparecida** | — | — | — |
-| 10 | **16/10** <br> **19/10** | 38 | [- Variabilidade da prática (Parte 2)][9] | Schmidt (2008) cap. 9 | — | — |
-| 11 | 23/10 <br> 26/10 | 42 | [- Prática mental][10] | Magill (2000) cap. 6.5 | [Lab7][32] | [Link][38] |
-| 12 | 30/10 | 44 | [- Fragmentação da prática <br> - Relação entre prática e repouso][11] | Magill (2000) cap. 6.2–6.4 | [Lab8][33] | [Link][39] |
-| — | **02/11** | — | **Feriado – Finados** | — | — | — |
-| 13 | **06/11** <br> **09/11** | 48 | [- Instrução verbal <br> - Demonstração <br> - Metas][12] <br> Entrega do **Relatório dos Laboratórios** | Schmidt (2008) cap. 8 | [Lab9][34] | [Link][40] |
-| 14 | 13/11 <br> 16/11 | 52 | **Revisão e Avaliação 2** <br> Entrega da **Pesquisa em Aprendizagem Motora** <br> Entrega dos **Estudos Dirigidos** | — | — | — |
-| 15 | **20/11** <br> 23/11 | 56 | Continuação / Fechamento de Conteúdos | — | — | — |
-| 16 | 27/11 <br> 30/11 | 60 | Seminários / Discussão de artigos | — | — | — |
-| 17 | 04/12 <br> 07/12 | 64 | Atividades de consolidação e esclarecimento de dúvidas | — | — | — |
-| 18 | 11/12 | 66 | Recuperação | — | — | — |
+
+| Aula | Data | C.H. Acumulada | Conteúdo | Referência | Assíncrono |
+|:---:|:---:|:---:|---|---|---|
+| 1 | 07/08 | 1h40 | Área Comportamento Motor <br> Classificação das habilidades | Magill (2000), cap. 1 | Link |
+| 2 | 10/08 | 3h20 | Conceitos do Comportamento Motor <br> Medidas de desempenho | Magill (2000), cap. 7 | — | 
+| 3 | 14/08 | 5h00 | Princípios e conceitos da aprendizagem motora | Magill (2000), cap. 4 | — |
+| 4 | 17/08 | 6h40 | Feedback (Parte 1) | Schmidt (2008), cap. 10 | Link |
+| 5 | 21/08 | 8h20 | Feedback (Parte 2) | Schmidt (2008), cap. 10 | — |
+| 6 | 24/08 | 10h00 | Variabilidade da prática (Parte 1) | Schmidt (2008), cap. 9 | Link |
+| 7 | 28/08 | 11h40 | Variabilidade da prática (Parte 2) | Schmidt (2008), cap. 9 | Link |
+| 8 | 31/08 | 13h20 | Prática mental  | Magill (2000), cap. 6.5 | Link |
+| 9 | 04/09 | 15h00 | Fragmentação da prática e relação entre prática e repouso | Magill (2000), cap. 6.2–6.4 | Link |
+| 10 | 11/09 | 16h40 | Fragmentação da prática e relação entre prática e repouso | Magill (2000), cap. 6.2–6.4 | Link |
+| 11 | 14/09 | 18h20 | Instrução verbal, Demonstração e Metas | Schmidt (2008), cap. 8 | Link |
+| 12 | 18/09 | 20h00 | Transferência de Aprendizagem | Schmidt (2008), cap. 7 | — |
+| 13 | 21/09 | 21h40 | **Avaliação 1** | — | — |
+| 14 | 25/09 | 23h20 | **- Entrega da Pesquisa em Aprendizagem Motora** <br> - Teorias de controle e aprendizagem motora (Parte 1) | Magill (2000), cap. 2.1 | |
+| 15 | 28/09 | 25h00 | Teorias de controle e aprendizagem motora (Parte 2) | Magill (2000), cap. 2.1 | |
+| 16 | 02/10 | 26h40 | Processamento de informações e tomada de decisão (Parte 1) |  Schmidt (2016), cap. 2| |
+| 17 | 05/10 | 28h20 | Processamento de informações e tomada de decisão (Parte 2)|  Schmidt (2016), cap. 2| |
+| 18 | 09/10 | 30h00 | Papel da atenção no controle motor|  Schmidt (2016), cap. 2| ||
+| 19 | 16/10 | 31h40 | Contribuições sensoriais para o controle motor (Parte 1)|Schmidt (2016), cap. 4|
+| 20 | 19/10 | 33h20 | Contribuições sensoriais para o controle motor (Parte 2)|Schmidt (2016), cap. 4|
+| 21 | 23/10 | 35h00 |
+| 22 | 26/10 | 36h40 | 
+| 23 | 30/10 | 38h20 | 
+| 24 | 06/11 | 40h00 | 
+| 25 | 09/11 | 41h40 | Revisão | — | — |
+| 26 | 13/11 | 43h20 | Avaliação 2 e entrega da Pesquisa em Aprendizagem Motora e dos Estudos Dirigidos | — | — |
+| 27 | 16/11 | 45h00 | Continuação e fechamento dos conteúdos | — | — |
+| 28 | 20/11 | 46h40 | Continuação e fechamento dos conteúdos | — | — |
+| 29 | 23/11 | 48h20 | Seminários | — | — |
+| 30 | 27/11 | 50h00 | Discussão de artigos | — | — |
+| 31 | 30/11 | 51h40 | Atividades de consolidação | — | — |
+| 32 | 04/12 | 53h20 | Esclarecimento de dúvidas | — | — |
+| 33 | 07/12 | 55h00 | Recuperação | — | — |
 
 
 
