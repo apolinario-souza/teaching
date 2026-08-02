@@ -27,8 +27,9 @@ Descrever a área de estudo de Aprendizagem Motora. Identificar a fundamentaçã
 
 
 ## Avaliação
-- Avaliação 1. 3 pts
-- Avaliação 2. 3 pts
+- Avaliação 1. 2 pts
+- Avaliação 2. 2 pts
+- Avaliação 3. 2 pts
 - [Pesquisa em Aprendizagem Motora][17]. 3 pts
 - [Relatórios dos laboratórios][45]. 1 pt
 
@@ -56,41 +57,40 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 
 ## Cronograma
 
-
 | Aula | Data | C.H. Acumulada | Conteúdo | Referência | Assíncrono |
 |:---:|:---:|:---:|---|---|---|
 | 1 | 07/08 | 1h40 | Área Comportamento Motor <br> Classificação das habilidades | Magill (2000), cap. 1 | Link |
 | 2 | 10/08 | 3h20 | Conceitos do Comportamento Motor <br> Medidas de desempenho | Magill (2000), cap. 7 | — | 
 | 3 | 14/08 | 5h00 | Princípios e conceitos da aprendizagem motora | Magill (2000), cap. 4 | — |
-| 4 | 17/08 | 6h40 | Feedback (Parte 1) | Schmidt (2008), cap. 10 | Link |
-| 5 | 21/08 | 8h20 | Feedback (Parte 2) | Schmidt (2008), cap. 10 | — |
-| 6 | 24/08 | 10h00 | Variabilidade da prática (Parte 1) | Schmidt (2008), cap. 9 | Link |
-| 7 | 28/08 | 11h40 | Variabilidade da prática (Parte 2) | Schmidt (2008), cap. 9 | Link |
-| 8 | 31/08 | 13h20 | Prática mental  | Magill (2000), cap. 6.5 | Link |
-| 9 | 04/09 | 15h00 | Fragmentação da prática e relação entre prática e repouso | Magill (2000), cap. 6.2–6.4 | Link |
-| 10 | 11/09 | 16h40 | Fragmentação da prática e relação entre prática e repouso | Magill (2000), cap. 6.2–6.4 | Link |
-| 11 | 14/09 | 18h20 | Instrução verbal, Demonstração e Metas | Schmidt (2008), cap. 8 | Link |
-| 12 | 18/09 | 20h00 | Transferência de Aprendizagem | Schmidt (2008), cap. 7 | — |
-| 13 | 21/09 | 21h40 | **Avaliação 1** | — | — |
-| 14 | 25/09 | 23h20 | Organização e coleta de dados para o trabalho Pesquisa em Aprendizagem Motora 
-| 15 | 28/09 | 25h00 | Organização e coleta de dados  para o trabalho Pesquisa em Aprendizagem Motora 
-| 16 | 02/10 | 26h40 | **- Entrega da Pesquisa em Aprendizagem Motora** <br> - Teorias de controle e aprendizagem motora (Parte 1) | Magill (2000), cap. 2.1 | |
-| 17 | 05/10 | 28h20 | Teorias de controle e aprendizagem motora (Parte 2) | Magill (2000), cap. 2.1 | |
-| 18 | 09/10 | 30h00 | Processamento de informações e tomada de decisão (Parte 1) |  Schmidt (2016), cap. 2| |
-| 19 | 16/10 | 31h40 | Processamento de informações e tomada de decisão (Parte 2)|  Schmidt (2016), cap. 2| |
-| 20 | 19/10 | 33h20 | Papel da atenção no controle motor|  Schmidt (2016), cap. 2| ||
-| 21 | 23/10 | 35h00 | Contribuições sensoriais para o controle motor (Parte 1)|Schmidt (2016), cap. 4|
-| 22 | 26/10 | 36h40 | Contribuições sensoriais para o controle motor (Parte 2)|Schmidt (2016), cap. 4|
-| 23 | 30/10 | 38h20 | 
-| 24 | 06/11 | 40h00 | 
-| 25 | 09/11 | 41h40 | 
-| 26 | 13/11 | 43h20 | 
-| 27 | 16/11 | 45h00 | 
-| 28 | 20/11 | 46h40 | 
-| 29 | 23/11 | 48h20 | 
-| 30 | 27/11 | 50h00 | 
-| 31 | 30/11 | 51h40 | 
-| 32 | 04/12 | 53h20 | 
+| 4 | 17/08 | 6h40 | Feedback | Schmidt (2008), cap. 10 | Link |
+| 5 | 21/08 | 8h20 | Feedback | Schmidt (2008), cap. 10 | — |
+| 6 | 24/08 | 10h00 | Variabilidade da prática | Schmidt (2008), cap. 9 | Link |
+| 7 | 28/08 | 11h40 | Variabilidade da prática | Schmidt (2008), cap. 9 | Link |
+| 8 | 31/08 | 13h20 | Ponto de desafio: unificando Feedback e Variabilidade da prática  | Schmidt (2008), cap. 9 | Link |
+| 9 | 04/09 | 15h00 | **Avaliação 1** | — | — |
+| 10 | 11/09 | 16h40 | Prática mental  | Magill (2000), cap. 6.5 | Link |
+| 11 | 14/09 | 18h20 | Fragmentação da prática e relação entre prática e repouso | Magill (2000), cap. 6.2–6.4 | Link |
+| 12 | 18/09 | 20h00 | Fragmentação da prática e relação entre prática e repouso | Magill (2000), cap. 6.2–6.4 | Link |
+| 13 | 21/09 | 21h40 | Instrução verbal|  Schmidt (2008), cap. 8 | |
+| 14 | 25/09 | 23h20 | Instrução verbal|  Schmidt (2008), cap. 8 | |
+| 15 | 28/09 | 25h00 | Demonstração e Metas | Schmidt (2008), cap. 8 ||
+| 16 | 02/10 | 26h40 | Demonstração e Metas | Schmidt (2008), cap. 8 ||
+| 17 | 05/10 | 28h20 | Transferência de Aprendizagem  | Schmidt (2008), cap. 7 | — |
+| 18 | 09/10 | 30h00 | Transferência de Aprendizagem  | Schmidt (2008), cap. 7 | — |
+| 19 | 16/10 | 31h40 | **Avaliação 2** | — | — |
+| 20 | 19/10 | 33h20 | Organização e coleta de dados para o trabalho (sem aula coletiva)  
+| 21 | 23/10 | 35h00 | Organização e coleta de dados para o trabalho (sem aula coletiva) 
+| 22 | 26/10 | 36h40 | Organização e coleta de dados  para o trabalho (sem aula coletiva)
+| 23 | 30/10 | 38h20 | Organização e coleta de dados  para o trabalho (sem aula coletiva) 
+| 24 | 06/11 | 40h00 | **- Entrega da Pesquisa em Aprendizagem Motora** <br> - Teorias de controle e aprendizagem motora | Magill (2000), cap. 2.1 | | 
+| 25 | 09/11 | 41h40 | Teorias de controle e aprendizagem motora | Magill (2000), cap. 2.1 | |
+| 26 | 13/11 | 43h20 | Processamento de informações e tomada de decisão  |  Schmidt (2016), cap. 2| |
+| 27 | 16/11 | 45h00 | Processamento de informações e tomada de decisão |  Schmidt (2016), cap. 2| |
+| 28 | 20/11 | 46h40 | Papel da atenção no controle motor|  Schmidt (2016), cap. 2| ||
+| 29 | 23/11 | 48h20 | Papel da atenção no controle motor|  Schmidt (2016), cap. 2| ||
+| 30 | 27/11 | 50h00 | Contribuições sensoriais para o controle motor |Schmidt (2016), cap. 4|
+| 31 | 30/11 | 51h40 | Contribuições sensoriais para o controle motor |Schmidt (2016), cap. 4|
+| 32 | 04/12 | 53h20 |**Avaliação 3** | — | — |
 | 33 | 07/12 | 55h00 | Recuperação | — | — |
 
 
