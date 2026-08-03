@@ -45,7 +45,7 @@ O conceito será atribuído da seguinte forma:
 **Textbook**
 
 - Schmidt, R. Wrisberg, C. (2008). Aprendizagem e performance motora: uma abordagem da aprendizagem baseada na situação. Artmed.
-- Schmidt, R. Lee, C. (2016). Aprendizagem e performance motora: dos princípios à aplicação. Artmed.
+- [Schmidt, R. Lee, C. (2016). Aprendizagem e performance motora: dos princípios à aplicação. Artmed.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/Aprendizagem%20e%20Performance%20Moto%20-%20Richard%20A.%20Schmidt.pdf)
 - [Magill, R. A. (2000). Aprendizagem motora: conceitos e aplicações. Editora Blucher.](https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Magill%2C%202000).pdf)
 
 Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLSq105M_E.) 
