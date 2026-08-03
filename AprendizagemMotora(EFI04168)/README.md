@@ -66,7 +66,7 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | 5 | 21/08 | 8h20 | Feedback | Schmidt (2008), cap. 10 | — |
 | 6 | 24/08 | 10h00 | Variabilidade da prática | Schmidt (2008), cap. 9 | Link |
 | 7 | 28/08 | 11h40 | Variabilidade da prática | Schmidt (2008), cap. 9 | Link |
-| 8 | 31/08 | 13h20 | Ponto de desafio: unificando Feedback e Variabilidade da prática  | Schmidt (2008), cap. 9 | Link |
+| 8 | 31/08 | 13h20 | Ponto de desafio: otimizando a aprendizagem  | Schmidt (2008), cap. 9 | Link |
 | 9 | 04/09 | 15h00 | **Avaliação 1** | — | — |
 | 10 | 11/09 | 16h40 | Prática mental  | Magill (2000), cap. 6.5 | Link |
 | 11 | 14/09 | 18h20 | Fragmentação da prática e relação entre prática e repouso | Magill (2000), cap. 6.2–6.4 | Link |
