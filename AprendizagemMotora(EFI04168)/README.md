@@ -60,7 +60,7 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | Aula | Data | C.H. Acumulada | Conteúdo | Referência | Assíncrono |
 |:---:|:---:|:---:|---|---|---|
 | 1 | 07/08 | 1h40 | [Área Comportamento Motor <br> Classificação das habilidades][1] | Magill (2000), cap. 1 | Link |
-| 2 | 10/08 | 3h20 | Conceitos do Comportamento Motor <br> Medidas de desempenho | Magill (2000), cap. 7 | — | 
+| 2 | 10/08 | 3h20 | [Conceitos do Comportamento Motor <br> Medidas de desempenho[[2] | Magill (2000), cap. 7 | — | 
 | 3 | 14/08 | 5h00 | Princípios e conceitos da aprendizagem motora | Magill (2000), cap. 4 | — |
 | 4 | 17/08 | 6h40 | Feedback | Schmidt (2008), cap. 10 | Link |
 | 5 | 21/08 | 8h20 | Feedback | Schmidt (2008), cap. 10 | — |
