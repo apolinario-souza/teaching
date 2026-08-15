@@ -59,18 +59,18 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 
 | Aula | Data | C.H. Acumulada | Conteúdo | Referência | Assíncrono |
 |:---:|:---:|:---:|---|---|---|
-| 1 | 07/08 | 1h40 | [Área Comportamento Motor <br> Classificação das habilidades][1] | Magill (2000), cap. 1 | Link |
+| 1 | 07/08 | 1h40 | [Área Comportamento Motor <br> Classificação das habilidades][1] | Magill (2000), cap. 1 |  —  |
 | 2 | 10/08 | 3h20 | [Conceitos do Comportamento Motor <br> Medidas de desempenho][2] | Magill (2000), cap. 7 | — | 
 | 3 | 14/08 | 5h00 | [Princípios e conceitos da aprendizagem motora][3] | Magill (2000), cap. 4 | — |
-| 4 | 17/08 | 6h40 | Feedback | Schmidt (2008), cap. 10 | Link |
+| 4 | 17/08 | 6h40 | Feedback | Schmidt (2008), cap. 10 |  —  |
 | 5 | 21/08 | 8h20 | Feedback | Schmidt (2008), cap. 10 | — |
-| 6 | 24/08 | 10h00 | Variabilidade da prática | Schmidt (2008), cap. 9 | Link |
-| 7 | 28/08 | 11h40 | Variabilidade da prática | Schmidt (2008), cap. 9 | Link |
-| 8 | 31/08 | 13h20 | Ponto de desafio: otimizando a aprendizagem  | Schmidt (2008), cap. 9 | Link |
+| 6 | 24/08 | 10h00 | Variabilidade da prática | Schmidt (2008), cap. 9 |  —  |
+| 7 | 28/08 | 11h40 | Variabilidade da prática | Schmidt (2008), cap. 9 |  —  |
+| 8 | 31/08 | 13h20 | Ponto de desafio: otimizando a aprendizagem  | Schmidt (2008), cap. 9 |  —  |
 | 9 | 04/09 | 15h00 | **Avaliação 1** | — | — |
 | 10 | 11/09 | 16h40 | Prática mental  | Magill (2000), cap. 6.5 | Link |
-| 11 | 14/09 | 18h20 | Fragmentação da prática e relação entre prática e repouso | Magill (2000), cap. 6.2–6.4 | Link |
-| 12 | 18/09 | 20h00 | Fragmentação da prática e relação entre prática e repouso | Magill (2000), cap. 6.2–6.4 | Link |
+| 11 | 14/09 | 18h20 | Fragmentação da prática e relação entre prática e repouso | Magill (2000), cap. 6.2–6.4 |  —  |
+| 12 | 18/09 | 20h00 | Fragmentação da prática e relação entre prática e repouso | Magill (2000), cap. 6.2–6.4 |  —  |
 | 13 | 21/09 | 21h40 | Instrução verbal|  Schmidt (2008), cap. 8 | |
 | 14 | 25/09 | 23h20 | Instrução verbal|  Schmidt (2008), cap. 8 | |
 | 15 | 28/09 | 25h00 | Demonstração e Metas | Schmidt (2008), cap. 8 ||
