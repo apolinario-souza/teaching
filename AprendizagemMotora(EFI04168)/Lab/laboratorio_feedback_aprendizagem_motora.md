@@ -21,16 +21,16 @@ Este laboratório também tem como objetivo que os alunos pratiquem:
 
 # Organização da turma
 
-A turma será organizada em grupos de **duas** pessoas.
+A turma será organizada em grupos de **quatro** pessoas.
 
-Cada dupla deverá:
+Cada grupo deverá:
 
 1. Escolher uma habilidade motora
 2. Definir critérios de desempenho
 3. Criar um pequeno experimento de aprendizagem motora
 4. Aplicar esse experimento em outra dupla
 
-Depois, as duplas **trocam de função**.
+Depois, os grupos **trocam de função**.
 
 ## Estrutura
 
@@ -46,7 +46,7 @@ Assim, todos os alunos participam como:
 
 # Etapa 1 – Escolha da habilidade motora
 
-Cada dupla deve escolher **uma habilidade motora**.
+Cada grupo deve escolher **uma habilidade motora**.
 
 Critérios para escolha:
 
@@ -69,13 +69,14 @@ A dupla deve realizar uma **análise da tarefa**, identificando os principais **
 
 Esses componentes devem ser organizados em **ordem hierárquica**, do mais importante para o menos importante.
 
-Essa hierarquia será utilizada para **fornecer feedback técnico**.
+Essa hierarquia será utilizada para **fornecer feedback**.
 
 ## Exemplo – arremesso de basquete
 
-1. **Base e olhar no alvo**
+1. **olhar no alvo**
 2. **Alinhamento do cotovelo**
-3. **Extensão do braço e finalização do punho**
+3. **Extensão do braço**
+4. **Finalização do punho**
 
 ---
 
@@ -97,7 +98,7 @@ Exemplo:
 | Bola no aro | 2 |
 | Bola na tabela | 1 |
 | Erro | 0 |
-
+Base e 
 ## 2. Medida do padrão de movimento
 
 Avalia **como o movimento foi executado**, com base nos componentes da tarefa.
@@ -106,8 +107,9 @@ No exemplo do arremesso do baquete:
 
 | Componente | Correto | Incorreto |
 |------------|---------|-----------|
-| Base e olhar | ✓ | ✗ |
+| olhar | ✓ | ✗ |
 | Cotovelo alinhado | ✓ | ✗ |
+| Extensão do braço | ✓ | ✗ |
 | Finalização do punho | ✓ | ✗ |
 
 ---
@@ -168,7 +170,7 @@ O experimento terá quatro fases:
 
 Antes da prática, cada participante realiza:
 
-**10 tentativas da tarefa**.
+**3 tentativas da tarefa**.
 
 Regras:
 
@@ -184,7 +186,7 @@ Durante a fase de aquisição, os participantes praticam a habilidade.
 
 Cada participante realiza:
 
-**160-200 tentativas em dois dias**
+**entre 30 e 50 tentativas**
 
 seguindo sua condição experimental.
 
@@ -202,9 +204,9 @@ O feedback deve seguir a **hierarquia de componentes da tarefa** definida anteri
 
 ## 3. Teste de retenção
 
-Após no outro dia, os participantes realizam:
+Após 5 minutos, os participantes realizam:
 
-**10 tentativas da mesma tarefa**.
+**3 tentativas da mesma tarefa**.
 
 Regras:
 
@@ -221,7 +223,7 @@ Após o teste de retenção, será realizado um **teste de transferência**.
 
 Nesse teste:
 
-- os participantes realizam **10 tentativas**
+- os participantes realizam **3 tentativas**
 - **nenhum feedback é fornecido**
 - **um elemento da tarefa é modificado**
 
@@ -249,10 +251,10 @@ Arremessar **1–2 metros mais longe**.
 
 | Fase | Nº de tentativas | Feedback | Observação |
 |-----|-----|-----|-----|
-| Pré-teste | 10 | Não | Medida inicial |
-| Aquisição | 100 | 100% ou 50% | Conforme condição |
-| Retenção | 10 | Não | Mesma tarefa do pré-teste |
-| Transferência | 10 | Não | Modificação da tarefa |
+| Pré-teste | 3 | Não | Medida inicial |
+| Aquisição | 30-50 | 100% ou 50% | Conforme condição |
+| Retenção | 3 | Não | Mesma tarefa do pré-teste |
+| Transferência | 3 | Não | Modificação da tarefa |
 
 ---
 
@@ -260,16 +262,16 @@ Arremessar **1–2 metros mais longe**.
 
 Após finalizar o experimento:
 
-- A dupla que foi **participante** passa a ser **instrutora**
-- A dupla que foi **instrutora** passa a ser **participante**
+- O grupo que foi **participante** passa a ser **instrutor**
+- O grupo que foi **instrutor** passa a ser **participante**
 
-Então o experimento da segunda dupla é realizado.
+Então o experimento do segundo grupo é realizado.
 
 ---
 
 # Etapa 7 – Discussão
 
-Após a realização do laboratório, os grupos devem discutir:
+Após a realização do laboratório, os grupos devem discutir e entregar um relatório respondendo as seguintes questões:
 
 - Quem apresentou melhor desempenho **durante a prática**?
 - Quem apresentou melhor desempenho **no teste de retenção**?
