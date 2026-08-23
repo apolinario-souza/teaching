@@ -64,7 +64,7 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | 3 | 14/08 | 5h00 | [Princípios e conceitos da aprendizagem motora][3] | Magill (2000), cap. 4 | — |
 | 4 | 17/08 | 6h40 | Feedback | Schmidt (2008), cap. 10 |  —  |
 | 5 | 21/08 | 8h20 | Feedback | Schmidt (2008), cap. 10 | — |
-| 6 | 24/08 | 10h00 | Variabilidade da prática | Schmidt (2008), cap. 9 |  —  |
+| 6 | 24/08 | 10h00 | [Variabilidade da prática][9] | Schmidt (2008), cap. 9 |  —  |
 | 7 | 28/08 | 11h40 | Variabilidade da prática | Schmidt (2008), cap. 9 |  —  |
 | 8 | 31/08 | 13h20 | Ponto de desafio: otimizando a aprendizagem  | Schmidt (2008), cap. 9 |  —  |
 | 9 | 04/09 | 15h00 | **Avaliação 1** | — | — |
