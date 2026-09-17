@@ -68,7 +68,7 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | 7 | 28/08 | 11h40 | [Variabilidade da prática][9] | Schmidt (2008), cap. 9 |  —  |
 | 8 | 31/08 | 13h20 | Ponto de desafio: otimizando a aprendizagem  | Schmidt (2008), cap. 9 |  —  |
 | 9 | 04/09 | 15h00 | **Avaliação 1** | — | — |
-| 10 | 11/09 | 16h40 | Prática mental  | Magill (2000), cap. 6.5 | Link |
+| 10 | 11/09 | 16h40 | [Prática mental][10]  | Magill (2000), cap. 6.5 | Link |
 | 11 | 14/09 | 18h20 | [Fragmentação da prática e relação entre prática e repouso][11] | Magill (2000), cap. 6.2–6.4 |  —  |
 | 12 | 18/09 | 20h00 | [Fragmentação da prática e relação entre prática e repouso][11] | Magill (2000), cap. 6.2–6.4 |  —  |
 | 13 | 21/09 | 21h40 | Instrução verbal|  Schmidt (2008), cap. 8 | |
