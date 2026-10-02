@@ -71,8 +71,8 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | 10 | 11/09 | 16h40 | [Prática mental][10]  | Magill (2000), cap. 6.5 | Link |
 | 11 | 14/09 | 18h20 | [Fragmentação da prática e relação entre prática e repouso][11] | Magill (2000), cap. 6.2–6.4 |  —  |
 | 12 | 18/09 | 20h00 | [Fragmentação da prática e relação entre prática e repouso][11] | Magill (2000), cap. 6.2–6.4 |  —  |
-| 13 | 21/09 | 21h40 | Instrução verbal|  Schmidt (2008), cap. 8 | |
-| 14 | 25/09 | 23h20 | Instrução verbal|  Schmidt (2008), cap. 8 | |
+| 13 | 21/09 | 21h40 | [Instrução verbal][12]|  Schmidt (2008), cap. 8 | |
+| 14 | 25/09 | 23h20 | [Instrução verbal][12]|  Schmidt (2008), cap. 8 | |
 | 15 | 28/09 | 25h00 | Demonstração e Metas | Schmidt (2008), cap. 8 ||
 | 16 | 02/10 | 26h40 | Demonstração e Metas | Schmidt (2008), cap. 8 ||
 | 17 | 05/10 | 28h20 | Transferência de Aprendizagem  | Schmidt (2008), cap. 7 | — |
@@ -114,7 +114,8 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [9]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/09/09.pdf#1
 [10]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/10/10.pdf#1
 [11]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/11/11.pdf#1
-[12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/12.html
+[12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/Instrucao_verbal.pdf
+
 [13]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Kleynen%20et%20al.%2C%202018).pdf
 
 
