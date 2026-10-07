@@ -89,7 +89,7 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | 28 | 20/11 | 46h40 | Papel da atenção no controle motor|  Schmidt (2016), cap. 2| ||
 | 29 | 23/11 | 48h20 | Papel da atenção no controle motor|  Schmidt (2016), cap. 2| ||
 | 30 | 27/11 | 50h00 | Contribuições sensoriais para o controle motor |Schmidt (2016), cap. 4|
-| 31 | 30/11 | 51h40 | Contribuições sensoriais para o controle motor |Schmidt (2016), cap. 4|
+| 31 | 30/11 | 51h40 | Controle postural|Schmidt (2016), cap. 4|
 | 32 | 04/12 | 53h20 |**Avaliação 3** | — | — |
 | 33 | 07/12 | 55h00 | Recuperação | — | — |
 
