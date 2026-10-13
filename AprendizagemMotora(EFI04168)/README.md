@@ -75,8 +75,8 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | 14 | 25/09 | 23h20 | [Instrução verbal][12]|  Schmidt (2008), cap. 8 | |
 | 15 | 28/09 | 25h00 | [Demonstração e Metas][13] | Schmidt (2008), cap. 8 ||
 | 16 | 02/10 | 26h40 | [Demonstração e Metas][13] | Schmidt (2008), cap. 8 ||
-| 17 | 05/10 | 28h20 | Transferência de Aprendizagem  | Schmidt (2008), cap. 7 | — |
-| 18 | 09/10 | 30h00 | Transferência de Aprendizagem  | Schmidt (2008), cap. 7 | — |
+| 17 | 05/10 | 28h20 | [Transferência de Aprendizagem][14]| Schmidt (2008), cap. 7 | — |
+| 18 | 09/10 | 30h00 | [Transferência de Aprendizagem][14]| Schmidt (2008), cap. 7 | — |
 | 19 | 16/10 | 31h40 | **Avaliação 2** | — | — |
 | 20 | 19/10 | 33h20 | Organização e coleta de dados para o trabalho (sem aula coletiva)  
 | 21 | 23/10 | 35h00 | Organização e coleta de dados para o trabalho (sem aula coletiva) 
@@ -116,6 +116,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [11]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/11/11.pdf#1
 [12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/Instrucao_verbal.pdf
 [13]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/Demostracao.pdf
+[14]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/Transferencia.pdf
 
 
 
