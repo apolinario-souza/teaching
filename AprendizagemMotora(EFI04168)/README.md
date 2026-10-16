@@ -86,8 +86,8 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | 25 | 09/11 | 41h40 | Teorias de controle e aprendizagem motora | Magill (2000), cap. 2.1 | |
 | 26 | 13/11 | 43h20 | Processamento de informações e tomada de decisão  |  Schmidt (2016), cap. 2| |
 | 27 | 16/11 | 45h00 | Processamento de informações e tomada de decisão |  Schmidt (2016), cap. 2| |
-| 28 | 20/11 | 46h40 | Papel da atenção no controle motor|  Schmidt (2016), cap. 2| ||
-| 29 | 23/11 | 48h20 | Papel da atenção no controle motor|  Schmidt (2016), cap. 2| ||
+| 28 | 20/11 | 46h40 | Processamento de informações e tomada de decisão|  Schmidt (2016), cap. 2| ||
+| 29 | 23/11 | 48h20 | Contribuições sensoriais para o controle motor|  Schmidt (2016), cap. 4| ||
 | 30 | 27/11 | 50h00 | Contribuições sensoriais para o controle motor |Schmidt (2016), cap. 4|
 | 31 | 30/11 | 51h40 | Controle postural|Schmidt (2016), cap. 4|
 | 32 | 04/12 | 53h20 |**Avaliação 3** | — | — |
