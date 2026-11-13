@@ -82,8 +82,8 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | 21 | 23/10 | 35h00 | Organização e coleta de dados para o trabalho (sem aula coletiva) 
 | 22 | 26/10 | 36h40 | Organização e coleta de dados  para o trabalho (sem aula coletiva)
 | 23 | 30/10 | 38h20 | Organização e coleta de dados  para o trabalho (sem aula coletiva) 
-| 24 | 06/11 | 40h00 | **- Entrega da Pesquisa em Aprendizagem Motora** <br> - Teorias de controle e aprendizagem motora | Magill (2000), cap. 2.1 | | 
-| 25 | 09/11 | 41h40 | Teorias de controle e aprendizagem motora | Magill (2000), cap. 2.1 | |
+| 24 | 06/11 | 40h00 | **- Entrega da Pesquisa em Aprendizagem Motora** <br> - [Teorias de controle e aprendizagem motora][15] | Magill (2000), cap. 2.1 | | 
+| 25 | 09/11 | 41h40 | [Teorias de controle e aprendizagem motora][15] | Magill (2000), cap. 2.1 | |
 | 26 | 13/11 | 43h20 | Processamento de informações e tomada de decisão  |  Schmidt (2016), cap. 2| |
 | 27 | 16/11 | 45h00 | Processamento de informações e tomada de decisão |  Schmidt (2016), cap. 2| |
 | 28 | 20/11 | 46h40 | Processamento de informações e tomada de decisão|  Schmidt (2016), cap. 2| ||
@@ -117,6 +117,7 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [12]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/12/Instrucao_verbal.pdf
 [13]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/Demostracao.pdf
 [14]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/Transferencia.pdf
+[15]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/Teorias_de_aprendizagem.pdf
 
 
 
