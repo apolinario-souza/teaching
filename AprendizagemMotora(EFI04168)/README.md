@@ -84,9 +84,9 @@ Como realizar o download dos slides da aula, clique [aqui](https://youtu.be/fTLS
 | 23 | 30/10 | 38h20 | Organização e coleta de dados  para o trabalho (sem aula coletiva) 
 | 24 | 06/11 | 40h00 | **- Entrega da Pesquisa em Aprendizagem Motora** <br> - [Teorias de controle e aprendizagem motora][15] | Magill (2000), cap. 2.1 | | 
 | 25 | 09/11 | 41h40 | [Teorias de controle e aprendizagem motora][15] | Magill (2000), cap. 2.1 | |
-| 26 | 13/11 | 43h20 | Processamento de informações e tomada de decisão  |  Schmidt (2016), cap. 2| |
-| 27 | 16/11 | 45h00 | Processamento de informações e tomada de decisão |  Schmidt (2016), cap. 2| |
-| 28 | 20/11 | 46h40 | Processamento de informações e tomada de decisão|  Schmidt (2016), cap. 2| ||
+| 26 | 13/11 | 43h20 | [Processamento de informações e tomada de decisão][16]  |  Schmidt (2016), cap. 2| |
+| 27 | 16/11 | 45h00 | [Processamento de informações e tomada de decisão][16] |  Schmidt (2016), cap. 2| |
+| 28 | 20/11 | 46h40 | [Processamento de informações e tomada de decisão][16]|  Schmidt (2016), cap. 2| ||
 | 29 | 23/11 | 48h20 | Contribuições sensoriais para o controle motor|  Schmidt (2016), cap. 4| ||
 | 30 | 27/11 | 50h00 | Contribuições sensoriais para o controle motor |Schmidt (2016), cap. 4|
 | 31 | 30/11 | 51h40 | Controle postural|Schmidt (2016), cap. 4|
@@ -118,11 +118,12 @@ Alterações no cronograma e conteúdo programático poderão ocorrer no decorre
 [13]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/Demostracao.pdf
 [14]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/Transferencia.pdf
 [15]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/Teorias_de_aprendizagem.pdf
+[16]:https://apolinario-souza.github.io/Aprendizagem_Motora_graduacao/Processamento_informacao.pdf
 
 
 
 
-[16]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Otte%20et%20al.%2C%202019).pdf
+
 
 [17]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/trabalhos/roteiro_pesquisa_em_AM.md
 [18]:https://github.com/apolinario-souza/teaching/blob/main/AprendizagemMotora(EFI04168)/complementar/(Otte%20et%20al.%2C%202020).pdf
